@@ -1,190 +1,1455 @@
-Ethnic group,Age band,Economically active:Employee,Economically active:Self-Employed,Economically active:Unemployed,Economically inactive:Student,Economically inactive:Looking after home or family,Economically inactive:long term sick or disabled,Economically inactive:retired,Economically inactive:other
-Asian: Bangladeshi,16-19,5855,220,4785,37780,320,95,10,815
-Asian: Bangladeshi,20-24,26515,1180,7245,13590,2755,765,15,3085
-Asian: Bangladeshi,25-29,29770,2270,3945,2025,6845,900,20,3225
-Asian: Bangladeshi,30-34,28515,3740,2875,1165,13105,1255,45,3735
-Asian: Bangladeshi,35-39,26490,5475,2635,1040,15420,1585,40,3480
-Asian: Bangladeshi,40-44,25770,7260,2565,885,14465,2025,85,3385
-Asian: Bangladeshi,45-49,19670,7200,2030,490,10880,2315,160,2875
-Asian: Bangladeshi,50-54,11535,5245,1425,245,6815,2410,360,2360
-Asian: Bangladeshi,55-59,5300,2650,875,110,4050,2360,685,1865
-Asian: Bangladeshi,60-64,2825,1495,635,50,2540,2660,1690,1480
-Asian: Chinese,16-19,1485,145,685,20445,35,15,0,175
-Asian: Chinese,20-24,10775,1080,3175,44510,365,120,0,970
-Asian: Chinese,25-29,23765,2205,1910,12400,1075,180,15,1405
-Asian: Chinese,30-34,26590,3530,1420,2665,3445,220,20,1560
-Asian: Chinese,35-39,26530,4880,1275,720,5360,260,50,1600
-Asian: Chinese,40-44,22625,5365,1285,410,5005,345,105,1520
-Asian: Chinese,45-49,18240,5085,1165,270,4390,385,270,1630
-Asian: Chinese,50-54,14095,4170,995,180,3295,455,1085,1540
-Asian: Chinese,55-59,10775,3455,755,90,2660,540,2780,1560
-Asian: Chinese,60-64,6485,2370,545,55,1680,635,6090,1015
-Asian: Indian,16-19,10240,500,6115,63290,295,90,0,1025
-Asian: Indian,20-24,55855,3080,13605,38040,1895,655,30,3265
-Asian: Indian,25-29,94145,7550,9340,8820,6870,1175,25,4530
-Asian: Indian,30-34,123460,14475,7345,2870,15900,1515,45,6000
-Asian: Indian,35-39,137235,21535,7060,1575,18470,2030,55,6280
-Asian: Indian,40-44,122465,23970,6255,865,14175,2815,110,5720
-Asian: Indian,45-49,92490,19590,4695,480,10490,3455,260,4985
-Asian: Indian,50-54,71390,16190,3905,310,8850,4250,1050,4745
-Asian: Indian,55-59,51650,12755,3085,205,8250,5200,4290,4785
-Asian: Indian,60-64,36535,10945,2585,105,7645,6340,14655,4990
-Asian: Pakistani,16-19,13475,565,9540,86195,980,360,15,3105
-Asian: Pakistani,20-24,55030,3475,14820,31055,6760,2125,35,8140
-Asian: Pakistani,25-29,68555,8600,8545,4460,16185,2810,35,8640
-Asian: Pakistani,30-34,67845,15425,6495,2065,28610,3435,55,9085
-Asian: Pakistani,35-39,64765,21075,5860,1640,32700,4460,155,9100
-Asian: Pakistani,40-44,57280,23155,5055,1255,29805,5180,130,8240
-Asian: Pakistani,50-54,29465,16390,2980,350,17240,6375,625,5965
-Asian: Pakistani, 55-59,14680,9210,1600,155,10700,5340,1460,4330
-Asian: Pakistani, 60-64,9490,7025,1245,105,8615,6705,5000,4430
-Black: African,16-19,10445,605,12110,84515,320,155,10,1895
-Black: African,20-24,50920,3705,19990,37935,2555,1115,35,6750
-Black: African,25-29,68510,6630,12580,8500,6385,1650,35,7625
-Black: African,30-34,68360,9275,10105,6155,11165,1885,35,7250
-Black: African,35-39,72025,12430,9205,5100,12375,2200,55,7320
-Black: African,40-44,78850,15410,8290,4590,11135,2890,160,7345
-Black: African,45-49,73100,15535,7180,3235,8200,3445,120,6960
-Black: African,50-54,64150,14665,5560,2030,6220,4750,350,6780
-Black: African,55-59,42955,10340,3785,1155,3680,4585,1095,5265
-Black: African,60-64,23605,5915,2195,345,2025,3940,2990,3550
-Black: Caribbean,16-19,4395,210,4505,19030,265,115,0,1115
-Black: Caribbean,20-24,19550,1570,6925,7230,1290,880,15,3055
-Black: Caribbean,25-29,27155,2745,4650,1675,2090,1180,65,3105
-Black: Caribbean,30-34,27425,3570,3645,1125,2800,1430,30,2825
-Black: Caribbean,35-39,26140,3755,2975,875,2915,1780,35,2295
-Black: Caribbean,40-44,24340,4080,2440,670,2500,1970,45,2085
-Black: Caribbean,45-49,25595,4255,2535,600,2065,2530,90,2190
-Black: Caribbean,50-54,36440,5990,3495,515,2750,4870,425,3220
-Black: Caribbean,55-59,40780,6810,3940,570,2810,6690,2280,4245
-Black: Caribbean,60-64,23830,4685,2735,200,1775,5125,6205,3390
-Black: Other Black,16-19,2290,105,2475,18220,80,110,0,575
-Black: Other Black,20-24,8065,670,3295,4915,495,400,15,1670
-Black: Other Black,25-29,9595,1115,1925,820,645,545,0,1425
-Black: Other Black,30-34,8205,1230,1230,450,1005,650,0,1120
-Black: Other Black,35-39,8040,1375,1055,400,1100,720,0,1090
-Black: Other Black,40-44,7660,1495,955,340,1000,865,20,1085
-Black: Other Black,45-49,7400,1335,920,220,795,1050,35,825
-Black: Other Black,50-54,10055,1815,1110,275,860,1890,125,1445
-Black: Other Black,55-59,10875,1930,1340,200,945,2340,620,1435
-Black: Other Black,60-64,4800,1020,635,75,410,1355,1245,815
-Mixed: White and Asian,16-19,6440,445,3385,29250,195,180,0,960
-Mixed: White and Asian,20-24,19895,1895,4190,12915,835,710,0,1675
-Mixed: White and Asian,25-29,24860,2865,1990,1555,1130,795,10,1335
-Mixed: White and Asian,30-34,21070,3495,1295,580,1550,820,0,1145
-Mixed: White and Asian,35-39,15790,3255,870,340,1560,825,20,815
-Mixed: White and Asian,40-44,11955,2830,595,205,1300,850,40,675
-Mixed: White and Asian,45-49,9390,2400,565,150,965,895,55,560
-Mixed: White and Asian,50-54,9075,2520,555,100,930,1180,195,625
-Mixed: White and Asian,55-59,6840,2085,490,65,795,1035,830,635
-Mixed: White and Asian,60-64,3255,1135,255,15,385,745,1650,320
-Mixed: White and Black African,16-19,3095,200,2335,13350,135,110,0,580
-Mixed: White and Black African,20-24,9575,1080,2740,4800,530,425,0,1105
-Mixed: White and Black African,25-29,9770,1440,1295,730,780,520,0,840
-Mixed: White and Black African,30-34,8585,1695,930,425,1040,450,0,660
-Mixed: White and Black African,35-39,7950,1615,800,290,1095,520,0,550
-Mixed: White and Black African,40-44,7035,1570,710,270,925,605,20,545
-Mixed: White and Black African,45-49,5595,1285,525,130,710,590,15,400
-Mixed: White and Black African,50-54,4630,1105,470,75,460,660,45,480
-Mixed: White and Black African,55-59,3545,930,335,50,355,825,225,415
-Mixed: White and Black African,60-64,2005,550,230,20,235,615,545,290
-Mixed: White and Black Caribbean,16-19,8545,495,6025,26140,490,415,0,1810
-Mixed: White and Black Caribbean,20-24,26695,2685,6800,7700,2250,1680,25,3700
-Mixed: White and Black Caribbean,25-29,29800,4030,3720,1600,3350,2070,20,3150
-Mixed: White and Black Caribbean,30-34,25490,4410,2660,895,3470,2185,30,2465
-Mixed: White and Black Caribbean,35-39,17400,3340,1580,590,2595,1985,25,1675
-Mixed: White and Black Caribbean,40-44,11805,2550,1165,275,1545,1715,35,1125
-Mixed: White and Black Caribbean,45-49,9690,2055,880,205,1095,1715,35,855
-Mixed: White and Black Caribbean,50-54,9590,2115,845,155,1055,2310,170,975
-Mixed: White and Black Caribbean,55-59,7740,1695,765,75,825,2120,555,925
-Mixed: White and Black Caribbean,60-64,3635,905,450,40,420,1225,1125,500
-Mixed: Other Mixed groups,16-19,4890,370,3505,22385,255,165,0,970
-Mixed: Other Mixed groups,20-24,17060,2035,4540,9625,975,860,20,2065
-Mixed: Other Mixed groups,25-29,23155,3500,2745,1990,1635,970,10,1810
-Mixed: Other Mixed groups,30-34,24330,4580,2025,1225,2405,1080,20,1660
-Mixed: Other Mixed groups,35-39,21345,4800,1590,710,2480,1145,25,1380
-Mixed: Other Mixed groups,40-44,16895,4285,1325,390,2015,1170,35,1130
-Mixed: Other Mixed groups,45-49,12615,3485,1115,295,1445,1250,65,915
-Mixed: Other Mixed groups,50-54,10370,3030,970,205,1180,1500,255,910
-Mixed: Other Mixed groups,55-59,7580,2180,665,165,940,1560,675,810
-Mixed: Other Mixed groups,60-64,3980,1320,425,55,530,1080,1500,570
-White: English,16-19,513515,24875,193850,1053530,15140,14170,250,55820
-White: English,20-24,1507650,129070,192455,390705,76445,68600,735,107980
-White: English,25-29,1949795,218285,110965,56755,132725,92115,945,96630
-White: English,30-34,1944030,299405,86815,27765,175035,103495,1110,87010
-White: English,35-39,1778810,320165,68785,18200,165715,112055,1745,72845
-White: English,40-44,1700510,327030,61895,12965,140485,125590,3435,67400
-White: English,45-49,1864120,377405,68635,10440,141250,170705,9575,79080
-White: English,50-54,2123055,460395,82490,8610,166250,233410,47755,105710
-White: English,55-59,1940760,468155,89065,6940,182960,273410,250710,120305
-White: English,60-64,1258305,362785,72585,4270,139650,265250,730775,98385
-White: Gypsy,16-19,655,170,505,1705,525,145,10,805
-White: Gypsy,20-24,1535,525,530,270,870,420,15,885
-White: Gypsy,25-29,1435,640,330,85,1115,460,15,815
-White: Gypsy,30-34,1545,810,275,60,1215,560,10,710
-White: Gypsy,35-39,1270,840,265,75,1030,545,20,565
-White: Gypsy,40-44,1230,900,185,110,770,680,25,500
-White: Gypsy,45-49,1120,785,165,30,645,800,30,425
-White: Gypsy,50-54,955,680,135,30,565,1010,60,435
-White: Gypsy,55-59,715,545,100,10,420,935,110,370
-White: Gypsy,60-64,390,370,55,0,300,785,245,255
-White: Irish,16-19,1815,140,1050,6885,60,55,0,195
-White: Irish,20-24,10200,915,1820,5955,265,300,15,590
-White: Irish,25-29,21185,2225,1025,1080,530,435,20,780
-White: Irish,30-34,24020,3435,810,410,935,585,20,720
-White: Irish,35-39,22275,4285,840,270,1375,850,35,730
-White: Irish,40-44,21560,4890,940,205,1585,1165,45,845
-White: Irish,45-49,23290,5645,1220,195,1720,1665,185,1070
-White: Irish,50-54,28520,7110,1510,200,2175,2985,565,1580
-White: Irish,55-59,26835,7840,1530,165,2265,3830,3085,1870
-White: Irish,60-64,17380,5900,1315,130,1715,3955,9100,1555
-White: Roma,16-19,605,140,420,2385,205,25,15,375
-White: Roma,20-24,5035,1035,790,1135,715,70,35,765
-White: Roma,25-29,9220,2195,845,515,890,105,25,1030
-White: Roma,30-34,9555,2760,830,235,1105,120,20,860
-White: Roma,35-39,6590,2455,650,165,875,185,30,675
-White: Roma,40-44,4800,1940,490,70,640,225,35,530
-White: Roma,45-49,3665,1445,360,70,465,320,50,410
-White: Roma,50-54,2375,955,255,35,345,310,80,310
-White: Roma,55-59,1335,505,145,20,240,310,80,230
-White: Roma,60-64,615,310,65,0,145,240,190,160
-White: Other White,16-19,21120,2470,12610,89695,1250,290,45,3370
-White: Other White,20-24,127785,20740,22005,56990,7015,1380,140,9310
-White: Other White,25-29,263745,48195,18410,15915,15340,2040,170,12335
-White: Other White,30-34,337830,72500,18285,7975,24265,2630,170,13510
-White: Other White,35-39,335475,82490,17220,4700,28270,3905,215,12775
-White: Other White,40-44,276480,79355,14400,3410,23215,4910,330,11020
-White: Other White,45-49,191425,60855,10740,2160,16235,5870,705,8960
-White: Other White,50-54,132620,44075,7915,1295,12745,7005,1790,7790
-White: Other White,55-59,84725,29720,5415,745,9850,7790,5710,6730
-White: Other White,60-64,48580,19385,3475,395,6810,7550,16455,5335
-Other ethnic group: Arab,16-19,1450,125,1660,19640,165,55,0,635
-Other ethnic group: Arab,20-24,7140,765,3340,12925,1445,290,15,1645
-Other ethnic group: Arab,25-29,11635,1655,2555,4195,3565,475,25,2180
-Other ethnic group: Arab,30-34,12975,2345,2110,3580,5430,650,30,2300
-Other ethnic group: Arab,35-39,12340,2855,1950,2285,6215,960,70,2250
-Other ethnic group: Arab,40-44,10830,3050,1815,1300,5230,1255,60,1980
-Other ethnic group: Arab,45-49,8405,2860,1265,695,3845,1700,90,1555
-Other ethnic group: Arab,50-54,6655,2715,975,335,3060,1925,170,1365
-Other ethnic group: Arab,55-59,4790,1925,695,180,1855,2045,415,1265
-Other ethnic group: Arab,60-64,2670,1260,385,80,1075,1685,1175,800
-Other ethnic group: Any other ethnic group,16-19,5515,540,3730,35095,540,110,20,1870
-Other ethnic group: Any other ethnic group,20-24,25935,3455,7060,16750,2975,695,70,5410
-Other ethnic group: Any other ethnic group,25-29,40810,7595,5575,5180,6270,1125,65,7190
-Other ethnic group: Any other ethnic group,30-34,46655,11130,5180,3485,10940,1550,80,7475
-Other ethnic group: Any other ethnic group,35-39,47735,13420,4775,2415,12235,2155,80,7175
-Other ethnic group: Any other ethnic group,40-44,45695,14005,4295,1680,10925,2655,125,6095
-Other ethnic group: Any other ethnic group,45-49,37900,12460,3220,1075,7870,3495,245,5060
-Other ethnic group: Any other ethnic group,50-54,30640,10045,2620,705,5915,4185,525,4330
-Other ethnic group: Any other ethnic group,55-59,21820,7470,1885,350,4565,4625,1550,3850
-Other ethnic group: Any other ethnic group,60-64,13945,5355,1270,165,3520,4335,4930,3115
-England and Wales overall,16-19,621550,32645,272985,1672980,21495,16760,425,77340
-England and Wales overall,20-24,2014485,181065,322450,722215,112410,81960,1260,166275
-England and Wales overall,25-29,2635615,608465,120370,16140,248525,283965,56220,154140
-England and Wales overall,30-34,2677835,520385,133005,44040,326200,139555,2755,137845
-England and Wales overall,35-39,1477425,436595,92220,6240,183170,316725,809830,133390
-England and Wales overall,40-44,2499935,535705,118085,31710,280780,158705,4975,125860
-England and Wales overall,45-49,2755550,328265,196650,133720,212625,110330,1545,163065
-England and Wales overall,50-54,2497950,557120,113830,22425,245455,209970,12540,129440
-England and Wales overall,55-59,2309055,576135,118075,11470,243580,328295,278730,163695
-England and Wales overall,60-64,2861605,465125,158230,66565,314300,125530,1790,155650
+Ethnic group,Age,Economic status,Total
+Asian: Bangladeshi,16-19,Economically active:Employee,5855
+Asian: Bangladeshi,16-19,Economically active:Self-Employed,220
+Asian: Bangladeshi,16-19,Economically active:Unemployed,4785
+Asian: Bangladeshi,16-19,Economically inactive:Student,37780
+Asian: Bangladeshi,16-19,Economically inactive:Looking after home or family,320
+Asian: Bangladeshi,16-19,Economically inactive:long term sick,95
+Asian: Bangladeshi,16-19,Economically inactive:retired,10
+Asian: Bangladeshi,16-19,Economically inactive:other,815
+Asian: Bangladeshi,20-24,Economically active:Employee,26515
+Asian: Bangladeshi,20-24,Economically active:Self-Employed,1180
+Asian: Bangladeshi,20-24,Economically active:Unemployed,7245
+Asian: Bangladeshi,20-24,Economically inactive:Student,13590
+Asian: Bangladeshi,20-24,Economically inactive:Looking after home or family,2755
+Asian: Bangladeshi,20-24,Economically inactive:long term sick,765
+Asian: Bangladeshi,20-24,Economically inactive:retired,15
+Asian: Bangladeshi,20-24,Economically inactive:other,3085
+Asian: Bangladeshi,25-29,Economically active:Employee,29770
+Asian: Bangladeshi,25-29,Economically active:Self-Employed,2270
+Asian: Bangladeshi,25-29,Economically active:Unemployed,3945
+Asian: Bangladeshi,25-29,Economically inactive:Student,2025
+Asian: Bangladeshi,25-29,Economically inactive:Looking after home or family,6845
+Asian: Bangladeshi,25-29,Economically inactive:long term sick,900
+Asian: Bangladeshi,25-29,Economically inactive:retired,20
+Asian: Bangladeshi,25-29,Economically inactive:other,3225
+Asian: Bangladeshi,30-34,Economically active:Employee,28515
+Asian: Bangladeshi,30-34,Economically active:Self-Employed,3740
+Asian: Bangladeshi,30-34,Economically active:Unemployed,2875
+Asian: Bangladeshi,30-34,Economically inactive:Student,1165
+Asian: Bangladeshi,30-34,Economically inactive:Looking after home or family,13105
+Asian: Bangladeshi,30-34,Economically inactive:long term sick,1255
+Asian: Bangladeshi,30-34,Economically inactive:retired,45
+Asian: Bangladeshi,30-34,Economically inactive:other,3735
+Asian: Bangladeshi,35-39,Economically active:Employee,26490
+Asian: Bangladeshi,35-39,Economically active:Self-Employed,5475
+Asian: Bangladeshi,35-39,Economically active:Unemployed,2635
+Asian: Bangladeshi,35-39,Economically inactive:Student,1040
+Asian: Bangladeshi,35-39,Economically inactive:Looking after home or family,15420
+Asian: Bangladeshi,35-39,Economically inactive:long term sick,1585
+Asian: Bangladeshi,35-39,Economically inactive:retired,40
+Asian: Bangladeshi,35-39,Economically inactive:other,3480
+Asian: Bangladeshi,40-44,Economically active:Employee,25770
+Asian: Bangladeshi,40-44,Economically active:Self-Employed,7260
+Asian: Bangladeshi,40-44,Economically active:Unemployed,2565
+Asian: Bangladeshi,40-44,Economically inactive:Student,885
+Asian: Bangladeshi,40-44,Economically inactive:Looking after home or family,14465
+Asian: Bangladeshi,40-44,Economically inactive:long term sick,2025
+Asian: Bangladeshi,40-44,Economically inactive:retired,85
+Asian: Bangladeshi,40-44,Economically inactive:other,3385
+Asian: Bangladeshi,45-49,Economically active:Employee,19670
+Asian: Bangladeshi,45-49,Economically active:Self-Employed,7200
+Asian: Bangladeshi,45-49,Economically active:Unemployed,2030
+Asian: Bangladeshi,45-49,Economically inactive:Student,490
+Asian: Bangladeshi,45-49,Economically inactive:Looking after home or family,10880
+Asian: Bangladeshi,45-49,Economically inactive:long term sick,2315
+Asian: Bangladeshi,45-49,Economically inactive:retired,160
+Asian: Bangladeshi,45-49,Economically inactive:other,2875
+Asian: Bangladeshi,50-54,Economically active:Employee,11535
+Asian: Bangladeshi,50-54,Economically active:Self-Employed,5245
+Asian: Bangladeshi,50-54,Economically active:Unemployed,1425
+Asian: Bangladeshi,50-54,Economically inactive:Student,245
+Asian: Bangladeshi,50-54,Economically inactive:Looking after home or family,6815
+Asian: Bangladeshi,50-54,Economically inactive:long term sick,2410
+Asian: Bangladeshi,50-54,Economically inactive:retired,360
+Asian: Bangladeshi,50-54,Economically inactive:other,2360
+Asian: Bangladeshi,55-59,Economically active:Employee,5300
+Asian: Bangladeshi,55-59,Economically active:Self-Employed,2650
+Asian: Bangladeshi,55-59,Economically active:Unemployed,875
+Asian: Bangladeshi,55-59,Economically inactive:Student,110
+Asian: Bangladeshi,55-59,Economically inactive:Looking after home or family,4050
+Asian: Bangladeshi,55-59,Economically inactive:long term sick,2360
+Asian: Bangladeshi,55-59,Economically inactive:retired,685
+Asian: Bangladeshi,55-59,Economically inactive:other,1865
+Asian: Bangladeshi,60-64,Economically active:Employee,2825
+Asian: Bangladeshi,60-64,Economically active:Self-Employed,1495
+Asian: Bangladeshi,60-64,Economically active:Unemployed,635
+Asian: Bangladeshi,60-64,Economically inactive:Student,50
+Asian: Bangladeshi,60-64,Economically inactive:Looking after home or family,2540
+Asian: Bangladeshi,60-64,Economically inactive:long term sick,2660
+Asian: Bangladeshi,60-64,Economically inactive:retired,1690
+Asian: Bangladeshi,60-64,Economically inactive:other,1480
+Asian: Chinese,16-19,Economically active:Employee,1485
+Asian: Chinese,16-19,Economically active:Self-Employed,145
+Asian: Chinese,16-19,Economically active:Unemployed,685
+Asian: Chinese,16-19,Economically inactive:Student,20445
+Asian: Chinese,16-19,Economically inactive:Looking after home or family,35
+Asian: Chinese,16-19,Economically inactive:long term sick,15
+Asian: Chinese,16-19,Economically inactive:retired,0
+Asian: Chinese,16-19,Economically inactive:other,175
+Asian: Chinese,20-24,Economically active:Employee,10775
+Asian: Chinese,20-24,Economically active:Self-Employed,1080
+Asian: Chinese,20-24,Economically active:Unemployed,3175
+Asian: Chinese,20-24,Economically inactive:Student,44510
+Asian: Chinese,20-24,Economically inactive:Looking after home or family,365
+Asian: Chinese,20-24,Economically inactive:long term sick,120
+Asian: Chinese,20-24,Economically inactive:retired,0
+Asian: Chinese,20-24,Economically inactive:other,970
+Asian: Chinese,25-29,Economically active:Employee,23765
+Asian: Chinese,25-29,Economically active:Self-Employed,2205
+Asian: Chinese,25-29,Economically active:Unemployed,1910
+Asian: Chinese,25-29,Economically inactive:Student,12400
+Asian: Chinese,25-29,Economically inactive:Looking after home or family,1075
+Asian: Chinese,25-29,Economically inactive:long term sick,180
+Asian: Chinese,25-29,Economically inactive:retired,15
+Asian: Chinese,25-29,Economically inactive:other,1405
+Asian: Chinese,30-34,Economically active:Employee,26590
+Asian: Chinese,30-34,Economically active:Self-Employed,3530
+Asian: Chinese,30-34,Economically active:Unemployed,1420
+Asian: Chinese,30-34,Economically inactive:Student,2665
+Asian: Chinese,30-34,Economically inactive:Looking after home or family,3445
+Asian: Chinese,30-34,Economically inactive:long term sick,220
+Asian: Chinese,30-34,Economically inactive:retired,20
+Asian: Chinese,30-34,Economically inactive:other,1560
+Asian: Chinese,35-39,Economically active:Employee,26530
+Asian: Chinese,35-39,Economically active:Self-Employed,4880
+Asian: Chinese,35-39,Economically active:Unemployed,1275
+Asian: Chinese,35-39,Economically inactive:Student,720
+Asian: Chinese,35-39,Economically inactive:Looking after home or family,5360
+Asian: Chinese,35-39,Economically inactive:long term sick,260
+Asian: Chinese,35-39,Economically inactive:retired,50
+Asian: Chinese,35-39,Economically inactive:other,1600
+Asian: Chinese,40-44,Economically active:Employee,22625
+Asian: Chinese,40-44,Economically active:Self-Employed,5365
+Asian: Chinese,40-44,Economically active:Unemployed,1285
+Asian: Chinese,40-44,Economically inactive:Student,410
+Asian: Chinese,40-44,Economically inactive:Looking after home or family,5005
+Asian: Chinese,40-44,Economically inactive:long term sick,345
+Asian: Chinese,40-44,Economically inactive:retired,105
+Asian: Chinese,40-44,Economically inactive:other,1520
+Asian: Chinese,45-49,Economically active:Employee,18240
+Asian: Chinese,45-49,Economically active:Self-Employed,5085
+Asian: Chinese,45-49,Economically active:Unemployed,1165
+Asian: Chinese,45-49,Economically inactive:Student,270
+Asian: Chinese,45-49,Economically inactive:Looking after home or family,4390
+Asian: Chinese,45-49,Economically inactive:long term sick,385
+Asian: Chinese,45-49,Economically inactive:retired,270
+Asian: Chinese,45-49,Economically inactive:other,1630
+Asian: Chinese,50-54,Economically active:Employee,14095
+Asian: Chinese,50-54,Economically active:Self-Employed,4170
+Asian: Chinese,50-54,Economically active:Unemployed,995
+Asian: Chinese,50-54,Economically inactive:Student,180
+Asian: Chinese,50-54,Economically inactive:Looking after home or family,3295
+Asian: Chinese,50-54,Economically inactive:long term sick,455
+Asian: Chinese,50-54,Economically inactive:retired,1085
+Asian: Chinese,50-54,Economically inactive:other,1540
+Asian: Chinese,55-59,Economically active:Employee,10775
+Asian: Chinese,55-59,Economically active:Self-Employed,3455
+Asian: Chinese,55-59,Economically active:Unemployed,755
+Asian: Chinese,55-59,Economically inactive:Student,90
+Asian: Chinese,55-59,Economically inactive:Looking after home or family,2660
+Asian: Chinese,55-59,Economically inactive:long term sick,540
+Asian: Chinese,55-59,Economically inactive:retired,2780
+Asian: Chinese,55-59,Economically inactive:other,1560
+Asian: Chinese,60-64,Economically active:Employee,6485
+Asian: Chinese,60-64,Economically active:Self-Employed,2370
+Asian: Chinese,60-64,Economically active:Unemployed,545
+Asian: Chinese,60-64,Economically inactive:Student,55
+Asian: Chinese,60-64,Economically inactive:Looking after home or family,1680
+Asian: Chinese,60-64,Economically inactive:long term sick,635
+Asian: Chinese,60-64,Economically inactive:retired,6090
+Asian: Chinese,60-64,Economically inactive:other,1015
+Asian: Indian,16-19,Economically active:Employee,10240
+Asian: Indian,16-19,Economically active:Self-Employed,500
+Asian: Indian,16-19,Economically active:Unemployed,6115
+Asian: Indian,16-19,Economically inactive:Student,63290
+Asian: Indian,16-19,Economically inactive:Looking after home or family,295
+Asian: Indian,16-19,Economically inactive:long term sick,90
+Asian: Indian,16-19,Economically inactive:retired,0
+Asian: Indian,16-19,Economically inactive:other,1025
+Asian: Indian,20-24,Economically active:Employee,55855
+Asian: Indian,20-24,Economically active:Self-Employed,3080
+Asian: Indian,20-24,Economically active:Unemployed,13605
+Asian: Indian,20-24,Economically inactive:Student,38040
+Asian: Indian,20-24,Economically inactive:Looking after home or family,1895
+Asian: Indian,20-24,Economically inactive:long term sick,655
+Asian: Indian,20-24,Economically inactive:retired,30
+Asian: Indian,20-24,Economically inactive:other,3265
+Asian: Indian,25-29,Economically active:Employee,94145
+Asian: Indian,25-29,Economically active:Self-Employed,7550
+Asian: Indian,25-29,Economically active:Unemployed,9340
+Asian: Indian,25-29,Economically inactive:Student,8820
+Asian: Indian,25-29,Economically inactive:Looking after home or family,6870
+Asian: Indian,25-29,Economically inactive:long term sick,1175
+Asian: Indian,25-29,Economically inactive:retired,25
+Asian: Indian,25-29,Economically inactive:other,4530
+Asian: Indian,30-34,Economically active:Employee,123460
+Asian: Indian,30-34,Economically active:Self-Employed,14475
+Asian: Indian,30-34,Economically active:Unemployed,7345
+Asian: Indian,30-34,Economically inactive:Student,2870
+Asian: Indian,30-34,Economically inactive:Looking after home or family,15900
+Asian: Indian,30-34,Economically inactive:long term sick,1515
+Asian: Indian,30-34,Economically inactive:retired,45
+Asian: Indian,30-34,Economically inactive:other,6000
+Asian: Indian,35-39,Economically active:Employee,137235
+Asian: Indian,35-39,Economically active:Self-Employed,21535
+Asian: Indian,35-39,Economically active:Unemployed,7060
+Asian: Indian,35-39,Economically inactive:Student,1575
+Asian: Indian,35-39,Economically inactive:Looking after home or family,18470
+Asian: Indian,35-39,Economically inactive:long term sick,2030
+Asian: Indian,35-39,Economically inactive:retired,55
+Asian: Indian,35-39,Economically inactive:other,6280
+Asian: Indian,40-44,Economically active:Employee,122465
+Asian: Indian,40-44,Economically active:Self-Employed,23970
+Asian: Indian,40-44,Economically active:Unemployed,6255
+Asian: Indian,40-44,Economically inactive:Student,865
+Asian: Indian,40-44,Economically inactive:Looking after home or family,14175
+Asian: Indian,40-44,Economically inactive:long term sick,2815
+Asian: Indian,40-44,Economically inactive:retired,110
+Asian: Indian,40-44,Economically inactive:other,5720
+Asian: Indian,45-49,Economically active:Employee,92490
+Asian: Indian,45-49,Economically active:Self-Employed,19590
+Asian: Indian,45-49,Economically active:Unemployed,4695
+Asian: Indian,45-49,Economically inactive:Student,480
+Asian: Indian,45-49,Economically inactive:Looking after home or family,10490
+Asian: Indian,45-49,Economically inactive:long term sick,3455
+Asian: Indian,45-49,Economically inactive:retired,260
+Asian: Indian,45-49,Economically inactive:other,4985
+Asian: Indian,50-54,Economically active:Employee,71390
+Asian: Indian,50-54,Economically active:Self-Employed,16190
+Asian: Indian,50-54,Economically active:Unemployed,3905
+Asian: Indian,50-54,Economically inactive:Student,310
+Asian: Indian,50-54,Economically inactive:Looking after home or family,8850
+Asian: Indian,50-54,Economically inactive:long term sick,4250
+Asian: Indian,50-54,Economically inactive:retired,1050
+Asian: Indian,50-54,Economically inactive:other,4745
+Asian: Indian,55-59,Economically active:Employee,51650
+Asian: Indian,55-59,Economically active:Self-Employed,12755
+Asian: Indian,55-59,Economically active:Unemployed,3085
+Asian: Indian,55-59,Economically inactive:Student,205
+Asian: Indian,55-59,Economically inactive:Looking after home or family,8250
+Asian: Indian,55-59,Economically inactive:long term sick,5200
+Asian: Indian,55-59,Economically inactive:retired,4290
+Asian: Indian,55-59,Economically inactive:other,4785
+Asian: Indian,60-64,Economically active:Employee,36535
+Asian: Indian,60-64,Economically active:Self-Employed,10945
+Asian: Indian,60-64,Economically active:Unemployed,2585
+Asian: Indian,60-64,Economically inactive:Student,105
+Asian: Indian,60-64,Economically inactive:Looking after home or family,7645
+Asian: Indian,60-64,Economically inactive:long term sick,6340
+Asian: Indian,60-64,Economically inactive:retired,14655
+Asian: Indian,60-64,Economically inactive:other,4990
+Asian: Pakistani,16-19,Economically active:Employee,13475
+Asian: Pakistani,16-19,Economically active:Self-Employed,565
+Asian: Pakistani,16-19,Economically active:Unemployed,9540
+Asian: Pakistani,16-19,Economically inactive:Student,86195
+Asian: Pakistani,16-19,Economically inactive:Looking after home or family,980
+Asian: Pakistani,16-19,Economically inactive:long term sick,360
+Asian: Pakistani,16-19,Economically inactive:retired,15
+Asian: Pakistani,16-19,Economically inactive:other,3105
+Asian: Pakistani,20-24,Economically active:Employee,55030
+Asian: Pakistani,20-24,Economically active:Self-Employed,3475
+Asian: Pakistani,20-24,Economically active:Unemployed,14820
+Asian: Pakistani,20-24,Economically inactive:Student,31055
+Asian: Pakistani,20-24,Economically inactive:Looking after home or family,6760
+Asian: Pakistani,20-24,Economically inactive:long term sick,2125
+Asian: Pakistani,20-24,Economically inactive:retired,35
+Asian: Pakistani,20-24,Economically inactive:other,8140
+Asian: Pakistani,25-29,Economically active:Employee,68555
+Asian: Pakistani,25-29,Economically active:Self-Employed,8600
+Asian: Pakistani,25-29,Economically active:Unemployed,8545
+Asian: Pakistani,25-29,Economically inactive:Student,4460
+Asian: Pakistani,25-29,Economically inactive:Looking after home or family,16185
+Asian: Pakistani,25-29,Economically inactive:long term sick,2810
+Asian: Pakistani,25-29,Economically inactive:retired,35
+Asian: Pakistani,25-29,Economically inactive:other,8640
+Asian: Pakistani,30-34,Economically active:Employee,67845
+Asian: Pakistani,30-34,Economically active:Self-Employed,15425
+Asian: Pakistani,30-34,Economically active:Unemployed,6495
+Asian: Pakistani,30-34,Economically inactive:Student,2065
+Asian: Pakistani,30-34,Economically inactive:Looking after home or family,28610
+Asian: Pakistani,30-34,Economically inactive:long term sick,3435
+Asian: Pakistani,30-34,Economically inactive:retired,55
+Asian: Pakistani,30-34,Economically inactive:other,9085
+Asian: Pakistani,35-39,Economically active:Employee,64765
+Asian: Pakistani,35-39,Economically active:Self-Employed,21075
+Asian: Pakistani,35-39,Economically active:Unemployed,5860
+Asian: Pakistani,35-39,Economically inactive:Student,1640
+Asian: Pakistani,35-39,Economically inactive:Looking after home or family,32700
+Asian: Pakistani,35-39,Economically inactive:long term sick,4460
+Asian: Pakistani,35-39,Economically inactive:retired,155
+Asian: Pakistani,35-39,Economically inactive:other,9100
+Asian: Pakistani,40-44,Economically active:Employee,57280
+Asian: Pakistani,40-44,Economically active:Self-Employed,23155
+Asian: Pakistani,40-44,Economically active:Unemployed,5055
+Asian: Pakistani,40-44,Economically inactive:Student,1255
+Asian: Pakistani,40-44,Economically inactive:Looking after home or family,29805
+Asian: Pakistani,40-44,Economically inactive:long term sick,5180
+Asian: Pakistani,40-44,Economically inactive:retired,130
+Asian: Pakistani,40-44,Economically inactive:other,8240
+Asian: Pakistani,50-54,Economically active:Employee,29465
+Asian: Pakistani,50-54,Economically active:Self-Employed,16390
+Asian: Pakistani,50-54,Economically active:Unemployed,2980
+Asian: Pakistani,50-54,Economically inactive:Student,350
+Asian: Pakistani,50-54,Economically inactive:Looking after home or family,17240
+Asian: Pakistani,50-54,Economically inactive:long term sick,6375
+Asian: Pakistani,50-54,Economically inactive:retired,625
+Asian: Pakistani,50-54,Economically inactive:other,5965
+Asian: Pakistani,55-59,Economically active:Employee,14680
+Asian: Pakistani,55-59,Economically active:Self-Employed,9210
+Asian: Pakistani,55-59,Economically active:Unemployed,1600
+Asian: Pakistani,55-59,Economically inactive:Student,155
+Asian: Pakistani,55-59,Economically inactive:Looking after home or family,10700
+Asian: Pakistani,55-59,Economically inactive:long term sick,5340
+Asian: Pakistani,55-59,Economically inactive:retired,1460
+Asian: Pakistani,55-59,Economically inactive:other,4330
+Asian: Pakistani,60-64,Economically active:Employee,9490
+Asian: Pakistani,60-64,Economically active:Self-Employed,7025
+Asian: Pakistani,60-64,Economically active:Unemployed,1245
+Asian: Pakistani,60-64,Economically inactive:Student,105
+Asian: Pakistani,60-64,Economically inactive:Looking after home or family,8615
+Asian: Pakistani,60-64,Economically inactive:long term sick,6705
+Asian: Pakistani,60-64,Economically inactive:retired,5000
+Asian: Pakistani,60-64,Economically inactive:other,4430
+Black: African,16-19,Economically active:Employee,10445
+Black: African,16-19,Economically active:Self-Employed,605
+Black: African,16-19,Economically active:Unemployed,12110
+Black: African,16-19,Economically inactive:Student,84515
+Black: African,16-19,Economically inactive:Looking after home or family,320
+Black: African,16-19,Economically inactive:long term sick,155
+Black: African,16-19,Economically inactive:retired,10
+Black: African,16-19,Economically inactive:other,1895
+Black: African,20-24,Economically active:Employee,50920
+Black: African,20-24,Economically active:Self-Employed,3705
+Black: African,20-24,Economically active:Unemployed,19990
+Black: African,20-24,Economically inactive:Student,37935
+Black: African,20-24,Economically inactive:Looking after home or family,2555
+Black: African,20-24,Economically inactive:long term sick,1115
+Black: African,20-24,Economically inactive:retired,35
+Black: African,20-24,Economically inactive:other,6750
+Black: African,25-29,Economically active:Employee,68510
+Black: African,25-29,Economically active:Self-Employed,6630
+Black: African,25-29,Economically active:Unemployed,12580
+Black: African,25-29,Economically inactive:Student,8500
+Black: African,25-29,Economically inactive:Looking after home or family,6385
+Black: African,25-29,Economically inactive:long term sick,1650
+Black: African,25-29,Economically inactive:retired,35
+Black: African,25-29,Economically inactive:other,7625
+Black: African,30-34,Economically active:Employee,68360
+Black: African,30-34,Economically active:Self-Employed,9275
+Black: African,30-34,Economically active:Unemployed,10105
+Black: African,30-34,Economically inactive:Student,6155
+Black: African,30-34,Economically inactive:Looking after home or family,11165
+Black: African,30-34,Economically inactive:long term sick,1885
+Black: African,30-34,Economically inactive:retired,35
+Black: African,30-34,Economically inactive:other,7250
+Black: African,35-39,Economically active:Employee,72025
+Black: African,35-39,Economically active:Self-Employed,12430
+Black: African,35-39,Economically active:Unemployed,9205
+Black: African,35-39,Economically inactive:Student,5100
+Black: African,35-39,Economically inactive:Looking after home or family,12375
+Black: African,35-39,Economically inactive:long term sick,2200
+Black: African,35-39,Economically inactive:retired,55
+Black: African,35-39,Economically inactive:other,7320
+Black: African,40-44,Economically active:Employee,78850
+Black: African,40-44,Economically active:Self-Employed,15410
+Black: African,40-44,Economically active:Unemployed,8290
+Black: African,40-44,Economically inactive:Student,4590
+Black: African,40-44,Economically inactive:Looking after home or family,11135
+Black: African,40-44,Economically inactive:long term sick,2890
+Black: African,40-44,Economically inactive:retired,160
+Black: African,40-44,Economically inactive:other,7345
+Black: African,45-49,Economically active:Employee,73100
+Black: African,45-49,Economically active:Self-Employed,15535
+Black: African,45-49,Economically active:Unemployed,7180
+Black: African,45-49,Economically inactive:Student,3235
+Black: African,45-49,Economically inactive:Looking after home or family,8200
+Black: African,45-49,Economically inactive:long term sick,3445
+Black: African,45-49,Economically inactive:retired,120
+Black: African,45-49,Economically inactive:other,6960
+Black: African,50-54,Economically active:Employee,64150
+Black: African,50-54,Economically active:Self-Employed,14665
+Black: African,50-54,Economically active:Unemployed,5560
+Black: African,50-54,Economically inactive:Student,2030
+Black: African,50-54,Economically inactive:Looking after home or family,6220
+Black: African,50-54,Economically inactive:long term sick,4750
+Black: African,50-54,Economically inactive:retired,350
+Black: African,50-54,Economically inactive:other,6780
+Black: African,55-59,Economically active:Employee,42955
+Black: African,55-59,Economically active:Self-Employed,10340
+Black: African,55-59,Economically active:Unemployed,3785
+Black: African,55-59,Economically inactive:Student,1155
+Black: African,55-59,Economically inactive:Looking after home or family,3680
+Black: African,55-59,Economically inactive:long term sick,4585
+Black: African,55-59,Economically inactive:retired,1095
+Black: African,55-59,Economically inactive:other,5265
+Black: African,60-64,Economically active:Employee,23605
+Black: African,60-64,Economically active:Self-Employed,5915
+Black: African,60-64,Economically active:Unemployed,2195
+Black: African,60-64,Economically inactive:Student,345
+Black: African,60-64,Economically inactive:Looking after home or family,2025
+Black: African,60-64,Economically inactive:long term sick,3940
+Black: African,60-64,Economically inactive:retired,2990
+Black: African,60-64,Economically inactive:other,3550
+Black: Caribbean,16-19,Economically active:Employee,4395
+Black: Caribbean,16-19,Economically active:Self-Employed,210
+Black: Caribbean,16-19,Economically active:Unemployed,4505
+Black: Caribbean,16-19,Economically inactive:Student,19030
+Black: Caribbean,16-19,Economically inactive:Looking after home or family,265
+Black: Caribbean,16-19,Economically inactive:long term sick,115
+Black: Caribbean,16-19,Economically inactive:retired,0
+Black: Caribbean,16-19,Economically inactive:other,1115
+Black: Caribbean,20-24,Economically active:Employee,19550
+Black: Caribbean,20-24,Economically active:Self-Employed,1570
+Black: Caribbean,20-24,Economically active:Unemployed,6925
+Black: Caribbean,20-24,Economically inactive:Student,7230
+Black: Caribbean,20-24,Economically inactive:Looking after home or family,1290
+Black: Caribbean,20-24,Economically inactive:long term sick,880
+Black: Caribbean,20-24,Economically inactive:retired,15
+Black: Caribbean,20-24,Economically inactive:other,3055
+Black: Caribbean,25-29,Economically active:Employee,27155
+Black: Caribbean,25-29,Economically active:Self-Employed,2745
+Black: Caribbean,25-29,Economically active:Unemployed,4650
+Black: Caribbean,25-29,Economically inactive:Student,1675
+Black: Caribbean,25-29,Economically inactive:Looking after home or family,2090
+Black: Caribbean,25-29,Economically inactive:long term sick,1180
+Black: Caribbean,25-29,Economically inactive:retired,65
+Black: Caribbean,25-29,Economically inactive:other,3105
+Black: Caribbean,30-34,Economically active:Employee,27425
+Black: Caribbean,30-34,Economically active:Self-Employed,3570
+Black: Caribbean,30-34,Economically active:Unemployed,3645
+Black: Caribbean,30-34,Economically inactive:Student,1125
+Black: Caribbean,30-34,Economically inactive:Looking after home or family,2800
+Black: Caribbean,30-34,Economically inactive:long term sick,1430
+Black: Caribbean,30-34,Economically inactive:retired,30
+Black: Caribbean,30-34,Economically inactive:other,2825
+Black: Caribbean,35-39,Economically active:Employee,26140
+Black: Caribbean,35-39,Economically active:Self-Employed,3755
+Black: Caribbean,35-39,Economically active:Unemployed,2975
+Black: Caribbean,35-39,Economically inactive:Student,875
+Black: Caribbean,35-39,Economically inactive:Looking after home or family,2915
+Black: Caribbean,35-39,Economically inactive:long term sick,1780
+Black: Caribbean,35-39,Economically inactive:retired,35
+Black: Caribbean,35-39,Economically inactive:other,2295
+Black: Caribbean,40-44,Economically active:Employee,24340
+Black: Caribbean,40-44,Economically active:Self-Employed,4080
+Black: Caribbean,40-44,Economically active:Unemployed,2440
+Black: Caribbean,40-44,Economically inactive:Student,670
+Black: Caribbean,40-44,Economically inactive:Looking after home or family,2500
+Black: Caribbean,40-44,Economically inactive:long term sick,1970
+Black: Caribbean,40-44,Economically inactive:retired,45
+Black: Caribbean,40-44,Economically inactive:other,2085
+Black: Caribbean,45-49,Economically active:Employee,25595
+Black: Caribbean,45-49,Economically active:Self-Employed,4255
+Black: Caribbean,45-49,Economically active:Unemployed,2535
+Black: Caribbean,45-49,Economically inactive:Student,600
+Black: Caribbean,45-49,Economically inactive:Looking after home or family,2065
+Black: Caribbean,45-49,Economically inactive:long term sick,2530
+Black: Caribbean,45-49,Economically inactive:retired,90
+Black: Caribbean,45-49,Economically inactive:other,2190
+Black: Caribbean,50-54,Economically active:Employee,36440
+Black: Caribbean,50-54,Economically active:Self-Employed,5990
+Black: Caribbean,50-54,Economically active:Unemployed,3495
+Black: Caribbean,50-54,Economically inactive:Student,515
+Black: Caribbean,50-54,Economically inactive:Looking after home or family,2750
+Black: Caribbean,50-54,Economically inactive:long term sick,4870
+Black: Caribbean,50-54,Economically inactive:retired,425
+Black: Caribbean,50-54,Economically inactive:other,3220
+Black: Caribbean,55-59,Economically active:Employee,40780
+Black: Caribbean,55-59,Economically active:Self-Employed,6810
+Black: Caribbean,55-59,Economically active:Unemployed,3940
+Black: Caribbean,55-59,Economically inactive:Student,570
+Black: Caribbean,55-59,Economically inactive:Looking after home or family,2810
+Black: Caribbean,55-59,Economically inactive:long term sick,6690
+Black: Caribbean,55-59,Economically inactive:retired,2280
+Black: Caribbean,55-59,Economically inactive:other,4245
+Black: Caribbean,60-64,Economically active:Employee,23830
+Black: Caribbean,60-64,Economically active:Self-Employed,4685
+Black: Caribbean,60-64,Economically active:Unemployed,2735
+Black: Caribbean,60-64,Economically inactive:Student,200
+Black: Caribbean,60-64,Economically inactive:Looking after home or family,1775
+Black: Caribbean,60-64,Economically inactive:long term sick,5125
+Black: Caribbean,60-64,Economically inactive:retired,6205
+Black: Caribbean,60-64,Economically inactive:other,3390
+Black: Other Black,16-19,Economically active:Employee,2290
+Black: Other Black,16-19,Economically active:Self-Employed,105
+Black: Other Black,16-19,Economically active:Unemployed,2475
+Black: Other Black,16-19,Economically inactive:Student,18220
+Black: Other Black,16-19,Economically inactive:Looking after home or family,80
+Black: Other Black,16-19,Economically inactive:long term sick,110
+Black: Other Black,16-19,Economically inactive:retired,0
+Black: Other Black,16-19,Economically inactive:other,575
+Black: Other Black,20-24,Economically active:Employee,8065
+Black: Other Black,20-24,Economically active:Self-Employed,670
+Black: Other Black,20-24,Economically active:Unemployed,3295
+Black: Other Black,20-24,Economically inactive:Student,4915
+Black: Other Black,20-24,Economically inactive:Looking after home or family,495
+Black: Other Black,20-24,Economically inactive:long term sick,400
+Black: Other Black,20-24,Economically inactive:retired,15
+Black: Other Black,20-24,Economically inactive:other,1670
+Black: Other Black,25-29,Economically active:Employee,9595
+Black: Other Black,25-29,Economically active:Self-Employed,1115
+Black: Other Black,25-29,Economically active:Unemployed,1925
+Black: Other Black,25-29,Economically inactive:Student,820
+Black: Other Black,25-29,Economically inactive:Looking after home or family,645
+Black: Other Black,25-29,Economically inactive:long term sick,545
+Black: Other Black,25-29,Economically inactive:retired,0
+Black: Other Black,25-29,Economically inactive:other,1425
+Black: Other Black,30-34,Economically active:Employee,8205
+Black: Other Black,30-34,Economically active:Self-Employed,1230
+Black: Other Black,30-34,Economically active:Unemployed,1230
+Black: Other Black,30-34,Economically inactive:Student,450
+Black: Other Black,30-34,Economically inactive:Looking after home or family,1005
+Black: Other Black,30-34,Economically inactive:long term sick,650
+Black: Other Black,30-34,Economically inactive:retired,0
+Black: Other Black,30-34,Economically inactive:other,1120
+Black: Other Black,35-39,Economically active:Employee,8040
+Black: Other Black,35-39,Economically active:Self-Employed,1375
+Black: Other Black,35-39,Economically active:Unemployed,1055
+Black: Other Black,35-39,Economically inactive:Student,400
+Black: Other Black,35-39,Economically inactive:Looking after home or family,1100
+Black: Other Black,35-39,Economically inactive:long term sick,720
+Black: Other Black,35-39,Economically inactive:retired,0
+Black: Other Black,35-39,Economically inactive:other,1090
+Black: Other Black,40-44,Economically active:Employee,7660
+Black: Other Black,40-44,Economically active:Self-Employed,1495
+Black: Other Black,40-44,Economically active:Unemployed,955
+Black: Other Black,40-44,Economically inactive:Student,340
+Black: Other Black,40-44,Economically inactive:Looking after home or family,1000
+Black: Other Black,40-44,Economically inactive:long term sick,865
+Black: Other Black,40-44,Economically inactive:retired,20
+Black: Other Black,40-44,Economically inactive:other,1085
+Black: Other Black,45-49,Economically active:Employee,7400
+Black: Other Black,45-49,Economically active:Self-Employed,1335
+Black: Other Black,45-49,Economically active:Unemployed,920
+Black: Other Black,45-49,Economically inactive:Student,220
+Black: Other Black,45-49,Economically inactive:Looking after home or family,795
+Black: Other Black,45-49,Economically inactive:long term sick,1050
+Black: Other Black,45-49,Economically inactive:retired,35
+Black: Other Black,45-49,Economically inactive:other,825
+Black: Other Black,50-54,Economically active:Employee,10055
+Black: Other Black,50-54,Economically active:Self-Employed,1815
+Black: Other Black,50-54,Economically active:Unemployed,1110
+Black: Other Black,50-54,Economically inactive:Student,275
+Black: Other Black,50-54,Economically inactive:Looking after home or family,860
+Black: Other Black,50-54,Economically inactive:long term sick,1890
+Black: Other Black,50-54,Economically inactive:retired,125
+Black: Other Black,50-54,Economically inactive:other,1445
+Black: Other Black,55-59,Economically active:Employee,10875
+Black: Other Black,55-59,Economically active:Self-Employed,1930
+Black: Other Black,55-59,Economically active:Unemployed,1340
+Black: Other Black,55-59,Economically inactive:Student,200
+Black: Other Black,55-59,Economically inactive:Looking after home or family,945
+Black: Other Black,55-59,Economically inactive:long term sick,2340
+Black: Other Black,55-59,Economically inactive:retired,620
+Black: Other Black,55-59,Economically inactive:other,1435
+Black: Other Black,60-64,Economically active:Employee,4800
+Black: Other Black,60-64,Economically active:Self-Employed,1020
+Black: Other Black,60-64,Economically active:Unemployed,635
+Black: Other Black,60-64,Economically inactive:Student,75
+Black: Other Black,60-64,Economically inactive:Looking after home or family,410
+Black: Other Black,60-64,Economically inactive:long term sick,1355
+Black: Other Black,60-64,Economically inactive:retired,1245
+Black: Other Black,60-64,Economically inactive:other,815
+Mixed: White and Asian,16-19,Economically active:Employee,6440
+Mixed: White and Asian,16-19,Economically active:Self-Employed,445
+Mixed: White and Asian,16-19,Economically active:Unemployed,3385
+Mixed: White and Asian,16-19,Economically inactive:Student,29250
+Mixed: White and Asian,16-19,Economically inactive:Looking after home or family,195
+Mixed: White and Asian,16-19,Economically inactive:long term sick,180
+Mixed: White and Asian,16-19,Economically inactive:retired,0
+Mixed: White and Asian,16-19,Economically inactive:other,960
+Mixed: White and Asian,20-24,Economically active:Employee,19895
+Mixed: White and Asian,20-24,Economically active:Self-Employed,1895
+Mixed: White and Asian,20-24,Economically active:Unemployed,4190
+Mixed: White and Asian,20-24,Economically inactive:Student,12915
+Mixed: White and Asian,20-24,Economically inactive:Looking after home or family,835
+Mixed: White and Asian,20-24,Economically inactive:long term sick,710
+Mixed: White and Asian,20-24,Economically inactive:retired,0
+Mixed: White and Asian,20-24,Economically inactive:other,1675
+Mixed: White and Asian,25-29,Economically active:Employee,24860
+Mixed: White and Asian,25-29,Economically active:Self-Employed,2865
+Mixed: White and Asian,25-29,Economically active:Unemployed,1990
+Mixed: White and Asian,25-29,Economically inactive:Student,1555
+Mixed: White and Asian,25-29,Economically inactive:Looking after home or family,1130
+Mixed: White and Asian,25-29,Economically inactive:long term sick,795
+Mixed: White and Asian,25-29,Economically inactive:retired,10
+Mixed: White and Asian,25-29,Economically inactive:other,1335
+Mixed: White and Asian,30-34,Economically active:Employee,21070
+Mixed: White and Asian,30-34,Economically active:Self-Employed,3495
+Mixed: White and Asian,30-34,Economically active:Unemployed,1295
+Mixed: White and Asian,30-34,Economically inactive:Student,580
+Mixed: White and Asian,30-34,Economically inactive:Looking after home or family,1550
+Mixed: White and Asian,30-34,Economically inactive:long term sick,820
+Mixed: White and Asian,30-34,Economically inactive:retired,0
+Mixed: White and Asian,30-34,Economically inactive:other,1145
+Mixed: White and Asian,35-39,Economically active:Employee,15790
+Mixed: White and Asian,35-39,Economically active:Self-Employed,3255
+Mixed: White and Asian,35-39,Economically active:Unemployed,870
+Mixed: White and Asian,35-39,Economically inactive:Student,340
+Mixed: White and Asian,35-39,Economically inactive:Looking after home or family,1560
+Mixed: White and Asian,35-39,Economically inactive:long term sick,825
+Mixed: White and Asian,35-39,Economically inactive:retired,20
+Mixed: White and Asian,35-39,Economically inactive:other,815
+Mixed: White and Asian,40-44,Economically active:Employee,11955
+Mixed: White and Asian,40-44,Economically active:Self-Employed,2830
+Mixed: White and Asian,40-44,Economically active:Unemployed,595
+Mixed: White and Asian,40-44,Economically inactive:Student,205
+Mixed: White and Asian,40-44,Economically inactive:Looking after home or family,1300
+Mixed: White and Asian,40-44,Economically inactive:long term sick,850
+Mixed: White and Asian,40-44,Economically inactive:retired,40
+Mixed: White and Asian,40-44,Economically inactive:other,675
+Mixed: White and Asian,45-49,Economically active:Employee,9390
+Mixed: White and Asian,45-49,Economically active:Self-Employed,2400
+Mixed: White and Asian,45-49,Economically active:Unemployed,565
+Mixed: White and Asian,45-49,Economically inactive:Student,150
+Mixed: White and Asian,45-49,Economically inactive:Looking after home or family,965
+Mixed: White and Asian,45-49,Economically inactive:long term sick,895
+Mixed: White and Asian,45-49,Economically inactive:retired,55
+Mixed: White and Asian,45-49,Economically inactive:other,560
+Mixed: White and Asian,50-54,Economically active:Employee,9075
+Mixed: White and Asian,50-54,Economically active:Self-Employed,2520
+Mixed: White and Asian,50-54,Economically active:Unemployed,555
+Mixed: White and Asian,50-54,Economically inactive:Student,100
+Mixed: White and Asian,50-54,Economically inactive:Looking after home or family,930
+Mixed: White and Asian,50-54,Economically inactive:long term sick,1180
+Mixed: White and Asian,50-54,Economically inactive:retired,195
+Mixed: White and Asian,50-54,Economically inactive:other,625
+Mixed: White and Asian,55-59,Economically active:Employee,6840
+Mixed: White and Asian,55-59,Economically active:Self-Employed,2085
+Mixed: White and Asian,55-59,Economically active:Unemployed,490
+Mixed: White and Asian,55-59,Economically inactive:Student,65
+Mixed: White and Asian,55-59,Economically inactive:Looking after home or family,795
+Mixed: White and Asian,55-59,Economically inactive:long term sick,1035
+Mixed: White and Asian,55-59,Economically inactive:retired,830
+Mixed: White and Asian,55-59,Economically inactive:other,635
+Mixed: White and Asian,60-64,Economically active:Employee,3255
+Mixed: White and Asian,60-64,Economically active:Self-Employed,1135
+Mixed: White and Asian,60-64,Economically active:Unemployed,255
+Mixed: White and Asian,60-64,Economically inactive:Student,15
+Mixed: White and Asian,60-64,Economically inactive:Looking after home or family,385
+Mixed: White and Asian,60-64,Economically inactive:long term sick,745
+Mixed: White and Asian,60-64,Economically inactive:retired,1650
+Mixed: White and Asian,60-64,Economically inactive:other,320
+Mixed: White and Black African,16-19,Economically active:Employee,3095
+Mixed: White and Black African,16-19,Economically active:Self-Employed,200
+Mixed: White and Black African,16-19,Economically active:Unemployed,2335
+Mixed: White and Black African,16-19,Economically inactive:Student,13350
+Mixed: White and Black African,16-19,Economically inactive:Looking after home or family,135
+Mixed: White and Black African,16-19,Economically inactive:long term sick,110
+Mixed: White and Black African,16-19,Economically inactive:retired,0
+Mixed: White and Black African,16-19,Economically inactive:other,580
+Mixed: White and Black African,20-24,Economically active:Employee,9575
+Mixed: White and Black African,20-24,Economically active:Self-Employed,1080
+Mixed: White and Black African,20-24,Economically active:Unemployed,2740
+Mixed: White and Black African,20-24,Economically inactive:Student,4800
+Mixed: White and Black African,20-24,Economically inactive:Looking after home or family,530
+Mixed: White and Black African,20-24,Economically inactive:long term sick,425
+Mixed: White and Black African,20-24,Economically inactive:retired,0
+Mixed: White and Black African,20-24,Economically inactive:other,1105
+Mixed: White and Black African,25-29,Economically active:Employee,9770
+Mixed: White and Black African,25-29,Economically active:Self-Employed,1440
+Mixed: White and Black African,25-29,Economically active:Unemployed,1295
+Mixed: White and Black African,25-29,Economically inactive:Student,730
+Mixed: White and Black African,25-29,Economically inactive:Looking after home or family,780
+Mixed: White and Black African,25-29,Economically inactive:long term sick,520
+Mixed: White and Black African,25-29,Economically inactive:retired,0
+Mixed: White and Black African,25-29,Economically inactive:other,840
+Mixed: White and Black African,30-34,Economically active:Employee,8585
+Mixed: White and Black African,30-34,Economically active:Self-Employed,1695
+Mixed: White and Black African,30-34,Economically active:Unemployed,930
+Mixed: White and Black African,30-34,Economically inactive:Student,425
+Mixed: White and Black African,30-34,Economically inactive:Looking after home or family,1040
+Mixed: White and Black African,30-34,Economically inactive:long term sick,450
+Mixed: White and Black African,30-34,Economically inactive:retired,0
+Mixed: White and Black African,30-34,Economically inactive:other,660
+Mixed: White and Black African,35-39,Economically active:Employee,7950
+Mixed: White and Black African,35-39,Economically active:Self-Employed,1615
+Mixed: White and Black African,35-39,Economically active:Unemployed,800
+Mixed: White and Black African,35-39,Economically inactive:Student,290
+Mixed: White and Black African,35-39,Economically inactive:Looking after home or family,1095
+Mixed: White and Black African,35-39,Economically inactive:long term sick,520
+Mixed: White and Black African,35-39,Economically inactive:retired,0
+Mixed: White and Black African,35-39,Economically inactive:other,550
+Mixed: White and Black African,40-44,Economically active:Employee,7035
+Mixed: White and Black African,40-44,Economically active:Self-Employed,1570
+Mixed: White and Black African,40-44,Economically active:Unemployed,710
+Mixed: White and Black African,40-44,Economically inactive:Student,270
+Mixed: White and Black African,40-44,Economically inactive:Looking after home or family,925
+Mixed: White and Black African,40-44,Economically inactive:long term sick,605
+Mixed: White and Black African,40-44,Economically inactive:retired,20
+Mixed: White and Black African,40-44,Economically inactive:other,545
+Mixed: White and Black African,45-49,Economically active:Employee,5595
+Mixed: White and Black African,45-49,Economically active:Self-Employed,1285
+Mixed: White and Black African,45-49,Economically active:Unemployed,525
+Mixed: White and Black African,45-49,Economically inactive:Student,130
+Mixed: White and Black African,45-49,Economically inactive:Looking after home or family,710
+Mixed: White and Black African,45-49,Economically inactive:long term sick,590
+Mixed: White and Black African,45-49,Economically inactive:retired,15
+Mixed: White and Black African,45-49,Economically inactive:other,400
+Mixed: White and Black African,50-54,Economically active:Employee,4630
+Mixed: White and Black African,50-54,Economically active:Self-Employed,1105
+Mixed: White and Black African,50-54,Economically active:Unemployed,470
+Mixed: White and Black African,50-54,Economically inactive:Student,75
+Mixed: White and Black African,50-54,Economically inactive:Looking after home or family,460
+Mixed: White and Black African,50-54,Economically inactive:long term sick,660
+Mixed: White and Black African,50-54,Economically inactive:retired,45
+Mixed: White and Black African,50-54,Economically inactive:other,480
+Mixed: White and Black African,55-59,Economically active:Employee,3545
+Mixed: White and Black African,55-59,Economically active:Self-Employed,930
+Mixed: White and Black African,55-59,Economically active:Unemployed,335
+Mixed: White and Black African,55-59,Economically inactive:Student,50
+Mixed: White and Black African,55-59,Economically inactive:Looking after home or family,355
+Mixed: White and Black African,55-59,Economically inactive:long term sick,825
+Mixed: White and Black African,55-59,Economically inactive:retired,225
+Mixed: White and Black African,55-59,Economically inactive:other,415
+Mixed: White and Black African,60-64,Economically active:Employee,2005
+Mixed: White and Black African,60-64,Economically active:Self-Employed,550
+Mixed: White and Black African,60-64,Economically active:Unemployed,230
+Mixed: White and Black African,60-64,Economically inactive:Student,20
+Mixed: White and Black African,60-64,Economically inactive:Looking after home or family,235
+Mixed: White and Black African,60-64,Economically inactive:long term sick,615
+Mixed: White and Black African,60-64,Economically inactive:retired,545
+Mixed: White and Black African,60-64,Economically inactive:other,290
+Mixed: White and Black Caribbean,16-19,Economically active:Employee,8545
+Mixed: White and Black Caribbean,16-19,Economically active:Self-Employed,495
+Mixed: White and Black Caribbean,16-19,Economically active:Unemployed,6025
+Mixed: White and Black Caribbean,16-19,Economically inactive:Student,26140
+Mixed: White and Black Caribbean,16-19,Economically inactive:Looking after home or family,490
+Mixed: White and Black Caribbean,16-19,Economically inactive:long term sick,415
+Mixed: White and Black Caribbean,16-19,Economically inactive:retired,0
+Mixed: White and Black Caribbean,16-19,Economically inactive:other,1810
+Mixed: White and Black Caribbean,20-24,Economically active:Employee,26695
+Mixed: White and Black Caribbean,20-24,Economically active:Self-Employed,2685
+Mixed: White and Black Caribbean,20-24,Economically active:Unemployed,6800
+Mixed: White and Black Caribbean,20-24,Economically inactive:Student,7700
+Mixed: White and Black Caribbean,20-24,Economically inactive:Looking after home or family,2250
+Mixed: White and Black Caribbean,20-24,Economically inactive:long term sick,1680
+Mixed: White and Black Caribbean,20-24,Economically inactive:retired,25
+Mixed: White and Black Caribbean,20-24,Economically inactive:other,3700
+Mixed: White and Black Caribbean,25-29,Economically active:Employee,29800
+Mixed: White and Black Caribbean,25-29,Economically active:Self-Employed,4030
+Mixed: White and Black Caribbean,25-29,Economically active:Unemployed,3720
+Mixed: White and Black Caribbean,25-29,Economically inactive:Student,1600
+Mixed: White and Black Caribbean,25-29,Economically inactive:Looking after home or family,3350
+Mixed: White and Black Caribbean,25-29,Economically inactive:long term sick,2070
+Mixed: White and Black Caribbean,25-29,Economically inactive:retired,20
+Mixed: White and Black Caribbean,25-29,Economically inactive:other,3150
+Mixed: White and Black Caribbean,30-34,Economically active:Employee,25490
+Mixed: White and Black Caribbean,30-34,Economically active:Self-Employed,4410
+Mixed: White and Black Caribbean,30-34,Economically active:Unemployed,2660
+Mixed: White and Black Caribbean,30-34,Economically inactive:Student,895
+Mixed: White and Black Caribbean,30-34,Economically inactive:Looking after home or family,3470
+Mixed: White and Black Caribbean,30-34,Economically inactive:long term sick,2185
+Mixed: White and Black Caribbean,30-34,Economically inactive:retired,30
+Mixed: White and Black Caribbean,30-34,Economically inactive:other,2465
+Mixed: White and Black Caribbean,35-39,Economically active:Employee,17400
+Mixed: White and Black Caribbean,35-39,Economically active:Self-Employed,3340
+Mixed: White and Black Caribbean,35-39,Economically active:Unemployed,1580
+Mixed: White and Black Caribbean,35-39,Economically inactive:Student,590
+Mixed: White and Black Caribbean,35-39,Economically inactive:Looking after home or family,2595
+Mixed: White and Black Caribbean,35-39,Economically inactive:long term sick,1985
+Mixed: White and Black Caribbean,35-39,Economically inactive:retired,25
+Mixed: White and Black Caribbean,35-39,Economically inactive:other,1675
+Mixed: White and Black Caribbean,40-44,Economically active:Employee,11805
+Mixed: White and Black Caribbean,40-44,Economically active:Self-Employed,2550
+Mixed: White and Black Caribbean,40-44,Economically active:Unemployed,1165
+Mixed: White and Black Caribbean,40-44,Economically inactive:Student,275
+Mixed: White and Black Caribbean,40-44,Economically inactive:Looking after home or family,1545
+Mixed: White and Black Caribbean,40-44,Economically inactive:long term sick,1715
+Mixed: White and Black Caribbean,40-44,Economically inactive:retired,35
+Mixed: White and Black Caribbean,40-44,Economically inactive:other,1125
+Mixed: White and Black Caribbean,45-49,Economically active:Employee,9690
+Mixed: White and Black Caribbean,45-49,Economically active:Self-Employed,2055
+Mixed: White and Black Caribbean,45-49,Economically active:Unemployed,880
+Mixed: White and Black Caribbean,45-49,Economically inactive:Student,205
+Mixed: White and Black Caribbean,45-49,Economically inactive:Looking after home or family,1095
+Mixed: White and Black Caribbean,45-49,Economically inactive:long term sick,1715
+Mixed: White and Black Caribbean,45-49,Economically inactive:retired,35
+Mixed: White and Black Caribbean,45-49,Economically inactive:other,855
+Mixed: White and Black Caribbean,50-54,Economically active:Employee,9590
+Mixed: White and Black Caribbean,50-54,Economically active:Self-Employed,2115
+Mixed: White and Black Caribbean,50-54,Economically active:Unemployed,845
+Mixed: White and Black Caribbean,50-54,Economically inactive:Student,155
+Mixed: White and Black Caribbean,50-54,Economically inactive:Looking after home or family,1055
+Mixed: White and Black Caribbean,50-54,Economically inactive:long term sick,2310
+Mixed: White and Black Caribbean,50-54,Economically inactive:retired,170
+Mixed: White and Black Caribbean,50-54,Economically inactive:other,975
+Mixed: White and Black Caribbean,55-59,Economically active:Employee,7740
+Mixed: White and Black Caribbean,55-59,Economically active:Self-Employed,1695
+Mixed: White and Black Caribbean,55-59,Economically active:Unemployed,765
+Mixed: White and Black Caribbean,55-59,Economically inactive:Student,75
+Mixed: White and Black Caribbean,55-59,Economically inactive:Looking after home or family,825
+Mixed: White and Black Caribbean,55-59,Economically inactive:long term sick,2120
+Mixed: White and Black Caribbean,55-59,Economically inactive:retired,555
+Mixed: White and Black Caribbean,55-59,Economically inactive:other,925
+Mixed: White and Black Caribbean,60-64,Economically active:Employee,3635
+Mixed: White and Black Caribbean,60-64,Economically active:Self-Employed,905
+Mixed: White and Black Caribbean,60-64,Economically active:Unemployed,450
+Mixed: White and Black Caribbean,60-64,Economically inactive:Student,40
+Mixed: White and Black Caribbean,60-64,Economically inactive:Looking after home or family,420
+Mixed: White and Black Caribbean,60-64,Economically inactive:long term sick,1225
+Mixed: White and Black Caribbean,60-64,Economically inactive:retired,1125
+Mixed: White and Black Caribbean,60-64,Economically inactive:other,500
+Mixed: Other Mixed groups,16-19,Economically active:Employee,4890
+Mixed: Other Mixed groups,16-19,Economically active:Self-Employed,370
+Mixed: Other Mixed groups,16-19,Economically active:Unemployed,3505
+Mixed: Other Mixed groups,16-19,Economically inactive:Student,22385
+Mixed: Other Mixed groups,16-19,Economically inactive:Looking after home or family,255
+Mixed: Other Mixed groups,16-19,Economically inactive:long term sick,165
+Mixed: Other Mixed groups,16-19,Economically inactive:retired,0
+Mixed: Other Mixed groups,16-19,Economically inactive:other,970
+Mixed: Other Mixed groups,20-24,Economically active:Employee,17060
+Mixed: Other Mixed groups,20-24,Economically active:Self-Employed,2035
+Mixed: Other Mixed groups,20-24,Economically active:Unemployed,4540
+Mixed: Other Mixed groups,20-24,Economically inactive:Student,9625
+Mixed: Other Mixed groups,20-24,Economically inactive:Looking after home or family,975
+Mixed: Other Mixed groups,20-24,Economically inactive:long term sick,860
+Mixed: Other Mixed groups,20-24,Economically inactive:retired,20
+Mixed: Other Mixed groups,20-24,Economically inactive:other,2065
+Mixed: Other Mixed groups,25-29,Economically active:Employee,23155
+Mixed: Other Mixed groups,25-29,Economically active:Self-Employed,3500
+Mixed: Other Mixed groups,25-29,Economically active:Unemployed,2745
+Mixed: Other Mixed groups,25-29,Economically inactive:Student,1990
+Mixed: Other Mixed groups,25-29,Economically inactive:Looking after home or family,1635
+Mixed: Other Mixed groups,25-29,Economically inactive:long term sick,970
+Mixed: Other Mixed groups,25-29,Economically inactive:retired,10
+Mixed: Other Mixed groups,25-29,Economically inactive:other,1810
+Mixed: Other Mixed groups,30-34,Economically active:Employee,24330
+Mixed: Other Mixed groups,30-34,Economically active:Self-Employed,4580
+Mixed: Other Mixed groups,30-34,Economically active:Unemployed,2025
+Mixed: Other Mixed groups,30-34,Economically inactive:Student,1225
+Mixed: Other Mixed groups,30-34,Economically inactive:Looking after home or family,2405
+Mixed: Other Mixed groups,30-34,Economically inactive:long term sick,1080
+Mixed: Other Mixed groups,30-34,Economically inactive:retired,20
+Mixed: Other Mixed groups,30-34,Economically inactive:other,1660
+Mixed: Other Mixed groups,35-39,Economically active:Employee,21345
+Mixed: Other Mixed groups,35-39,Economically active:Self-Employed,4800
+Mixed: Other Mixed groups,35-39,Economically active:Unemployed,1590
+Mixed: Other Mixed groups,35-39,Economically inactive:Student,710
+Mixed: Other Mixed groups,35-39,Economically inactive:Looking after home or family,2480
+Mixed: Other Mixed groups,35-39,Economically inactive:long term sick,1145
+Mixed: Other Mixed groups,35-39,Economically inactive:retired,25
+Mixed: Other Mixed groups,35-39,Economically inactive:other,1380
+Mixed: Other Mixed groups,40-44,Economically active:Employee,16895
+Mixed: Other Mixed groups,40-44,Economically active:Self-Employed,4285
+Mixed: Other Mixed groups,40-44,Economically active:Unemployed,1325
+Mixed: Other Mixed groups,40-44,Economically inactive:Student,390
+Mixed: Other Mixed groups,40-44,Economically inactive:Looking after home or family,2015
+Mixed: Other Mixed groups,40-44,Economically inactive:long term sick,1170
+Mixed: Other Mixed groups,40-44,Economically inactive:retired,35
+Mixed: Other Mixed groups,40-44,Economically inactive:other,1130
+Mixed: Other Mixed groups,45-49,Economically active:Employee,12615
+Mixed: Other Mixed groups,45-49,Economically active:Self-Employed,3485
+Mixed: Other Mixed groups,45-49,Economically active:Unemployed,1115
+Mixed: Other Mixed groups,45-49,Economically inactive:Student,295
+Mixed: Other Mixed groups,45-49,Economically inactive:Looking after home or family,1445
+Mixed: Other Mixed groups,45-49,Economically inactive:long term sick,1250
+Mixed: Other Mixed groups,45-49,Economically inactive:retired,65
+Mixed: Other Mixed groups,45-49,Economically inactive:other,915
+Mixed: Other Mixed groups,50-54,Economically active:Employee,10370
+Mixed: Other Mixed groups,50-54,Economically active:Self-Employed,3030
+Mixed: Other Mixed groups,50-54,Economically active:Unemployed,970
+Mixed: Other Mixed groups,50-54,Economically inactive:Student,205
+Mixed: Other Mixed groups,50-54,Economically inactive:Looking after home or family,1180
+Mixed: Other Mixed groups,50-54,Economically inactive:long term sick,1500
+Mixed: Other Mixed groups,50-54,Economically inactive:retired,255
+Mixed: Other Mixed groups,50-54,Economically inactive:other,910
+Mixed: Other Mixed groups,55-59,Economically active:Employee,7580
+Mixed: Other Mixed groups,55-59,Economically active:Self-Employed,2180
+Mixed: Other Mixed groups,55-59,Economically active:Unemployed,665
+Mixed: Other Mixed groups,55-59,Economically inactive:Student,165
+Mixed: Other Mixed groups,55-59,Economically inactive:Looking after home or family,940
+Mixed: Other Mixed groups,55-59,Economically inactive:long term sick,1560
+Mixed: Other Mixed groups,55-59,Economically inactive:retired,675
+Mixed: Other Mixed groups,55-59,Economically inactive:other,810
+Mixed: Other Mixed groups,60-64,Economically active:Employee,3980
+Mixed: Other Mixed groups,60-64,Economically active:Self-Employed,1320
+Mixed: Other Mixed groups,60-64,Economically active:Unemployed,425
+Mixed: Other Mixed groups,60-64,Economically inactive:Student,55
+Mixed: Other Mixed groups,60-64,Economically inactive:Looking after home or family,530
+Mixed: Other Mixed groups,60-64,Economically inactive:long term sick,1080
+Mixed: Other Mixed groups,60-64,Economically inactive:retired,1500
+White: English,16-19,Economically active:Employee,513515
+White: English,16-19,Economically active:Self-Employed,24875
+White: English,16-19,Economically active:Unemployed,193850
+White: English,16-19,Economically inactive:Student,1053530
+White: English,16-19,Economically inactive:Looking after home or family,15140
+White: English,16-19,Economically inactive:long term sick,14170
+White: English,16-19,Economically inactive:retired,250
+White: English,16-19,Economically inactive:other,55820
+White: English,20-24,Economically active:Employee,1507650
+White: English,20-24,Economically active:Self-Employed,129070
+White: English,20-24,Economically active:Unemployed,192455
+White: English,20-24,Economically inactive:Student,390705
+White: English,20-24,Economically inactive:Looking after home or family,76445
+White: English,20-24,Economically inactive:long term sick,68600
+White: English,20-24,Economically inactive:retired,735
+White: English,20-24,Economically inactive:other,107980
+White: English,25-29,Economically active:Employee,1949795
+White: English,25-29,Economically active:Self-Employed,218285
+White: English,25-29,Economically active:Unemployed,110965
+White: English,25-29,Economically inactive:Student,56755
+White: English,25-29,Economically inactive:Looking after home or family,132725
+White: English,25-29,Economically inactive:long term sick,92115
+White: English,25-29,Economically inactive:retired,945
+White: English,25-29,Economically inactive:other,96630
+White: English,30-34,Economically active:Employee,1944030
+White: English,30-34,Economically active:Self-Employed,299405
+White: English,30-34,Economically active:Unemployed,86815
+White: English,30-34,Economically inactive:Student,27765
+White: English,30-34,Economically inactive:Looking after home or family,175035
+White: English,30-34,Economically inactive:long term sick,103495
+White: English,30-34,Economically inactive:retired,1110
+White: English,30-34,Economically inactive:other,87010
+White: English,35-39,Economically active:Employee,1778810
+White: English,35-39,Economically active:Self-Employed,320165
+White: English,35-39,Economically active:Unemployed,68785
+White: English,35-39,Economically inactive:Student,18200
+White: English,35-39,Economically inactive:Looking after home or family,165715
+White: English,35-39,Economically inactive:long term sick,112055
+White: English,35-39,Economically inactive:retired,1745
+White: English,35-39,Economically inactive:other,72845
+White: English,40-44,Economically active:Employee,1700510
+White: English,40-44,Economically active:Self-Employed,327030
+White: English,40-44,Economically active:Unemployed,61895
+White: English,40-44,Economically inactive:Student,12965
+White: English,40-44,Economically inactive:Looking after home or family,140485
+White: English,40-44,Economically inactive:long term sick,125590
+White: English,40-44,Economically inactive:retired,3435
+White: English,40-44,Economically inactive:other,67400
+White: English,45-49,Economically active:Employee,1864120
+White: English,45-49,Economically active:Self-Employed,377405
+White: English,45-49,Economically active:Unemployed,68635
+White: English,45-49,Economically inactive:Student,10440
+White: English,45-49,Economically inactive:Looking after home or family,141250
+White: English,45-49,Economically inactive:long term sick,170705
+White: English,45-49,Economically inactive:retired,9575
+White: English,45-49,Economically inactive:other,79080
+White: English,50-54,Economically active:Employee,2123055
+White: English,50-54,Economically active:Self-Employed,460395
+White: English,50-54,Economically active:Unemployed,82490
+White: English,50-54,Economically inactive:Student,8610
+White: English,50-54,Economically inactive:Looking after home or family,166250
+White: English,50-54,Economically inactive:long term sick,233410
+White: English,50-54,Economically inactive:retired,47755
+White: English,50-54,Economically inactive:other,105710
+White: English,55-59,Economically active:Employee,1940760
+White: English,55-59,Economically active:Self-Employed,468155
+White: English,55-59,Economically active:Unemployed,89065
+White: English,55-59,Economically inactive:Student,6940
+White: English,55-59,Economically inactive:Looking after home or family,182960
+White: English,55-59,Economically inactive:long term sick,273410
+White: English,55-59,Economically inactive:retired,250710
+White: English,55-59,Economically inactive:other,120305
+White: English,60-64,Economically active:Employee,1258305
+White: English,60-64,Economically active:Self-Employed,362785
+White: English,60-64,Economically active:Unemployed,72585
+White: English,60-64,Economically inactive:Student,4270
+White: English,60-64,Economically inactive:Looking after home or family,139650
+White: English,60-64,Economically inactive:long term sick,265250
+White: English,60-64,Economically inactive:retired,730775
+White: English,60-64,Economically inactive:other,98385
+White: Gypsy,16-19,Economically active:Employee,655
+White: Gypsy,16-19,Economically active:Self-Employed,170
+White: Gypsy,16-19,Economically active:Unemployed,505
+White: Gypsy,16-19,Economically inactive:Student,1705
+White: Gypsy,16-19,Economically inactive:Looking after home or family,525
+White: Gypsy,16-19,Economically inactive:long term sick,145
+White: Gypsy,16-19,Economically inactive:retired,10
+White: Gypsy,16-19,Economically inactive:other,805
+White: Gypsy,20-24,Economically active:Employee,1535
+White: Gypsy,20-24,Economically active:Self-Employed,525
+White: Gypsy,20-24,Economically active:Unemployed,530
+White: Gypsy,20-24,Economically inactive:Student,270
+White: Gypsy,20-24,Economically inactive:Looking after home or family,870
+White: Gypsy,20-24,Economically inactive:long term sick,420
+White: Gypsy,20-24,Economically inactive:retired,15
+White: Gypsy,20-24,Economically inactive:other,885
+White: Gypsy,25-29,Economically active:Employee,1435
+White: Gypsy,25-29,Economically active:Self-Employed,640
+White: Gypsy,25-29,Economically active:Unemployed,330
+White: Gypsy,25-29,Economically inactive:Student,85
+White: Gypsy,25-29,Economically inactive:Looking after home or family,1115
+White: Gypsy,25-29,Economically inactive:long term sick,460
+White: Gypsy,25-29,Economically inactive:retired,15
+White: Gypsy,25-29,Economically inactive:other,815
+White: Gypsy,30-34,Economically active:Employee,1545
+White: Gypsy,30-34,Economically active:Self-Employed,810
+White: Gypsy,30-34,Economically active:Unemployed,275
+White: Gypsy,30-34,Economically inactive:Student,60
+White: Gypsy,30-34,Economically inactive:Looking after home or family,1215
+White: Gypsy,30-34,Economically inactive:long term sick,560
+White: Gypsy,30-34,Economically inactive:retired,10
+White: Gypsy,30-34,Economically inactive:other,710
+White: Gypsy,35-39,Economically active:Employee,1270
+White: Gypsy,35-39,Economically active:Self-Employed,840
+White: Gypsy,35-39,Economically active:Unemployed,265
+White: Gypsy,35-39,Economically inactive:Student,75
+White: Gypsy,35-39,Economically inactive:Looking after home or family,1030
+White: Gypsy,35-39,Economically inactive:long term sick,545
+White: Gypsy,35-39,Economically inactive:retired,20
+White: Gypsy,35-39,Economically inactive:other,565
+White: Gypsy,40-44,Economically active:Employee,1230
+White: Gypsy,40-44,Economically active:Self-Employed,900
+White: Gypsy,40-44,Economically active:Unemployed,185
+White: Gypsy,40-44,Economically inactive:Student,110
+White: Gypsy,40-44,Economically inactive:Looking after home or family,770
+White: Gypsy,40-44,Economically inactive:long term sick,680
+White: Gypsy,40-44,Economically inactive:retired,25
+White: Gypsy,40-44,Economically inactive:other,500
+White: Gypsy,45-49,Economically active:Employee,1120
+White: Gypsy,45-49,Economically active:Self-Employed,785
+White: Gypsy,45-49,Economically active:Unemployed,165
+White: Gypsy,45-49,Economically inactive:Student,30
+White: Gypsy,45-49,Economically inactive:Looking after home or family,645
+White: Gypsy,45-49,Economically inactive:long term sick,800
+White: Gypsy,45-49,Economically inactive:retired,30
+White: Gypsy,45-49,Economically inactive:other,425
+White: Gypsy,50-54,Economically active:Employee,955
+White: Gypsy,50-54,Economically active:Self-Employed,680
+White: Gypsy,50-54,Economically active:Unemployed,135
+White: Gypsy,50-54,Economically inactive:Student,30
+White: Gypsy,50-54,Economically inactive:Looking after home or family,565
+White: Gypsy,50-54,Economically inactive:long term sick,1010
+White: Gypsy,50-54,Economically inactive:retired,60
+White: Gypsy,50-54,Economically inactive:other,435
+White: Gypsy,55-59,Economically active:Employee,715
+White: Gypsy,55-59,Economically active:Self-Employed,545
+White: Gypsy,55-59,Economically active:Unemployed,100
+White: Gypsy,55-59,Economically inactive:Student,10
+White: Gypsy,55-59,Economically inactive:Looking after home or family,420
+White: Gypsy,55-59,Economically inactive:long term sick,935
+White: Gypsy,55-59,Economically inactive:retired,110
+White: Gypsy,55-59,Economically inactive:other,370
+White: Gypsy,60-64,Economically active:Employee,390
+White: Gypsy,60-64,Economically active:Self-Employed,370
+White: Gypsy,60-64,Economically active:Unemployed,55
+White: Gypsy,60-64,Economically inactive:Student,0
+White: Gypsy,60-64,Economically inactive:Looking after home or family,300
+White: Gypsy,60-64,Economically inactive:long term sick,785
+White: Gypsy,60-64,Economically inactive:retired,245
+White: Gypsy,60-64,Economically inactive:other,255
+White: Irish,16-19,Economically active:Employee,1815
+White: Irish,16-19,Economically active:Self-Employed,140
+White: Irish,16-19,Economically active:Unemployed,1050
+White: Irish,16-19,Economically inactive:Student,6885
+White: Irish,16-19,Economically inactive:Looking after home or family,60
+White: Irish,16-19,Economically inactive:long term sick,55
+White: Irish,16-19,Economically inactive:retired,0
+White: Irish,16-19,Economically inactive:other,195
+White: Irish,20-24,Economically active:Employee,10200
+White: Irish,20-24,Economically active:Self-Employed,915
+White: Irish,20-24,Economically active:Unemployed,1820
+White: Irish,20-24,Economically inactive:Student,5955
+White: Irish,20-24,Economically inactive:Looking after home or family,265
+White: Irish,20-24,Economically inactive:long term sick,300
+White: Irish,20-24,Economically inactive:retired,15
+White: Irish,20-24,Economically inactive:other,590
+White: Irish,25-29,Economically active:Employee,21185
+White: Irish,25-29,Economically active:Self-Employed,2225
+White: Irish,25-29,Economically active:Unemployed,1025
+White: Irish,25-29,Economically inactive:Student,1080
+White: Irish,25-29,Economically inactive:Looking after home or family,530
+White: Irish,25-29,Economically inactive:long term sick,435
+White: Irish,25-29,Economically inactive:retired,20
+White: Irish,25-29,Economically inactive:other,780
+White: Irish,30-34,Economically active:Employee,24020
+White: Irish,30-34,Economically active:Self-Employed,3435
+White: Irish,30-34,Economically active:Unemployed,810
+White: Irish,30-34,Economically inactive:Student,410
+White: Irish,30-34,Economically inactive:Looking after home or family,935
+White: Irish,30-34,Economically inactive:long term sick,585
+White: Irish,30-34,Economically inactive:retired,20
+White: Irish,30-34,Economically inactive:other,720
+White: Irish,35-39,Economically active:Employee,22275
+White: Irish,35-39,Economically active:Self-Employed,4285
+White: Irish,35-39,Economically active:Unemployed,840
+White: Irish,35-39,Economically inactive:Student,270
+White: Irish,35-39,Economically inactive:Looking after home or family,1375
+White: Irish,35-39,Economically inactive:long term sick,850
+White: Irish,35-39,Economically inactive:retired,35
+White: Irish,35-39,Economically inactive:other,730
+White: Irish,40-44,Economically active:Employee,21560
+White: Irish,40-44,Economically active:Self-Employed,4890
+White: Irish,40-44,Economically active:Unemployed,940
+White: Irish,40-44,Economically inactive:Student,205
+White: Irish,40-44,Economically inactive:Looking after home or family,1585
+White: Irish,40-44,Economically inactive:long term sick,1165
+White: Irish,40-44,Economically inactive:retired,45
+White: Irish,40-44,Economically inactive:other,845
+White: Irish,45-49,Economically active:Employee,23290
+White: Irish,45-49,Economically active:Self-Employed,5645
+White: Irish,45-49,Economically active:Unemployed,1220
+White: Irish,45-49,Economically inactive:Student,195
+White: Irish,45-49,Economically inactive:Looking after home or family,1720
+White: Irish,45-49,Economically inactive:long term sick,1665
+White: Irish,45-49,Economically inactive:retired,185
+White: Irish,45-49,Economically inactive:other,1070
+White: Irish,50-54,Economically active:Employee,28520
+White: Irish,50-54,Economically active:Self-Employed,7110
+White: Irish,50-54,Economically active:Unemployed,1510
+White: Irish,50-54,Economically inactive:Student,200
+White: Irish,50-54,Economically inactive:Looking after home or family,2175
+White: Irish,50-54,Economically inactive:long term sick,2985
+White: Irish,50-54,Economically inactive:retired,565
+White: Irish,50-54,Economically inactive:other,1580
+White: Irish,55-59,Economically active:Employee,26835
+White: Irish,55-59,Economically active:Self-Employed,7840
+White: Irish,55-59,Economically active:Unemployed,1530
+White: Irish,55-59,Economically inactive:Student,165
+White: Irish,55-59,Economically inactive:Looking after home or family,2265
+White: Irish,55-59,Economically inactive:long term sick,3830
+White: Irish,55-59,Economically inactive:retired,3085
+White: Irish,55-59,Economically inactive:other,1870
+White: Irish,60-64,Economically active:Employee,17380
+White: Irish,60-64,Economically active:Self-Employed,5900
+White: Irish,60-64,Economically active:Unemployed,1315
+White: Irish,60-64,Economically inactive:Student,130
+White: Irish,60-64,Economically inactive:Looking after home or family,1715
+White: Irish,60-64,Economically inactive:long term sick,3955
+White: Irish,60-64,Economically inactive:retired,9100
+White: Irish,60-64,Economically inactive:other,1555
+White: Roma,16-19,Economically active:Employee,605
+White: Roma,16-19,Economically active:Self-Employed,140
+White: Roma,16-19,Economically active:Unemployed,420
+White: Roma,16-19,Economically inactive:Student,2385
+White: Roma,16-19,Economically inactive:Looking after home or family,205
+White: Roma,16-19,Economically inactive:long term sick,25
+White: Roma,16-19,Economically inactive:retired,15
+White: Roma,16-19,Economically inactive:other,375
+White: Roma,20-24,Economically active:Employee,5035
+White: Roma,20-24,Economically active:Self-Employed,1035
+White: Roma,20-24,Economically active:Unemployed,790
+White: Roma,20-24,Economically inactive:Student,1135
+White: Roma,20-24,Economically inactive:Looking after home or family,715
+White: Roma,20-24,Economically inactive:long term sick,70
+White: Roma,20-24,Economically inactive:retired,35
+White: Roma,20-24,Economically inactive:other,765
+White: Roma,25-29,Economically active:Employee,9220
+White: Roma,25-29,Economically active:Self-Employed,2195
+White: Roma,25-29,Economically active:Unemployed,845
+White: Roma,25-29,Economically inactive:Student,515
+White: Roma,25-29,Economically inactive:Looking after home or family,890
+White: Roma,25-29,Economically inactive:long term sick,105
+White: Roma,25-29,Economically inactive:retired,25
+White: Roma,25-29,Economically inactive:other,1030
+White: Roma,30-34,Economically active:Employee,9555
+White: Roma,30-34,Economically active:Self-Employed,2760
+White: Roma,30-34,Economically active:Unemployed,830
+White: Roma,30-34,Economically inactive:Student,235
+White: Roma,30-34,Economically inactive:Looking after home or family,1105
+White: Roma,30-34,Economically inactive:long term sick,120
+White: Roma,30-34,Economically inactive:retired,20
+White: Roma,30-34,Economically inactive:other,860
+White: Roma,35-39,Economically active:Employee,6590
+White: Roma,35-39,Economically active:Self-Employed,2455
+White: Roma,35-39,Economically active:Unemployed,650
+White: Roma,35-39,Economically inactive:Student,165
+White: Roma,35-39,Economically inactive:Looking after home or family,875
+White: Roma,35-39,Economically inactive:long term sick,185
+White: Roma,35-39,Economically inactive:retired,30
+White: Roma,35-39,Economically inactive:other,675
+White: Roma,40-44,Economically active:Employee,4800
+White: Roma,40-44,Economically active:Self-Employed,1940
+White: Roma,40-44,Economically active:Unemployed,490
+White: Roma,40-44,Economically inactive:Student,70
+White: Roma,40-44,Economically inactive:Looking after home or family,640
+White: Roma,40-44,Economically inactive:long term sick,225
+White: Roma,40-44,Economically inactive:retired,35
+White: Roma,40-44,Economically inactive:other,530
+White: Roma,45-49,Economically active:Employee,3665
+White: Roma,45-49,Economically active:Self-Employed,1445
+White: Roma,45-49,Economically active:Unemployed,360
+White: Roma,45-49,Economically inactive:Student,70
+White: Roma,45-49,Economically inactive:Looking after home or family,465
+White: Roma,45-49,Economically inactive:long term sick,320
+White: Roma,45-49,Economically inactive:retired,50
+White: Roma,45-49,Economically inactive:other,410
+White: Roma,50-54,Economically active:Employee,2375
+White: Roma,50-54,Economically active:Self-Employed,955
+White: Roma,50-54,Economically active:Unemployed,255
+White: Roma,50-54,Economically inactive:Student,35
+White: Roma,50-54,Economically inactive:Looking after home or family,345
+White: Roma,50-54,Economically inactive:long term sick,310
+White: Roma,50-54,Economically inactive:retired,80
+White: Roma,50-54,Economically inactive:other,310
+White: Roma,55-59,Economically active:Employee,1335
+White: Roma,55-59,Economically active:Self-Employed,505
+White: Roma,55-59,Economically active:Unemployed,145
+White: Roma,55-59,Economically inactive:Student,20
+White: Roma,55-59,Economically inactive:Looking after home or family,240
+White: Roma,55-59,Economically inactive:long term sick,310
+White: Roma,55-59,Economically inactive:retired,80
+White: Roma,55-59,Economically inactive:other,230
+White: Roma,60-64,Economically active:Employee,615
+White: Roma,60-64,Economically active:Self-Employed,310
+White: Roma,60-64,Economically active:Unemployed,65
+White: Roma,60-64,Economically inactive:Student,0
+White: Roma,60-64,Economically inactive:Looking after home or family,145
+White: Roma,60-64,Economically inactive:long term sick,240
+White: Roma,60-64,Economically inactive:retired,190
+White: Roma,60-64,Economically inactive:other,160
+White: Other White,16-19,Economically active:Employee,21120
+White: Other White,16-19,Economically active:Self-Employed,2470
+White: Other White,16-19,Economically active:Unemployed,12610
+White: Other White,16-19,Economically inactive:Student,89695
+White: Other White,16-19,Economically inactive:Looking after home or family,1250
+White: Other White,16-19,Economically inactive:long term sick,290
+White: Other White,16-19,Economically inactive:retired,45
+White: Other White,16-19,Economically inactive:other,3370
+White: Other White,20-24,Economically active:Employee,127785
+White: Other White,20-24,Economically active:Self-Employed,20740
+White: Other White,20-24,Economically active:Unemployed,22005
+White: Other White,20-24,Economically inactive:Student,56990
+White: Other White,20-24,Economically inactive:Looking after home or family,7015
+White: Other White,20-24,Economically inactive:long term sick,1380
+White: Other White,20-24,Economically inactive:retired,140
+White: Other White,20-24,Economically inactive:other,9310
+White: Other White,25-29,Economically active:Employee,263745
+White: Other White,25-29,Economically active:Self-Employed,48195
+White: Other White,25-29,Economically active:Unemployed,18410
+White: Other White,25-29,Economically inactive:Student,15915
+White: Other White,25-29,Economically inactive:Looking after home or family,15340
+White: Other White,25-29,Economically inactive:long term sick,2040
+White: Other White,25-29,Economically inactive:retired,170
+White: Other White,25-29,Economically inactive:other,12335
+White: Other White,30-34,Economically active:Employee,337830
+White: Other White,30-34,Economically active:Self-Employed,72500
+White: Other White,30-34,Economically active:Unemployed,18285
+White: Other White,30-34,Economically inactive:Student,7975
+White: Other White,30-34,Economically inactive:Looking after home or family,24265
+White: Other White,30-34,Economically inactive:long term sick,2630
+White: Other White,30-34,Economically inactive:retired,170
+White: Other White,30-34,Economically inactive:other,13510
+White: Other White,35-39,Economically active:Employee,335475
+White: Other White,35-39,Economically active:Self-Employed,82490
+White: Other White,35-39,Economically active:Unemployed,17220
+White: Other White,35-39,Economically inactive:Student,4700
+White: Other White,35-39,Economically inactive:Looking after home or family,28270
+White: Other White,35-39,Economically inactive:long term sick,3905
+White: Other White,35-39,Economically inactive:retired,215
+White: Other White,35-39,Economically inactive:other,12775
+White: Other White,40-44,Economically active:Employee,276480
+White: Other White,40-44,Economically active:Self-Employed,79355
+White: Other White,40-44,Economically active:Unemployed,14400
+White: Other White,40-44,Economically inactive:Student,3410
+White: Other White,40-44,Economically inactive:Looking after home or family,23215
+White: Other White,40-44,Economically inactive:long term sick,4910
+White: Other White,40-44,Economically inactive:retired,330
+White: Other White,40-44,Economically inactive:other,11020
+White: Other White,45-49,Economically active:Employee,191425
+White: Other White,45-49,Economically active:Self-Employed,60855
+White: Other White,45-49,Economically active:Unemployed,10740
+White: Other White,45-49,Economically inactive:Student,2160
+White: Other White,45-49,Economically inactive:Looking after home or family,16235
+White: Other White,45-49,Economically inactive:long term sick,5870
+White: Other White,45-49,Economically inactive:retired,705
+White: Other White,45-49,Economically inactive:other,8960
+White: Other White,50-54,Economically active:Employee,132620
+White: Other White,50-54,Economically active:Self-Employed,44075
+White: Other White,50-54,Economically active:Unemployed,7915
+White: Other White,50-54,Economically inactive:Student,1295
+White: Other White,50-54,Economically inactive:Looking after home or family,12745
+White: Other White,50-54,Economically inactive:long term sick,7005
+White: Other White,50-54,Economically inactive:retired,1790
+White: Other White,50-54,Economically inactive:other,7790
+White: Other White,55-59,Economically active:Employee,84725
+White: Other White,55-59,Economically active:Self-Employed,29720
+White: Other White,55-59,Economically active:Unemployed,5415
+White: Other White,55-59,Economically inactive:Student,745
+White: Other White,55-59,Economically inactive:Looking after home or family,9850
+White: Other White,55-59,Economically inactive:long term sick,7790
+White: Other White,55-59,Economically inactive:retired,5710
+White: Other White,55-59,Economically inactive:other,6730
+White: Other White,60-64,Economically active:Employee,48580
+White: Other White,60-64,Economically active:Self-Employed,19385
+White: Other White,60-64,Economically active:Unemployed,3475
+White: Other White,60-64,Economically inactive:Student,395
+White: Other White,60-64,Economically inactive:Looking after home or family,6810
+White: Other White,60-64,Economically inactive:long term sick,7550
+White: Other White,60-64,Economically inactive:retired,16455
+White: Other White,60-64,Economically inactive:other,5335
+Other ethnic group: Arab,16-19,Economically active:Employee,1450
+Other ethnic group: Arab,16-19,Economically active:Self-Employed,125
+Other ethnic group: Arab,16-19,Economically active:Unemployed,1660
+Other ethnic group: Arab,16-19,Economically inactive:Student,19640
+Other ethnic group: Arab,16-19,Economically inactive:Looking after home or family,165
+Other ethnic group: Arab,16-19,Economically inactive:long term sick,55
+Other ethnic group: Arab,16-19,Economically inactive:retired,0
+Other ethnic group: Arab,16-19,Economically inactive:other,635
+Other ethnic group: Arab,20-24,Economically active:Employee,7140
+Other ethnic group: Arab,20-24,Economically active:Self-Employed,765
+Other ethnic group: Arab,20-24,Economically active:Unemployed,3340
+Other ethnic group: Arab,20-24,Economically inactive:Student,12925
+Other ethnic group: Arab,20-24,Economically inactive:Looking after home or family,1445
+Other ethnic group: Arab,20-24,Economically inactive:long term sick,290
+Other ethnic group: Arab,20-24,Economically inactive:retired,15
+Other ethnic group: Arab,20-24,Economically inactive:other,1645
+Other ethnic group: Arab,25-29,Economically active:Employee,11635
+Other ethnic group: Arab,25-29,Economically active:Self-Employed,1655
+Other ethnic group: Arab,25-29,Economically active:Unemployed,2555
+Other ethnic group: Arab,25-29,Economically inactive:Student,4195
+Other ethnic group: Arab,25-29,Economically inactive:Looking after home or family,3565
+Other ethnic group: Arab,25-29,Economically inactive:long term sick,475
+Other ethnic group: Arab,25-29,Economically inactive:retired,25
+Other ethnic group: Arab,25-29,Economically inactive:other,2180
+Other ethnic group: Arab,30-34,Economically active:Employee,12975
+Other ethnic group: Arab,30-34,Economically active:Self-Employed,2345
+Other ethnic group: Arab,30-34,Economically active:Unemployed,2110
+Other ethnic group: Arab,30-34,Economically inactive:Student,3580
+Other ethnic group: Arab,30-34,Economically inactive:Looking after home or family,5430
+Other ethnic group: Arab,30-34,Economically inactive:long term sick,650
+Other ethnic group: Arab,30-34,Economically inactive:retired,30
+Other ethnic group: Arab,30-34,Economically inactive:other,2300
+Other ethnic group: Arab,35-39,Economically active:Employee,12340
+Other ethnic group: Arab,35-39,Economically active:Self-Employed,2855
+Other ethnic group: Arab,35-39,Economically active:Unemployed,1950
+Other ethnic group: Arab,35-39,Economically inactive:Student,2285
+Other ethnic group: Arab,35-39,Economically inactive:Looking after home or family,6215
+Other ethnic group: Arab,35-39,Economically inactive:long term sick,960
+Other ethnic group: Arab,35-39,Economically inactive:retired,70
+Other ethnic group: Arab,35-39,Economically inactive:other,2250
+Other ethnic group: Arab,40-44,Economically active:Employee,10830
+Other ethnic group: Arab,40-44,Economically active:Self-Employed,3050
+Other ethnic group: Arab,40-44,Economically active:Unemployed,1815
+Other ethnic group: Arab,40-44,Economically inactive:Student,1300
+Other ethnic group: Arab,40-44,Economically inactive:Looking after home or family,5230
+Other ethnic group: Arab,40-44,Economically inactive:long term sick,1255
+Other ethnic group: Arab,40-44,Economically inactive:retired,60
+Other ethnic group: Arab,40-44,Economically inactive:other,1980
+Other ethnic group: Arab,45-49,Economically active:Employee,8405
+Other ethnic group: Arab,45-49,Economically active:Self-Employed,2860
+Other ethnic group: Arab,45-49,Economically active:Unemployed,1265
+Other ethnic group: Arab,45-49,Economically inactive:Student,695
+Other ethnic group: Arab,45-49,Economically inactive:Looking after home or family,3845
+Other ethnic group: Arab,45-49,Economically inactive:long term sick,1700
+Other ethnic group: Arab,45-49,Economically inactive:retired,90
+Other ethnic group: Arab,45-49,Economically inactive:other,1555
+Other ethnic group: Arab,50-54,Economically active:Employee,6655
+Other ethnic group: Arab,50-54,Economically active:Self-Employed,2715
+Other ethnic group: Arab,50-54,Economically active:Unemployed,975
+Other ethnic group: Arab,50-54,Economically inactive:Student,335
+Other ethnic group: Arab,50-54,Economically inactive:Looking after home or family,3060
+Other ethnic group: Arab,50-54,Economically inactive:long term sick,1925
+Other ethnic group: Arab,50-54,Economically inactive:retired,170
+Other ethnic group: Arab,50-54,Economically inactive:other,1365
+Other ethnic group: Arab,55-59,Economically active:Employee,4790
+Other ethnic group: Arab,55-59,Economically active:Self-Employed,1925
+Other ethnic group: Arab,55-59,Economically active:Unemployed,695
+Other ethnic group: Arab,55-59,Economically inactive:Student,180
+Other ethnic group: Arab,55-59,Economically inactive:Looking after home or family,1855
+Other ethnic group: Arab,55-59,Economically inactive:long term sick,2045
+Other ethnic group: Arab,55-59,Economically inactive:retired,415
+Other ethnic group: Arab,55-59,Economically inactive:other,1265
+Other ethnic group: Arab,60-64,Economically active:Employee,2670
+Other ethnic group: Arab,60-64,Economically active:Self-Employed,1260
+Other ethnic group: Arab,60-64,Economically active:Unemployed,385
+Other ethnic group: Arab,60-64,Economically inactive:Student,80
+Other ethnic group: Arab,60-64,Economically inactive:Looking after home or family,1075
+Other ethnic group: Arab,60-64,Economically inactive:long term sick,1685
+Other ethnic group: Arab,60-64,Economically inactive:retired,1175
+Other ethnic group: Arab,60-64,Economically inactive:other,800
+Other ethnic group: Any other ethnic group,16-19,Economically active:Employee,5515
+Other ethnic group: Any other ethnic group,16-19,Economically active:Self-Employed,540
+Other ethnic group: Any other ethnic group,16-19,Economically active:Unemployed,3730
+Other ethnic group: Any other ethnic group,16-19,Economically inactive:Student,35095
+Other ethnic group: Any other ethnic group,16-19,Economically inactive:Looking after home or family,540
+Other ethnic group: Any other ethnic group,16-19,Economically inactive:long term sick,110
+Other ethnic group: Any other ethnic group,16-19,Economically inactive:retired,20
+Other ethnic group: Any other ethnic group,16-19,Economically inactive:other,1870
+Other ethnic group: Any other ethnic group,20-24,Economically active:Employee,25935
+Other ethnic group: Any other ethnic group,20-24,Economically active:Self-Employed,3455
+Other ethnic group: Any other ethnic group,20-24,Economically active:Unemployed,7060
+Other ethnic group: Any other ethnic group,20-24,Economically inactive:Student,16750
+Other ethnic group: Any other ethnic group,20-24,Economically inactive:Looking after home or family,2975
+Other ethnic group: Any other ethnic group,20-24,Economically inactive:long term sick,695
+Other ethnic group: Any other ethnic group,20-24,Economically inactive:retired,70
+Other ethnic group: Any other ethnic group,20-24,Economically inactive:other,5410
+Other ethnic group: Any other ethnic group,25-29,Economically active:Employee,40810
+Other ethnic group: Any other ethnic group,25-29,Economically active:Self-Employed,7595
+Other ethnic group: Any other ethnic group,25-29,Economically active:Unemployed,5575
+Other ethnic group: Any other ethnic group,25-29,Economically inactive:Student,5180
+Other ethnic group: Any other ethnic group,25-29,Economically inactive:Looking after home or family,6270
+Other ethnic group: Any other ethnic group,25-29,Economically inactive:long term sick,1125
+Other ethnic group: Any other ethnic group,25-29,Economically inactive:retired,65
+Other ethnic group: Any other ethnic group,25-29,Economically inactive:other,7190
+Other ethnic group: Any other ethnic group,30-34,Economically active:Employee,46655
+Other ethnic group: Any other ethnic group,30-34,Economically active:Self-Employed,11130
+Other ethnic group: Any other ethnic group,30-34,Economically active:Unemployed,5180
+Other ethnic group: Any other ethnic group,30-34,Economically inactive:Student,3485
+Other ethnic group: Any other ethnic group,30-34,Economically inactive:Looking after home or family,10940
+Other ethnic group: Any other ethnic group,30-34,Economically inactive:long term sick,1550
+Other ethnic group: Any other ethnic group,30-34,Economically inactive:retired,80
+Other ethnic group: Any other ethnic group,30-34,Economically inactive:other,7475
+Other ethnic group: Any other ethnic group,35-39,Economically active:Employee,47735
+Other ethnic group: Any other ethnic group,35-39,Economically active:Self-Employed,13420
+Other ethnic group: Any other ethnic group,35-39,Economically active:Unemployed,4775
+Other ethnic group: Any other ethnic group,35-39,Economically inactive:Student,2415
+Other ethnic group: Any other ethnic group,35-39,Economically inactive:Looking after home or family,12235
+Other ethnic group: Any other ethnic group,35-39,Economically inactive:long term sick,2155
+Other ethnic group: Any other ethnic group,35-39,Economically inactive:retired,80
+Other ethnic group: Any other ethnic group,35-39,Economically inactive:other,7175
+Other ethnic group: Any other ethnic group,40-44,Economically active:Employee,45695
+Other ethnic group: Any other ethnic group,40-44,Economically active:Self-Employed,14005
+Other ethnic group: Any other ethnic group,40-44,Economically active:Unemployed,4295
+Other ethnic group: Any other ethnic group,40-44,Economically inactive:Student,1680
+Other ethnic group: Any other ethnic group,40-44,Economically inactive:Looking after home or family,10925
+Other ethnic group: Any other ethnic group,40-44,Economically inactive:long term sick,2655
+Other ethnic group: Any other ethnic group,40-44,Economically inactive:retired,125
+Other ethnic group: Any other ethnic group,40-44,Economically inactive:other,6095
+Other ethnic group: Any other ethnic group,45-49,Economically active:Employee,37900
+Other ethnic group: Any other ethnic group,45-49,Economically active:Self-Employed,12460
+Other ethnic group: Any other ethnic group,45-49,Economically active:Unemployed,3220
+Other ethnic group: Any other ethnic group,45-49,Economically inactive:Student,1075
+Other ethnic group: Any other ethnic group,45-49,Economically inactive:Looking after home or family,7870
+Other ethnic group: Any other ethnic group,45-49,Economically inactive:long term sick,3495
+Other ethnic group: Any other ethnic group,45-49,Economically inactive:retired,245
+Other ethnic group: Any other ethnic group,45-49,Economically inactive:other,5060
+Other ethnic group: Any other ethnic group,50-54,Economically active:Employee,30640
+Other ethnic group: Any other ethnic group,50-54,Economically active:Self-Employed,10045
+Other ethnic group: Any other ethnic group,50-54,Economically active:Unemployed,2620
+Other ethnic group: Any other ethnic group,50-54,Economically inactive:Student,705
+Other ethnic group: Any other ethnic group,50-54,Economically inactive:Looking after home or family,5915
+Other ethnic group: Any other ethnic group,50-54,Economically inactive:long term sick,4185
+Other ethnic group: Any other ethnic group,50-54,Economically inactive:retired,525
+Other ethnic group: Any other ethnic group,50-54,Economically inactive:other,4330
+Other ethnic group: Any other ethnic group,55-59,Economically active:Employee,21820
+Other ethnic group: Any other ethnic group,55-59,Economically active:Self-Employed,7470
+Other ethnic group: Any other ethnic group,55-59,Economically active:Unemployed,1885
+Other ethnic group: Any other ethnic group,55-59,Economically inactive:Student,350
+Other ethnic group: Any other ethnic group,55-59,Economically inactive:Looking after home or family,4565
+Other ethnic group: Any other ethnic group,55-59,Economically inactive:long term sick,4625
+Other ethnic group: Any other ethnic group,55-59,Economically inactive:retired,1550
+Other ethnic group: Any other ethnic group,55-59,Economically inactive:other,3850
+Other ethnic group: Any other ethnic group,60-64,Economically active:Employee,13945
+Other ethnic group: Any other ethnic group,60-64,Economically active:Self-Employed,5355
+Other ethnic group: Any other ethnic group,60-64,Economically active:Unemployed,1270
+Other ethnic group: Any other ethnic group,60-64,Economically inactive:Student,165
+Other ethnic group: Any other ethnic group,60-64,Economically inactive:Looking after home or family,3520
+Other ethnic group: Any other ethnic group,60-64,Economically inactive:long term sick,4335
+Other ethnic group: Any other ethnic group,60-64,Economically inactive:retired,4930
+Other ethnic group: Any other ethnic group,60-64,Economically inactive:other,3115
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
