@@ -1,110 +1,113 @@
 Ethnic group,Age band,Economically active:Employee,Economically active:Self-Employed,Economically active:Unemployed,Economically inactive:Student,Economically inactive:Looking after home or family,Economically inactive:long term sick or disabled,Economically inactive:retired,Economically inactive:other
-Asian, Asian British or Asian Welsh: Bangladeshi,16-19,5855,220,4785,37780,320,95,10,815
-Asian, Asian British or Asian Welsh: Bangladeshi,20-24,26515,1180,7245,13590,2755,765,15,3085
-Asian, Asian British or Asian Welsh: Bangladeshi,25-29,29770,2270,3945,2025,6845,900,20,3225
-Asian, Asian British or Asian Welsh: Bangladeshi,30-34,28515,3740,2875,1165,13105,1255,45,3735
-Asian, Asian British or Asian Welsh: Bangladeshi,35-39,26490,5475,2635,1040,15420,1585,40,3480
-Asian, Asian British or Asian Welsh: Bangladeshi,40-44,25770,7260,2565,885,14465,2025,85,3385
-Asian, Asian British or Asian Welsh: Bangladeshi,45-49,19670,7200,2030,490,10880,2315,160,2875
-Asian, Asian British or Asian Welsh: Bangladeshi,50-54,11535,5245,1425,245,6815,2410,360,2360
-Asian, Asian British or Asian Welsh: Bangladeshi,55-59,5300,2650,875,110,4050,2360,685,1865
-Asian, Asian British or Asian Welsh: Bangladeshi,60-64,2825,1495,635,50,2540,2660,1690,1480
-Asian, Asian British or Asian Welsh: Chinese,16-19,1485,145,685,20445,35,15,0,175
-Asian, Asian British or Asian Welsh: Chinese,20-24,10775,1080,3175,44510,365,120,0,970
-Asian, Asian British or Asian Welsh: Chinese,25-29,23765,2205,1910,12400,1075,180,15,1405
-Asian, Asian British or Asian Welsh: Chinese,30-34,26590,3530,1420,2665,3445,220,20,1560
-Asian, Asian British or Asian Welsh: Chinese,35-39,26530,4880,1275,720,5360,260,50,1600
-Asian, Asian British or Asian Welsh: Chinese,40-44,22625,5365,1285,410,5005,345,105,1520
-Asian, Asian British or Asian Welsh: Chinese,45-49,18240,5085,1165,270,4390,385,270,1630
-Asian, Asian British or Asian Welsh: Chinese,50-54,14095,4170,995,180,3295,455,1085,1540
-Asian, Asian British or Asian Welsh: Chinese,55-59,10775,3455,755,90,2660,540,2780,1560
-Asian, Asian British or Asian Welsh: Chinese,60-64,6485,2370,545,55,1680,635,6090,1015
-Asian, Asian British or Asian Welsh: Indian,16-19,10240,500,6115,63290,295,90,0,1025
-Asian, Asian British or Asian Welsh: Indian,20-24,55855,3080,13605,38040,1895,655,30,3265
-Asian, Asian British or Asian Welsh: Indian,25-29,94145,7550,9340,8820,6870,1175,25,4530
-Asian, Asian British or Asian Welsh: Indian,30-34,123460,14475,7345,2870,15900,1515,45,6000
-Asian, Asian British or Asian Welsh: Indian,35-39,137235,21535,7060,1575,18470,2030,55,6280
-Asian, Asian British or Asian Welsh: Indian,40-44,122465,23970,6255,865,14175,2815,110,5720
-Asian, Asian British or Asian Welsh: Indian,45-49,92490,19590,4695,480,10490,3455,260,4985
-Asian, Asian British or Asian Welsh: Indian,50-54,71390,16190,3905,310,8850,4250,1050,4745
-Asian, Asian British or Asian Welsh: Indian,55-59,51650,12755,3085,205,8250,5200,4290,4785
-Asian, Asian British or Asian Welsh: Indian,60-64,36535,10945,2585,105,7645,6340,14655,4990
-Asian, Asian British or Asian Welsh: Pakistani,16-19,13475,565,9540,86195,980,360,15,3105
-Asian, Asian British or Asian Welsh: Pakistani,20-24,55030,3475,14820,31055,6760,2125,35,8140
-Asian, Asian British or Asian Welsh: Pakistani,25-29,68555,8600,8545,4460,16185,2810,35,8640
-Asian, Asian British or Asian Welsh: Pakistani,30-34,67845,15425,6495,2065,28610,3435,55,9085
-Asian, Asian British or Asian Welsh: Pakistani,35-39,64765,21075,5860,1640,32700,4460,155,9100
-Asian, Asian British or Asian Welsh: Pakistani,40-44,57280,23155,505
-Black, Black British, Black Welsh, Caribbean or African: African,16-19,10445,605,12110,84515,320,155,10,1895
-Black, Black British, Black Welsh, Caribbean or African: African,20-24,50920,3705,19990,37935,2555,1115,35,6750
-Black, Black British, Black Welsh, Caribbean or African: African,25-29,68510,6630,12580,8500,6385,1650,35,7625
-Black, Black British, Black Welsh, Caribbean or African: African,30-34,68360,9275,10105,6155,11165,1885,35,7250
-Black, Black British, Black Welsh, Caribbean or African: African,35-39,72025,12430,9205,5100,12375,2200,55,7320
-Black, Black British, Black Welsh, Caribbean or African: African,40-44,78850,15410,8290,4590,11135,2890,160,7345
-Black, Black British, Black Welsh, Caribbean or African: African,45-49,73100,15535,7180,3235,8200,3445,120,6960
-Black, Black British, Black Welsh, Caribbean or African: African,50-54,64150,14665,5560,2030,6220,4750,350,6780
-Black, Black British, Black Welsh, Caribbean or African: African,55-59,42955,10340,3785,1155,3680,4585,1095,5265
-Black, Black British, Black Welsh, Caribbean or African: African,60-64,23605,5915,2195,345,2025,3940,2990,3550
-Black, Black British, Black Welsh, Caribbean or African: Caribbean,16-19,4395,210,4505,19030,265,115,0,1115
-Black, Black British, Black Welsh, Caribbean or African: Caribbean,20-24,19550,1570,6925,7230,1290,880,15,3055
-Black, Black British, Black Welsh, Caribbean or African: Caribbean,25-29,27155,2745,4650,1675,2090,1180,65,3105
-Black, Black British, Black Welsh, Caribbean or African: Caribbean,30-34,27425,3570,3645,1125,2800,1430,30,2825
-Black, Black British, Black Welsh, Caribbean or African: Caribbean,35-39,26140,3755,2975,875,2915,1780,35,2295
-Black, Black British, Black Welsh, Caribbean or African: Caribbean,40-44,24340,4080,2440,670,2500,1970,45,2085
-Black, Black British, Black Welsh, Caribbean or African: Caribbean,45-49,25595,4255,2535,600,2065,2530,90,2190
-Black, Black British, Black Welsh, Caribbean or African: Caribbean,50-54,36440,5990,3495,515,2750,4870,425,3220
-Black, Black British, Black Welsh, Caribbean or African: Caribbean,55-59,40780,6810,3940,570,2810,6690,2280,4245
-Black, Black British, Black Welsh, Caribbean or African: Caribbean,60-64,23830,4685,2735,200,1775,5125,6205,3390
-Black, Black British, Black Welsh, Caribbean or African: Other Black,16-19,2290,105,2475,18220,80,110,0,575
-Black, Black British, Black Welsh, Caribbean or African: Other Black,20-24,8065,670,3295,4915,495,400,15,1670
-Black, Black British, Black Welsh, Caribbean or African: Other Black,25-29,9595,1115,1925,820,645,545,0,1425
-Black, Black British, Black Welsh, Caribbean or African: Other Black,30-34,8205,1230,1230,450,1005,650,0,1120
-Black, Black British, Black Welsh, Caribbean or African: Other Black,35-39,8040,1375,1055,400,1100,720,0,1090
-Black, Black British, Black Welsh, Caribbean or African: Other Black,40-44,7660,1495,955,340,1000,865,20,1085
-Black, Black British, Black Welsh, Caribbean or African: Other Black,45-49,7400,1335,920,220,795,1050,35,825
-Black, Black British, Black Welsh, Caribbean or African: Other Black,50-54,10055,1815,1110,275,860,1890,125,1445
-Black, Black British, Black Welsh, Caribbean or African: Other Black,55-59,10875,1930,1340,200,945,2340,620,1435
-Black, Black British, Black Welsh, Caribbean or African: Other Black,60-64,4800,1020,635,75,410,1355,1245,815
-Mixed or Multiple ethnic groups: White and Asian,16-19,6440,445,3385,29250,195,180,0,960
-Mixed or Multiple ethnic groups: White and Asian,20-24,19895,1895,4190,12915,835,710,0,1675
-Mixed or Multiple ethnic groups: White and Asian,25-29,24860,2865,1990,1555,1130,795,10,1335
-Mixed or Multiple ethnic groups: White and Asian,30-34,21070,3495,1295,580,1550,820,0,1145
-Mixed or Multiple ethnic groups: White and Asian,35-39,15790,3255,870,340,1560,825,20,815
-Mixed or Multiple ethnic groups: White and Asian,40-44,11955,2830,595,205,1300,850,40,675
-Mixed or Multiple ethnic groups: White and Asian,45-49,9390,2400,565,150,965,895,55,560
-Mixed or Multiple ethnic groups: White and Asian,50-54,9075,2520,555,100,930,1180,195,625
-Mixed or Multiple ethnic groups: White and Asian,55-59,6840,2085,490,65,795,1035,830,635
-Mixed or Multiple ethnic groups: White and Asian,60-64,3255,1135,255,15,385,745,1650,320
-Mixed or Multiple ethnic groups: White and Black African,16-19,3095,200,2335,13350,135,110,0,580
-Mixed or Multiple ethnic groups: White and Black African,20-24,9575,1080,2740,4800,530,425,0,1105
-Mixed or Multiple ethnic groups: White and Black African,25-29,9770,1440,1295,730,780,520,0,840
-Mixed or Multiple ethnic groups: White and Black African,30-34,8585,1695,930,425,1040,450,0,660
-Mixed or Multiple ethnic groups: White and Black African,35-39,7950,1615,800,290,1095,520,0,550
-Mixed or Multiple ethnic groups: White and Black African,40-44,7035,1570,710,270,925,605,20,545
-Mixed or Multiple ethnic groups: White and Black African,45-49,5595,1285,525,130,710,590,15,400
-Mixed or Multiple ethnic groups: White and Black African,50-54,4630,1105,470,75,460,660,45,480
-Mixed or Multiple ethnic groups: White and Black African,55-59,3545,930,335,50,355,825,225,415
-Mixed or Multiple ethnic groups: White and Black African,60-64,2005,550,230,20,235,615,545,290
-Mixed or Multiple ethnic groups: White and Black Caribbean,16-19,8545,495,6025,26140,490,415,0,1810
-Mixed or Multiple ethnic groups: White and Black Caribbean,20-24,26695,2685,6800,7700,2250,1680,25,3700
-Mixed or Multiple ethnic groups: White and Black Caribbean,25-29,29800,4030,3720,1600,3350,2070,20,3150
-Mixed or Multiple ethnic groups: White and Black Caribbean,30-34,25490,4410,2660,895,3470,2185,30,2465
-Mixed or Multiple ethnic groups: White and Black Caribbean,35-39,17400,3340,1580,590,2595,1985,25,1675
-Mixed or Multiple ethnic groups: White and Black Caribbean,40-44,11805,2550,1165,275,1545,1715,35,1125
-Mixed or Multiple ethnic groups: White and Black Caribbean,45-49,9690,2055,880,205,1095,1715,35,855
-Mixed or Multiple ethnic groups: White and Black Caribbean,50-54,9590,2115,845,155,1055,2310,170,975
-Mixed or Multiple ethnic groups: White and Black Caribbean,55-59,7740,1695,765,75,825,2120,555,925
-Mixed or Multiple ethnic groups: White and Black Caribbean,60-64,3635,905,450,40,420,1225,1125,500
-Mixed or Multiple ethnic groups: Other Mixed or Multiple ethnic groups,16-19,4890,370,3505,22385,255,165,0,970
-Mixed or Multiple ethnic groups: Other Mixed or Multiple ethnic groups,20-24,17060,2035,4540,9625,975,860,20,2065
-Mixed or Multiple ethnic groups: Other Mixed or Multiple ethnic groups,25-29,23155,3500,2745,1990,1635,970,10,1810
-Mixed or Multiple ethnic groups: Other Mixed or Multiple ethnic groups,30-34,24330,4580,2025,1225,2405,1080,20,1660
-Mixed or Multiple ethnic groups: Other Mixed or Multiple ethnic groups,35-39,21345,4800,1590,710,2480,1145,25,1380
-Mixed or Multiple ethnic groups: Other Mixed or Multiple ethnic groups,40-44,16895,4285,1325,390,2015,1170,35,1130
-Mixed or Multiple ethnic groups: Other Mixed or Multiple ethnic groups,45-49,12615,3485,1115,295,1445,1250,65,915
-Mixed or Multiple ethnic groups: Other Mixed or Multiple ethnic groups,50-54,10370,3030,970,205,1180,1500,255,910
-Mixed or Multiple ethnic groups: Other Mixed or Multiple ethnic groups,55-59,7580,2180,665,165,940,1560,675,810
-Mixed or Multiple ethnic groups: Other Mixed or Multiple ethnic groups,60-64,3980,1320,425,55,530,1080,1500,570
+Asian: Bangladeshi,16-19,5855,220,4785,37780,320,95,10,815
+Asian: Bangladeshi,20-24,26515,1180,7245,13590,2755,765,15,3085
+Asian: Bangladeshi,25-29,29770,2270,3945,2025,6845,900,20,3225
+Asian: Bangladeshi,30-34,28515,3740,2875,1165,13105,1255,45,3735
+Asian: Bangladeshi,35-39,26490,5475,2635,1040,15420,1585,40,3480
+Asian: Bangladeshi,40-44,25770,7260,2565,885,14465,2025,85,3385
+Asian: Bangladeshi,45-49,19670,7200,2030,490,10880,2315,160,2875
+Asian: Bangladeshi,50-54,11535,5245,1425,245,6815,2410,360,2360
+Asian: Bangladeshi,55-59,5300,2650,875,110,4050,2360,685,1865
+Asian: Bangladeshi,60-64,2825,1495,635,50,2540,2660,1690,1480
+Asian: Chinese,16-19,1485,145,685,20445,35,15,0,175
+Asian: Chinese,20-24,10775,1080,3175,44510,365,120,0,970
+Asian: Chinese,25-29,23765,2205,1910,12400,1075,180,15,1405
+Asian: Chinese,30-34,26590,3530,1420,2665,3445,220,20,1560
+Asian: Chinese,35-39,26530,4880,1275,720,5360,260,50,1600
+Asian: Chinese,40-44,22625,5365,1285,410,5005,345,105,1520
+Asian: Chinese,45-49,18240,5085,1165,270,4390,385,270,1630
+Asian: Chinese,50-54,14095,4170,995,180,3295,455,1085,1540
+Asian: Chinese,55-59,10775,3455,755,90,2660,540,2780,1560
+Asian: Chinese,60-64,6485,2370,545,55,1680,635,6090,1015
+Asian: Indian,16-19,10240,500,6115,63290,295,90,0,1025
+Asian: Indian,20-24,55855,3080,13605,38040,1895,655,30,3265
+Asian: Indian,25-29,94145,7550,9340,8820,6870,1175,25,4530
+Asian: Indian,30-34,123460,14475,7345,2870,15900,1515,45,6000
+Asian: Indian,35-39,137235,21535,7060,1575,18470,2030,55,6280
+Asian: Indian,40-44,122465,23970,6255,865,14175,2815,110,5720
+Asian: Indian,45-49,92490,19590,4695,480,10490,3455,260,4985
+Asian: Indian,50-54,71390,16190,3905,310,8850,4250,1050,4745
+Asian: Indian,55-59,51650,12755,3085,205,8250,5200,4290,4785
+Asian: Indian,60-64,36535,10945,2585,105,7645,6340,14655,4990
+Asian: Pakistani,16-19,13475,565,9540,86195,980,360,15,3105
+Asian: Pakistani,20-24,55030,3475,14820,31055,6760,2125,35,8140
+Asian: Pakistani,25-29,68555,8600,8545,4460,16185,2810,35,8640
+Asian: Pakistani,30-34,67845,15425,6495,2065,28610,3435,55,9085
+Asian: Pakistani,35-39,64765,21075,5860,1640,32700,4460,155,9100
+Asian: Pakistani,40-44,57280,23155,5055,1255,29805,5180,130,8240
+Asian: Pakistani,50-54,29465,16390,2980,350,17240,6375,625,5965
+Asian: Pakistani, 55-59,14680,9210,1600,155,10700,5340,1460,4330
+Asian: Pakistani, 60-64,9490,7025,1245,105,8615,6705,5000,4430
+Black: African,16-19,10445,605,12110,84515,320,155,10,1895
+Black: African,20-24,50920,3705,19990,37935,2555,1115,35,6750
+Black: African,25-29,68510,6630,12580,8500,6385,1650,35,7625
+Black: African,30-34,68360,9275,10105,6155,11165,1885,35,7250
+Black: African,35-39,72025,12430,9205,5100,12375,2200,55,7320
+Black: African,40-44,78850,15410,8290,4590,11135,2890,160,7345
+Black: African,45-49,73100,15535,7180,3235,8200,3445,120,6960
+Black: African,50-54,64150,14665,5560,2030,6220,4750,350,6780
+Black: African,55-59,42955,10340,3785,1155,3680,4585,1095,5265
+Black: African,60-64,23605,5915,2195,345,2025,3940,2990,3550
+Black: Caribbean,16-19,4395,210,4505,19030,265,115,0,1115
+Black: Caribbean,20-24,19550,1570,6925,7230,1290,880,15,3055
+Black: Caribbean,25-29,27155,2745,4650,1675,2090,1180,65,3105
+Black: Caribbean,30-34,27425,3570,3645,1125,2800,1430,30,2825
+Black: Caribbean,35-39,26140,3755,2975,875,2915,1780,35,2295
+Black: Caribbean,40-44,24340,4080,2440,670,2500,1970,45,2085
+Black: Caribbean,45-49,25595,4255,2535,600,2065,2530,90,2190
+Black: Caribbean,50-54,36440,5990,3495,515,2750,4870,425,3220
+Black: Caribbean,55-59,40780,6810,3940,570,2810,6690,2280,4245
+Black: Caribbean,60-64,23830,4685,2735,200,1775,5125,6205,3390
+Black: Other Black,16-19,2290,105,2475,18220,80,110,0,575
+Black: Other Black,20-24,8065,670,3295,4915,495,400,15,1670
+Black: Other Black,25-29,9595,1115,1925,820,645,545,0,1425
+Black: Other Black,30-34,8205,1230,1230,450,1005,650,0,1120
+Black: Other Black,35-39,8040,1375,1055,400,1100,720,0,1090
+Black: Other Black,40-44,7660,1495,955,340,1000,865,20,1085
+Black: Other Black,45-49,7400,1335,920,220,795,1050,35,825
+Black: Other Black,50-54,10055,1815,1110,275,860,1890,125,1445
+Black: Other Black,55-59,10875,1930,1340,200,945,2340,620,1435
+Black: Other Black,60-64,4800,1020,635,75,410,1355,1245,815
+Mixed: White and Asian,16-19,6440,445,3385,29250,195,180,0,960
+Mixed: White and Asian,20-24,19895,1895,4190,12915,835,710,0,1675
+Mixed: White and Asian,25-29,24860,2865,1990,1555,1130,795,10,1335
+Mixed: White and Asian,30-34,21070,3495,1295,580,1550,820,0,1145
+Mixed: White and Asian,35-39,15790,3255,870,340,1560,825,20,815
+Mixed: White and Asian,40-44,11955,2830,595,205,1300,850,40,675
+Mixed: White and Asian,45-49,9390,2400,565,150,965,895,55,560
+Mixed: White and Asian,50-54,9075,2520,555,100,930,1180,195,625
+Mixed: White and Asian,55-59,6840,2085,490,65,795,1035,830,635
+Mixed: White and Asian,60-64,3255,1135,255,15,385,745,1650,320
+Mixed: White and Black African,16-19,3095,200,2335,13350,135,110,0,580
+Mixed: White and Black African,20-24,9575,1080,2740,4800,530,425,0,1105
+Mixed: White and Black African,25-29,9770,1440,1295,730,780,520,0,840
+Mixed: White and Black African,30-34,8585,1695,930,425,1040,450,0,660
+Mixed: White and Black African,35-39,7950,1615,800,290,1095,520,0,550
+Mixed: White and Black African,40-44,7035,1570,710,270,925,605,20,545
+Mixed: White and Black African,45-49,5595,1285,525,130,710,590,15,400
+Mixed: White and Black African,50-54,4630,1105,470,75,460,660,45,480
+Mixed: White and Black African,55-59,3545,930,335,50,355,825,225,415
+Mixed: White and Black African,60-64,2005,550,230,20,235,615,545,290
+Mixed: White and Black Caribbean,16-19,8545,495,6025,26140,490,415,0,1810
+Mixed: White and Black Caribbean,20-24,26695,2685,6800,7700,2250,1680,25,3700
+Mixed: White and Black Caribbean,25-29,29800,4030,3720,1600,3350,2070,20,3150
+Mixed: White and Black Caribbean,30-34,25490,4410,2660,895,3470,2185,30,2465
+Mixed: White and Black Caribbean,35-39,17400,3340,1580,590,2595,1985,25,1675
+Mixed: White and Black Caribbean,40-44,11805,2550,1165,275,1545,1715,35,1125
+Mixed: White and Black Caribbean,45-49,9690,2055,880,205,1095,1715,35,855
+Mixed: White and Black Caribbean,50-54,9590,2115,845,155,1055,2310,170,975
+Mixed: White and Black Caribbean,55-59,7740,1695,765,75,825,2120,555,925
+Mixed: White and Black Caribbean,60-64,3635,905,450,40,420,1225,1125,500
+Mixed: Other Mixed groups,16-19,4890,370,3505,22385,255,165,0,970
+Mixed: Other Mixed groups,20-24,17060,2035,4540,9625,975,860,20,2065
+Mixed: Other Mixed groups,25-29,23155,3500,2745,1990,1635,970,10,1810
+Mixed: Other Mixed groups,30-34,24330,4580,2025,1225,2405,1080,20,1660
+Mixed: Other Mixed groups,35-39,21345,4800,1590,710,2480,1145,25,1380
+Mixed: Other Mixed groups,40-44,16895,4285,1325,390,2015,1170,35,1130
+Mixed: Other Mixed groups,45-49,12615,3485,1115,295,1445,1250,65,915
+Mixed: Other Mixed groups,50-54,10370,3030,970,205,1180,1500,255,910
+Mixed: Other Mixed groups,55-59,7580,2180,665,165,940,1560,675,810
+Mixed: Other Mixed groups,60-64,3980,1320,425,55,530,1080,1500,570
 White: English, Welsh, Scottish, Northern Irish or British,16-19,513515,24875,193850,1053530,15140,14170,250,55820
 White: English, Welsh, Scottish, Northern Irish or British,20-24,1507650,129070,192455,390705,76445,68600,735,107980
 White: English, Welsh, Scottish, Northern Irish or British,25-29,1949795,218285,110965,56755,132725,92115,945,96630
@@ -115,16 +118,16 @@ White: English, Welsh, Scottish, Northern Irish or British,45-49,1864120,377405,
 White: English, Welsh, Scottish, Northern Irish or British,50-54,2123055,460395,82490,8610,166250,233410,47755,105710
 White: English, Welsh, Scottish, Northern Irish or British,55-59,1940760,468155,89065,6940,182960,273410,250710,120305
 White: English, Welsh, Scottish, Northern Irish or British,60-64,1258305,362785,72585,4270,139650,265250,730775,98385
-White: Gypsy or Irish Traveller,16-19,655,170,505,1705,525,145,10,805
-White: Gypsy or Irish Traveller,20-24,1535,525,530,270,870,420,15,885
-White: Gypsy or Irish Traveller,25-29,1435,640,330,85,1115,460,15,815
-White: Gypsy or Irish Traveller,30-34,1545,810,275,60,1215,560,10,710
-White: Gypsy or Irish Traveller,35-39,1270,840,265,75,1030,545,20,565
-White: Gypsy or Irish Traveller,40-44,1230,900,185,110,770,680,25,500
-White: Gypsy or Irish Traveller,45-49,1120,785,165,30,645,800,30,425
-White: Gypsy or Irish Traveller,50-54,955,680,135,30,565,1010,60,435
-White: Gypsy or Irish Traveller,55-59,715,545,100,10,420,935,110,370
-White: Gypsy or Irish Traveller,60-64,390,370,55,0,300,785,245,255
+White: Gypsy,16-19,655,170,505,1705,525,145,10,805
+White: Gypsy,20-24,1535,525,530,270,870,420,15,885
+White: Gypsy,25-29,1435,640,330,85,1115,460,15,815
+White: Gypsy,30-34,1545,810,275,60,1215,560,10,710
+White: Gypsy,35-39,1270,840,265,75,1030,545,20,565
+White: Gypsy,40-44,1230,900,185,110,770,680,25,500
+White: Gypsy,45-49,1120,785,165,30,645,800,30,425
+White: Gypsy,50-54,955,680,135,30,565,1010,60,435
+White: Gypsy,55-59,715,545,100,10,420,935,110,370
+White: Gypsy,60-64,390,370,55,0,300,785,245,255
 White: Irish,16-19,1815,140,1050,6885,60,55,0,195
 White: Irish,20-24,10200,915,1820,5955,265,300,15,590
 White: Irish,25-29,21185,2225,1025,1080,530,435,20,780
