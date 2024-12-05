@@ -1,7 +1,33 @@
-﻿Ethnic Group,Economically Active: Employee,Economically Active: Self-employed,Economically Active: Unemployed,Economically Inactive: Student,Economically Inactive: Looking after home or family,Economically Inactive: Long-term sick or disabled,Economically Inactive: Retired,Economically Inactive: Other
-Asian,"1,934,900","394,195","199,940","467,450","445,040","104,900","48,875","192,070"
-Black or Mixed,"885,555","144,270","143,775","211,965","92,655","63,105","16,165","99,745"
-Mixed or Multiple,"482,970","88,255","68,355","140,020","46,870","41,580","8,330","44,015"
-White,"18,652,045","3,509,745","1,177,475","1,795,965","1,506,350","1,526,240","1,086,950","1,003,330"
-Other ethnic group,"395,540","105,030","56,355","112,115","97,625","35,965","9,745","67,535"
-England and Wales overall,"22,351,010","4,241,495","1,645,900","2,727,515","2,188,540","1,771,790","1,170,065","1,406,695"
+Ethnic Group,Economic Status,Total
+Asian,Economically Active: Employee,1934900
+Asian,Economically Active: Self-employed,394195
+Asian,Economically Active: Unemployed,199940
+Asian,Economically Inactive: Student,467450
+Asian,Economically Inactive: Looking after home or family,445040
+Asian,Economically Inactive: Long-term sick or disabled,104900
+Asian,Economically Inactive: Retired,48875
+Asian,Economically Inactive: Other,192070
+Black,Economically Active: Employee,885555
+Black,Economically Active: Self-employed,144270
+Black,Economically Active: Unemployed,143775
+Black,Economically Inactive: Student,211965
+Black,Economically Inactive: Looking after home or family,92655
+Black,Economically Inactive: Long-term sick or disabled,63105
+Black,Economically Inactive: Retired,16165
+Black,Economically Inactive: Other,99745
+White,Economically Active: Employee,18652045
+White,Economically Active: Self-employed,3509745
+White,Economically Active: Unemployed,1177475
+White,Economically Inactive: Student,1795965
+White,Economically Inactive: Looking after home or family,1506350
+White,Economically Inactive: Long-term sick or disabled,1526240
+White,Economically Inactive: Retired,1086950
+White,Economically Inactive: Other,1003330
+Other,Economically Active: Employee,395540
+Other,Economically Active: Self-employed,105030
+Other,Economically Active: Unemployed,56355
+Other,Economically Inactive: Student,112115
+Other,Economically Inactive: Looking after home or family,97625
+Other,Economically Inactive: Long-term sick or disabled,35965
+Other,Economically Inactive: Retired,9745
+Other,Economically Inactive: Other,67535
