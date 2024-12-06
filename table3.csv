@@ -1,404 +1,404 @@
-Ethnic group,Age,Economic status,Total
-Asian,16-19,Economically active: Employee,31055
-Asian,16-19,Economically active: Self-Employed,1430
-Asian,16-19,Economically active: Unemployed,21125
-Asian,16-19,Economically inactive: Student,207710
-Asian,16-19,Economically inactive: Looking after home or family,1630
-Asian,16-19,Economically inactive: Long term sick or disabled,560
-Asian,16-19,Economically inactive: Retired,25
-Asian,16-19,Economically inactive: Other,3025
-Asian,20-24,Economically active: Employee,148175
-Asian,20-24,Economically active: Self-Employed,8815
-Asian,20-24,Economically active: Unemployed,38845
-Asian,20-24,Economically inactive: Student,127195
-Asian,20-24,Economically inactive: Looking after home or family,11775
-Asian,20-24,Economically inactive: Long term sick or disabled,3665
-Asian,20-24,Economically inactive: Retired,80
-Asian,20-24,Economically inactive: Other,15460
-Asian,25-29,Economically active: Employee,216235
-Asian,25-29,Economically active: Self-Employed,20625
-Asian,25-29,Economically active: Unemployed,23740
-Asian,25-29,Economically inactive: Student,27705
-Asian,25-29,Economically inactive: Looking after home or family,30975
-Asian,25-29,Economically inactive: Long term sick or disabled,5065
-Asian,25-29,Economically inactive: Retired,95
-Asian,25-29,Economically inactive: Other,17800
-Asian,30-34,Economically active: Employee,246410
-Asian,30-34,Economically active: Self-Employed,37170
+Ethnic-group,Age,Economic-status,Total
+Asian,16-19,Economically active:Employee,31055
+Asian,16-19,Economically active:Self-Employed,1430
+Asian,16-19,Economically active:Unemployed,21125
+Asian,16-19,Economically inactive:Student,207710
+Asian,16-19,Economically inactive:Looking after home or family,1630
+Asian,16-19,Economically inactive:Long term sick or disabled,560
+Asian,16-19,Economically inactive:Retired,25
+Asian,16-19,Economically inactive:Other,3025
+Asian,20-24,Economically active:Employee,148175
+Asian,20-24,Economically active:Self-Employed,8815
+Asian,20-24,Economically active:Unemployed,38845
+Asian,20-24,Economically inactive:Student,127195
+Asian,20-24,Economically inactive:Looking after home or family,11775
+Asian,20-24,Economically inactive:Long term sick or disabled,3665
+Asian,20-24,Economically inactive:Retired,80
+Asian,20-24,Economically inactive:Other,15460
+Asian,25-29,Economically active:Employee,216235
+Asian,25-29,Economically active:Self-Employed,20625
+Asian,25-29,Economically active:Unemployed,23740
+Asian,25-29,Economically inactive:Student,27705
+Asian,25-29,Economically inactive:Looking after home or family,30975
+Asian,25-29,Economically inactive:Long term sick or disabled,5065
+Asian,25-29,Economically inactive:Retired,95
+Asian,25-29,Economically inactive:Other,17800
+Asian,30-34,Economically active:Employee,246410
+Asian,30-34,Economically active:Self-Employed,37170
 Asian,30-34,Economically active: Unemployed,18135
-Asian,30-34,Economically inactive: Student,8765
-Asian,30-34,Economically inactive: Looking after home or family,61060
-Asian,30-34,Economically inactive: Long term sick or disabled,6425
-Asian,30-34,Economically inactive: Retired,165
-Asian,30-34,Economically inactive: Other,20380
-Asian,35-39,Economically active: Employee,255020
-Asian,35-39,Economically active: Self-Employed,52965
-Asian,35-39,Economically active: Unemployed,16830
-Asian,35-39,Economically inactive: Student,4975
-Asian,35-39,Economically inactive: Looking after home or family,71950
-Asian,35-39,Economically inactive: Long term sick or disabled,8335
-Asian,35-39,Economically inactive: Retired,300
-Asian,35-39,Economically inactive: Other,20460
-Asian,40-44,Economically active: Employee,228140
-Asian,40-44,Economically active: Self-Employed,59750
-Asian,40-44,Economically active: Unemployed,15160
-Asian,40-44,Economically inactive: Student,3415
-Asian,40-44,Economically inactive: Looking after home or family,63450
-Asian,40-44,Economically inactive: Long term sick or disabled,10365
-Asian,40-44,Economically inactive: Retired,505
-Asian,40-44,Economically inactive: Other,18865
-Asian,45-49,Economically active: Employee,171140
-Asian,45-49,Economically active: Self-Employed,51930
-Asian,45-49,Economically active: Unemployed,11545
-Asian,45-49,Economically inactive: Student,1955
-Asian,45-49,Economically inactive: Looking after home or family,43000
-Asian,45-49,Economically inactive: Long term sick or disabled,9355
-Asian,45-49,Economically inactive: Retired,920
-Asian,45-49,Economically inactive: Other,15865
-Asian,50-54,Economically active: Employee,126485
-Asian,50-54,Economically active: Self-Employed,41995
-Asian,50-54,Economically active: Unemployed,9305
-Asian,50-54,Economically inactive: Student,1085
-Asian,50-54,Economically inactive: Looking after home or family,36200
-Asian,50-54,Economically inactive: Long term sick or disabled,13490
-Asian,50-54,Economically inactive: Retired,3120
-Asian,50-54,Economically inactive: Other,14610
-Asian,55-59,Economically active: Employee,82405
-Asian,55-59,Economically active: Self-Employed,28070
-Asian,55-59,Economically active: Unemployed,6315
-Asian,55-59,Economically inactive: Student,560
-Asian,55-59,Economically inactive: Looking after home or family,25660
-Asian,55-59,Economically inactive: Long term sick or disabled,13440
-Asian,55-59,Economically inactive: Retired,9215
-Asian,55-59,Economically inactive: Other,12540
-Asian,60-64,Economically active: Employee,55335
-Asian,60-64,Economically active: Self-Employed,21835
-Asian,60-64,Economically active: Unemployed,5010
-Asian,60-64,Economically inactive: Student,315
-Asian,60-64,Economically inactive: Looking after home or family,20480
-Asian,60-64,Economically inactive: Long term sick or disabled,16340
-Asian,60-64,Economically inactive: Retired,27435
-Asian,60-64,Economically inactive: Other,11915
-Black,16-19,Economically active: Employee,17130
-Black,16-19,Economically active: Self-Employed,920
-Black,16-19,Economically active: Unemployed,19090
-Black,16-19,Economically inactive: Student,121765
-Black,16-19,Economically inactive: Looking after home or family,665
-Black,16-19,Economically inactive: Long term sick or disabled,380
-Black,16-19,Economically inactive: Retired,10
-Black,16-19,Economically inactive: Other,3585
-Black,20-24,Economically active: Employee,78535
-Black,20-24,Economically active: Self-Employed,5945
-Black,20-24,Economically active: Unemployed,30210
-Black,20-24,Economically inactive: Student,50080
-Black,20-24,Economically inactive: Looking after home or family,4340
-Black,20-24,Economically inactive: Long term sick or disabled,2395
-Black,20-24,Economically inactive: Retired,65
-Black,20-24,Economically inactive: Other,11475
-Black,25-29,Economically active: Employee,105260
-Black,25-29,Economically active: Self-Employed,10490
-Black,25-29,Economically active: Unemployed,19155
-Black,25-29,Economically inactive: Student,10995
-Black,25-29,Economically inactive: Looking after home or family,9120
-Black,25-29,Economically inactive: Long term sick or disabled,3375
-Black,25-29,Economically inactive: Retired,100
-Black,25-29,Economically inactive: Other,12155
-Black,30-34,Economically active: Employee,103990
-Black,30-34,Economically active: Self-Employed,14075
-Black,30-34,Economically active: Unemployed,14980
-Black,30-34,Economically inactive: Student,7730
-Black,30-34,Economically inactive: Looking after home or family,15970
-Black,30-34,Economically inactive: Long term sick or disabled,3965
-Black,30-34,Economically inactive: Retired,65
-Black,30-34,Economically inactive: Other,11195
-Black,35-39,Economically active: Employee,106205
-Black,35-39,Economically active: Self-Employed,17560
-Black,35-39,Economically active: Unemployed,13235
-Black,35-39,Economically inactive: Student,6375
-Black,35-39,Economically inactive: Looking after home or family,16390
-Black,35-39,Economically inactive: Long term sick or disabled,4700
-Black,35-39,Economically inactive: Retired,90
-Black,35-39,Economically inactive: Other,10705
-Black,40-44,Economically active: Employee,110850
-Black,40-44,Economically active: Self-Employed,20985
-Black,40-44,Economically active: Unemployed,11685
-Black,40-44,Economically inactive: Student,5600
-Black,40-44,Economically inactive: Looking after home or family,14635
-Black,40-44,Economically inactive: Long term sick or disabled,5725
-Black,40-44,Economically inactive: Retired,225
-Black,40-44,Economically inactive: Other,10515
-Black,45-49,Economically active: Employee,106095
-Black,45-49,Economically active: Self-Employed,21125
-Black,45-49,Economically active: Unemployed,10635
-Black,45-49,Economically inactive: Student,4055
-Black,45-49,Economically inactive: Looking after home or family,11060
-Black,45-49,Economically inactive: Long term sick or disabled,7025
-Black,45-49,Economically inactive: Retired,245
-Black,45-49,Economically inactive: Other,9975
-Black,50-54,Economically active: Employee,110645
-Black,50-54,Economically active: Self-Employed,22470
-Black,50-54,Economically active: Unemployed,10165
-Black,50-54,Economically inactive: Student,2820
-Black,50-54,Economically inactive: Looking after home or family,9830
-Black,50-54,Economically inactive: Long term sick or disabled,8510
-Black,50-54,Economically inactive: Retired,900
-Black,50-54,Economically inactive: Other,11445
-Black,55-59,Economically active: Employee,94610
-Black,55-59,Economically active: Self-Employed,19080
-Black,55-59,Economically active: Unemployed,9065
-Black,55-59,Economically inactive: Student,1925
-Black,55-59,Economically inactive: Looking after home or family,7435
-Black,55-59,Economically inactive: Long term sick or disabled,13615
-Black,55-59,Economically inactive: Retired,3995
-Black,55-59,Economically inactive: Other,10945
-Black,60-64,Economically active: Employee,53235
-Black,60-64,Economically active: Self-Employed,11620
-Black,60-64,Economically active: Unemployed,5565
-Black,60-64,Economically inactive: Student,620
-Black,60-64,Economically inactive: Looking after home or family,4210
-Black,60-64,Economically inactive: Long term sick or disabled,10420
-Black,60-64,Economically inactive: Retired,10430
-Black,60-64,Economically inactive: Other,7755
-Mixed,16-19,Economically active: Employee,22970
-Mixed,16-19,Economically active: Self-Employed,1510
-Mixed,16-19,Economically active: Unemployed,15250
-Mixed,16-19,Economically inactive: Student,91125
-Mixed,16-19,Economically inactive: Looking after home or family,1075
-Mixed,16-19,Economically inactive: Long term sick or disabled,870
-Mixed,16-19,Economically inactive: Retired,0
-Mixed,16-19,Economically inactive: Other,4320
-Mixed,20-24,Economically active: Employee,73225
-Mixed,20-24,Economically active: Self-Employed,7695
-Mixed,20-24,Economically active: Unemployed,18270
-Mixed,20-24,Economically inactive: Student,35040
-Mixed,20-24,Economically inactive: Looking after home or family,4590
-Mixed,20-24,Economically inactive: Long term sick or disabled,3675
-Mixed,20-24,Economically inactive: Retired,45
-Mixed,20-24,Economically inactive: Other,8545
-Mixed,25-29,Economically active: Employee,87585
-Mixed,25-29,Economically active: Self-Employed,11835
-Mixed,25-29,Economically active: Unemployed,9750
-Mixed,25-29,Economically inactive: Student,5875
-Mixed,25-29,Economically inactive: Looking after home or family,6895
-Mixed,25-29,Economically inactive: Long term sick or disabled,4355
-Mixed,25-29,Economically inactive: Retired,40
-Mixed,25-29,Economically inactive: Other,7135
-Mixed,30-34,Economically active: Employee,79475
-Mixed,30-34,Economically active: Self-Employed,14180
-Mixed,30-34,Economically active: Unemployed,6910
-Mixed,30-34,Economically inactive: Student,3125
-Mixed,30-34,Economically inactive: Looking after home or family,8465
-Mixed,30-34,Economically inactive: Long term sick or disabled,4535
-Mixed,30-34,Economically inactive: Retired,50
-Mixed,30-34,Economically inactive: Other,5930
-Mixed,35-39,Economically active: Employee,62485
-Mixed,35-39,Economically active: Self-Employed,13010
-Mixed,35-39,Economically active: Unemployed,4840
-Mixed,35-39,Economically inactive: Student,1930
-Mixed,35-39,Economically inactive: Looking after home or family,7730
-Mixed,35-39,Economically inactive: Long term sick or disabled,4475
-Mixed,35-39,Economically inactive: Retired,70
-Mixed,35-39,Economically inactive: Other,4420
-Mixed,40-44,Economically active: Employee,47690
-Mixed,40-44,Economically active: Self-Employed,11235
-Mixed,40-44,Economically active: Unemployed,3795
-Mixed,40-44,Economically inactive: Student,1140
-Mixed,40-44,Economically inactive: Looking after home or family,5785
-Mixed,40-44,Economically inactive: Long term sick or disabled,4340
-Mixed,40-44,Economically inactive: Retired,130
-Mixed,40-44,Economically inactive: Other,3475
-Mixed,45-49,Economically active: Employee,37290
-Mixed,45-49,Economically active: Self-Employed,9225
-Mixed,45-49,Economically active: Unemployed,3085
-Mixed,45-49,Economically inactive: Student,780
-Mixed,45-49,Economically inactive: Looking after home or family,4215
-Mixed,45-49,Economically inactive: Long term sick or disabled,4450
-Mixed,45-49,Economically inactive: Retired,170
-Mixed,45-49,Economically inactive: Other,2730
-Mixed,50-54,Economically active: Employee,33665
-Mixed,50-54,Economically active: Self-Employed,8770
-Mixed,50-54,Economically active: Unemployed,2840
-Mixed,50-54,Economically inactive: Student,535
-Mixed,50-54,Economically inactive: Looking after home or family,3625
-Mixed,50-54,Economically inactive: Long term sick or disabled,5650
-Mixed,50-54,Economically inactive: Retired,665
-Mixed,50-54,Economically inactive: Other,2990
-Mixed,55-59,Economically active: Employee,25705
-Mixed,55-59,Economically active: Self-Employed,6890
-Mixed,55-59,Economically active: Unemployed,2255
-Mixed,55-59,Economically inactive: Student,355
-Mixed,55-59,Economically inactive: Looking after home or family,2915
-Mixed,55-59,Economically inactive: Long term sick or disabled,5540
-Mixed,55-59,Economically inactive: Retired,2285
-Mixed,55-59,Economically inactive: Other,2785
-Mixed,60-64,Economically active: Employee,12875
-Mixed,60-64,Economically active: Self-Employed,3910
-Mixed,60-64,Economically active: Unemployed,1360
-Mixed,60-64,Economically inactive: Student,130
-Mixed,60-64,Economically inactive: Looking after home or family,1570
-Mixed,60-64,Economically inactive: Long term sick or disabled,3665
-Mixed,60-64,Economically inactive: Retired,4820
-Mixed,60-64,Economically inactive: Other,1610
-White,16-19,Economically active: Employee,537710
-White,16-19,Economically active: Self-Employed,27795
-White,16-19,Economically active: Unemployed,208435
-White,16-19,Economically inactive: Student,1154200
-White,16-19,Economically inactive: Looking after home or family,17180
-White,16-19,Economically inactive: Long term sick or disabled,14685
-White,16-19,Economically inactive: Retired,320
-White,16-19,Economically inactive: Other,60565
-White,20-24,Economically active: Employee,1652205
-White,20-24,Economically active: Self-Employed,152285
-White,20-24,Economically active: Unemployed,217600
-White,20-24,Economically inactive: Student,455055
-White,20-24,Economically inactive: Looking after home or family,85310
-White,20-24,Economically inactive: Long term sick or disabled,70770
-White,20-24,Economically inactive: Retired,940
-White,20-24,Economically inactive: Other,119530
-White,25-29,Economically active: Employee,2245380
-White,25-29,Economically active: Self-Employed,271540
-White,25-29,Economically active: Unemployed,131575
-White,25-29,Economically inactive: Student,74350
-White,25-29,Economically inactive: Looking after home or family,150600
-White,25-29,Economically inactive: Long term sick or disabled,95155
-White,25-29,Economically inactive: Retired,1175
-White,25-29,Economically inactive: Other,111590
-White,30-34,Economically active: Employee,2317980
-White,30-34,Economically active: Self-Employed,378910
-White,30-34,Economically active: Unemployed,106015
-White,30-34,Economically inactive: Student,36445
-White,30-34,Economically inactive: Looking after home or family,202555
-White,30-34,Economically inactive: Long term sick or disabled,107390
-White,30-34,Economically inactive: Retired,1330
-White,30-34,Economically inactive: Other,102810
-White,35-39,Economically active: Employee,2144420
-White,35-39,Economically active: Self-Employed,410235
-White,35-39,Economically active: Unemployed,87760
-White,35-39,Economically inactive: Student,23410
-White,35-39,Economically inactive: Looking after home or family,197265
-White,35-39,Economically inactive: Long term sick or disabled,117540
-White,35-39,Economically inactive: Retired,2045
-White,35-39,Economically inactive: Other,87590
-White,40-44,Economically active: Employee,2004580
-White,40-44,Economically active: Self-Employed,414115
-White,40-44,Economically active: Unemployed,77910
-White,40-44,Economically inactive: Student,16760
-White,40-44,Economically inactive: Looking after home or family,166695
-White,40-44,Economically inactive: Long term sick or disabled,132570
-White,40-44,Economically inactive: Retired,3870
-White,40-44,Economically inactive: Other,80295
-White,45-49,Economically active: Employee,2083620
-White,45-49,Economically active: Self-Employed,446135
-White,45-49,Economically active: Unemployed,81120
-White,45-49,Economically inactive: Student,12895
-White,45-49,Economically inactive: Looking after home or family,160315
-White,45-49,Economically inactive: Long term sick or disabled,179360
-White,45-49,Economically inactive: Retired,10545
-White,45-49,Economically inactive: Other,89945
-White,50-54,Economically active: Employee,2287525
-White,50-54,Economically active: Self-Employed,513215
-White,50-54,Economically active: Unemployed,92305
-White,50-54,Economically inactive: Student,10170
-White,50-54,Economically inactive: Looking after home or family,182080
-White,50-54,Economically inactive: Long term sick or disabled,244720
-White,50-54,Economically inactive: Retired,50250
-White,50-54,Economically inactive: Other,115825
-White,55-59,Economically active: Employee,2054370
-White,55-59,Economically active: Self-Employed,506765
-White,55-59,Economically active: Unemployed,96255
-White,55-59,Economically inactive: Student,7880
-White,55-59,Economically inactive: Looking after home or family,195735
-White,55-59,Economically inactive: Long term sick or disabled,286275
-White,55-59,Economically inactive: Retired,259695
-White,55-59,Economically inactive: Other,129505
-White,60-64,Economically active: Employee,1325270
-White,60-64,Economically active: Self-Employed,388750
-White,60-64,Economically active: Unemployed,77495
-White,60-64,Economically inactive: Student,4795
-White,60-64,Economically inactive: Looking after home or family,148620
-White,60-64,Economically inactive: Long term sick or disabled,277780
-White,60-64,Economically inactive: Retired,756765
-White,60-64,Economically inactive: Other,105690
-Other,16-19,Economically active: Employee,6965
-Other,16-19,Economically active: Self-Employed,665
-Other,16-19,Economically active: Unemployed,5390
-Other,16-19,Economically inactive: Student,54735
-Other,16-19,Economically inactive: Looking after home or family,705
-Other,16-19,Economically inactive: Long term sick or disabled,165
-Other,16-19,Economically inactive: Retired,20
-Other,16-19,Economically inactive: Other,2505
-Other,20-24,Economically active: Employee,33075
-Other,20-24,Economically active: Self-Employed,4220
-Other,20-24,Economically active: Unemployed,10400
-Other,20-24,Economically inactive: Student,29675
-Other,20-24,Economically inactive: Looking after home or family,4420
-Other,20-24,Economically inactive: Long term sick or disabled,985
-Other,20-24,Economically inactive: Retired,85
-Other,20-24,Economically inactive: Other,7055
-Other,25-29,Economically active: Employee,52445
-Other,25-29,Economically active: Self-Employed,9250
-Other,25-29,Economically active: Unemployed,8130
-Other,25-29,Economically inactive: Student,9375
-Other,25-29,Economically inactive: Looking after home or family,9835
-Other,25-29,Economically inactive: Long term sick or disabled,1600
-Other,25-29,Economically inactive: Retired,90
-Other,25-29,Economically inactive: Other,9370
-Other,30-34,Economically active: Employee,59630
-Other,30-34,Economically active: Self-Employed,13475
-Other,30-34,Economically active: Unemployed,7290
-Other,30-34,Economically inactive: Student,7065
-Other,30-34,Economically inactive: Looking after home or family,16370
-Other,30-34,Economically inactive: Long term sick or disabled,2200
-Other,30-34,Economically inactive: Retired,110
-Other,30-34,Economically inactive: Other,9775
-Other,35-39,Economically active: Employee,60075
-Other,35-39,Economically active: Self-Employed,16275
-Other,35-39,Economically active: Unemployed,6725
-Other,35-39,Economically inactive: Student,4700
-Other,35-39,Economically inactive: Looking after home or family,18450
-Other,35-39,Economically inactive: Long term sick or disabled,3115
-Other,35-39,Economically inactive: Retired,150
-Other,35-39,Economically inactive: Other,9425
-Other,40-44,Economically active: Employee,56525
-Other,40-44,Economically active: Self-Employed,17055
-Other,40-44,Economically active: Unemployed,6110
-Other,40-44,Economically inactive: Student,2980
-Other,40-44,Economically inactive: Looking after home or family,16155
-Other,40-44,Economically inactive: Long term sick or disabled,3910
-Other,40-44,Economically inactive: Retired,185
-Other,40-44,Economically inactive: Other,8075
-Other,45-49,Economically active: Employee,46305
-Other,45-49,Economically active: Self-Employed,15320
-Other,45-49,Economically active: Unemployed,4485
-Other,45-49,Economically inactive: Student,1770
-Other,45-49,Economically inactive: Looking after home or family,11715
-Other,45-49,Economically inactive: Long term sick or disabled,5195
-Other,45-49,Economically inactive: Retired,335
-Other,45-49,Economically inactive: Other,6615
-Other,50-54,Economically active: Employee,37295
-Other,50-54,Economically active: Self-Employed,12760
-Other,50-54,Economically active: Unemployed,3595
-Other,50-54,Economically inactive: Student,1040
-Other,50-54,Economically inactive: Looking after home or family,8975
-Other,50-54,Economically inactive: Long term sick or disabled,6110
-Other,50-54,Economically inactive: Retired,695
-Other,50-54,Economically inactive: Other,5695
-Other,55-59,Economically active: Employee,26610
-Other,55-59,Economically active: Self-Employed,9395
-Other,55-59,Economically active: Unemployed,2580
-Other,55-59,Economically inactive: Student,530
-Other,55-59,Economically inactive: Looking after home or family,6420
-Other,55-59,Economically inactive: Long term sick or disabled,6670
-Other,55-59,Economically inactive: Retired,1965
-Other,55-59,Economically inactive: Other,5115
-Other,60-64,Economically active: Employee,16615
-Other,60-64,Economically active: Self-Employed,6615
-Other,60-64,Economically active: Unemployed,1655
-Other,60-64,Economically inactive: Student,245
-Other,60-64,Economically inactive: Looking after home or family,4595
-Other,60-64,Economically inactive: Long term sick or disabled,6020
-Other,60-64,Economically inactive: Retired,6105
-Other,60-64,Economically inactive: Other,3915
+Asian,30-34,Economically inactive:Student,8765
+Asian,30-34,Economically inactive:Looking after home or family,61060
+Asian,30-34,Economically inactive:Long term sick or disabled,6425
+Asian,30-34,Economically inactive:Retired,165
+Asian,30-34,Economically inactive:Other,20380
+Asian,35-39,Economically active:Employee,255020
+Asian,35-39,Economically active:Self-Employed,52965
+Asian,35-39,Economically active:Unemployed,16830
+Asian,35-39,Economically inactive:Student,4975
+Asian,35-39,Economically inactive:Looking after home or family,71950
+Asian,35-39,Economically inactive:Long term sick or disabled,8335
+Asian,35-39,Economically inactive:Retired,300
+Asian,35-39,Economically inactive:Other,20460
+Asian,40-44,Economically active:Employee,228140
+Asian,40-44,Economically active:Self-Employed,59750
+Asian,40-44,Economically active:Unemployed,15160
+Asian,40-44,Economically inactive:Student,3415
+Asian,40-44,Economically inactive:Looking after home or family,63450
+Asian,40-44,Economically inactive:Long term sick or disabled,10365
+Asian,40-44,Economically inactive:Retired,505
+Asian,40-44,Economically inactive:Other,18865
+Asian,45-49,Economically active:Employee,171140
+Asian,45-49,Economically active:Self-Employed,51930
+Asian,45-49,Economically active:Unemployed,11545
+Asian,45-49,Economically inactive:Student,1955
+Asian,45-49,Economically inactive:Looking after home or family,43000
+Asian,45-49,Economically inactive:Long term sick or disabled,9355
+Asian,45-49,Economically inactive:Retired,920
+Asian,45-49,Economically inactive:Other,15865
+Asian,50-54,Economically active:Employee,126485
+Asian,50-54,Economically active:Self-Employed,41995
+Asian,50-54,Economically active:Unemployed,9305
+Asian,50-54,Economically inactive:Student,1085
+Asian,50-54,Economically inactive:Looking after home or family,36200
+Asian,50-54,Economically inactive:Long term sick or disabled,13490
+Asian,50-54,Economically inactive:Retired,3120
+Asian,50-54,Economically inactive:Other,14610
+Asian,55-59,Economically active:Employee,82405
+Asian,55-59,Economically active:Self-Employed,28070
+Asian,55-59,Economically active:Unemployed,6315
+Asian,55-59,Economically inactive:Student,560
+Asian,55-59,Economically inactive:Looking after home or family,25660
+Asian,55-59,Economically inactive:Long term sick or disabled,13440
+Asian,55-59,Economically inactive:Retired,9215
+Asian,55-59,Economically inactive:Other,12540
+Asian,60-64,Economically active:Employee,55335
+Asian,60-64,Economically active:Self-Employed,21835
+Asian,60-64,Economically active:Unemployed,5010
+Asian,60-64,Economically inactive:Student,315
+Asian,60-64,Economically inactive:Looking after home or family,20480
+Asian,60-64,Economically inactive:Long term sick or disabled,16340
+Asian,60-64,Economically inactive:Retired,27435
+Asian,60-64,Economically inactive:Other,11915
+Black,16-19,Economically active:Employee,17130
+Black,16-19,Economically active:Self-Employed,920
+Black,16-19,Economically active:Unemployed,19090
+Black,16-19,Economically inactive:Student,121765
+Black,16-19,Economically inactive:Looking after home or family,665
+Black,16-19,Economically inactive:Long term sick or disabled,380
+Black,16-19,Economically inactive:Retired,10
+Black,16-19,Economically inactive:Other,3585
+Black,20-24,Economically active:Employee,78535
+Black,20-24,Economically active:Self-Employed,5945
+Black,20-24,Economically active:Unemployed,30210
+Black,20-24,Economically inactive:Student,50080
+Black,20-24,Economically inactive:Looking after home or family,4340
+Black,20-24,Economically inactive:Long term sick or disabled,2395
+Black,20-24,Economically inactive:Retired,65
+Black,20-24,Economically inactive:Other,11475
+Black,25-29,Economically active:Employee,105260
+Black,25-29,Economically active:Self-Employed,10490
+Black,25-29,Economically active:Unemployed,19155
+Black,25-29,Economically inactive:Student,10995
+Black,25-29,Economically inactive:Looking after home or family,9120
+Black,25-29,Economically inactive:Long term sick or disabled,3375
+Black,25-29,Economically inactive:Retired,100
+Black,25-29,Economically inactive:Other,12155
+Black,30-34,Economically active:Employee,103990
+Black,30-34,Economically active:Self-Employed,14075
+Black,30-34,Economically active:Unemployed,14980
+Black,30-34,Economically inactive:Student,7730
+Black,30-34,Economically inactive:Looking after home or family,15970
+Black,30-34,Economically inactive:Long term sick or disabled,3965
+Black,30-34,Economically inactive:Retired,65
+Black,30-34,Economically inactive:Other,11195
+Black,35-39,Economically active:Employee,106205
+Black,35-39,Economically active:Self-Employed,17560
+Black,35-39,Economically active:Unemployed,13235
+Black,35-39,Economically inactive:Student,6375
+Black,35-39,Economically inactive:Looking after home or family,16390
+Black,35-39,Economically inactive:Long term sick or disabled,4700
+Black,35-39,Economically inactive:Retired,90
+Black,35-39,Economically inactive:Other,10705
+Black,40-44,Economically active:Employee,110850
+Black,40-44,Economically active:Self-Employed,20985
+Black,40-44,Economically active:Unemployed,11685
+Black,40-44,Economically inactive:Student,5600
+Black,40-44,Economically inactive:Looking after home or family,14635
+Black,40-44,Economically inactive:Long term sick or disabled,5725
+Black,40-44,Economically inactive:Retired,225
+Black,40-44,Economically inactive:Other,10515
+Black,45-49,Economically active:Employee,106095
+Black,45-49,Economically active:Self-Employed,21125
+Black,45-49,Economically active:Unemployed,10635
+Black,45-49,Economically inactive:Student,4055
+Black,45-49,Economically inactive:Looking after home or family,11060
+Black,45-49,Economically inactive:Long term sick or disabled,7025
+Black,45-49,Economically inactive:Retired,245
+Black,45-49,Economically inactive:Other,9975
+Black,50-54,Economically active:Employee,110645
+Black,50-54,Economically active:Self-Employed,22470
+Black,50-54,Economically active:Unemployed,10165
+Black,50-54,Economically inactive:Student,2820
+Black,50-54,Economically inactive:Looking after home or family,9830
+Black,50-54,Economically inactive:Long term sick or disabled,8510
+Black,50-54,Economically inactive:Retired,900
+Black,50-54,Economically inactive:Other,11445
+Black,55-59,Economically active:Employee,94610
+Black,55-59,Economically active:Self-Employed,19080
+Black,55-59,Economically active:Unemployed,9065
+Black,55-59,Economically inactive:Student,1925
+Black,55-59,Economically inactive:Looking after home or family,7435
+Black,55-59,Economically inactive:Long term sick or disabled,13615
+Black,55-59,Economically inactive:Retired,3995
+Black,55-59,Economically inactive:Other,10945
+Black,60-64,Economically active:Employee,53235
+Black,60-64,Economically active:Self-Employed,11620
+Black,60-64,Economically active:Unemployed,5565
+Black,60-64,Economically inactive:Student,620
+Black,60-64,Economically inactive:Looking after home or family,4210
+Black,60-64,Economically inactive:Long term sick or disabled,10420
+Black,60-64,Economically inactive:Retired,10430
+Black,60-64,Economically inactive:Other,7755
+Mixed,16-19,Economically active:Employee,22970
+Mixed,16-19,Economically active:Self-Employed,1510
+Mixed,16-19,Economically active:Unemployed,15250
+Mixed,16-19,Economically inactive:Student,91125
+Mixed,16-19,Economically inactive:Looking after home or family,1075
+Mixed,16-19,Economically inactive:Long term sick or disabled,870
+Mixed,16-19,Economically inactive:Retired,0
+Mixed,16-19,Economically inactive:Other,4320
+Mixed,20-24,Economically active:Employee,73225
+Mixed,20-24,Economically active:Self-Employed,7695
+Mixed,20-24,Economically active:Unemployed,18270
+Mixed,20-24,Economically inactive:Student,35040
+Mixed,20-24,Economically inactive:Looking after home or family,4590
+Mixed,20-24,Economically inactive:Long term sick or disabled,3675
+Mixed,20-24,Economically inactive:Retired,45
+Mixed,20-24,Economically inactive:Other,8545
+Mixed,25-29,Economically active:Employee,87585
+Mixed,25-29,Economically active:Self-Employed,11835
+Mixed,25-29,Economically active:Unemployed,9750
+Mixed,25-29,Economically inactive:Student,5875
+Mixed,25-29,Economically inactive:Looking after home or family,6895
+Mixed,25-29,Economically inactive:Long term sick or disabled,4355
+Mixed,25-29,Economically inactive:Retired,40
+Mixed,25-29,Economically inactive:Other,7135
+Mixed,30-34,Economically active:Employee,79475
+Mixed,30-34,Economically active:Self-Employed,14180
+Mixed,30-34,Economically active:Unemployed,6910
+Mixed,30-34,Economically inactive:Student,3125
+Mixed,30-34,Economically inactive:Looking after home or family,8465
+Mixed,30-34,Economically inactive:Long term sick or disabled,4535
+Mixed,30-34,Economically inactive:Retired,50
+Mixed,30-34,Economically inactive:Other,5930
+Mixed,35-39,Economically active:Employee,62485
+Mixed,35-39,Economically active:Self-Employed,13010
+Mixed,35-39,Economically active:Unemployed,4840
+Mixed,35-39,Economically inactive:Student,1930
+Mixed,35-39,Economically inactive:Looking after home or family,7730
+Mixed,35-39,Economically inactive:Long term sick or disabled,4475
+Mixed,35-39,Economically inactive:Retired,70
+Mixed,35-39,Economically inactive:Other,4420
+Mixed,40-44,Economically active:Employee,47690
+Mixed,40-44,Economically active:Self-Employed,11235
+Mixed,40-44,Economically active:Unemployed,3795
+Mixed,40-44,Economically inactive:Student,1140
+Mixed,40-44,Economically inactive:Looking after home or family,5785
+Mixed,40-44,Economically inactive:Long term sick or disabled,4340
+Mixed,40-44,Economically inactive:Retired,130
+Mixed,40-44,Economically inactive:Other,3475
+Mixed,45-49,Economically active:Employee,37290
+Mixed,45-49,Economically active:Self-Employed,9225
+Mixed,45-49,Economically active:Unemployed,3085
+Mixed,45-49,Economically inactive:Student,780
+Mixed,45-49,Economically inactive:Looking after home or family,4215
+Mixed,45-49,Economically inactive:Long term sick or disabled,4450
+Mixed,45-49,Economically inactive:Retired,170
+Mixed,45-49,Economically inactive:Other,2730
+Mixed,50-54,Economically active:Employee,33665
+Mixed,50-54,Economically active:Self-Employed,8770
+Mixed,50-54,Economically active:Unemployed,2840
+Mixed,50-54,Economically inactive:Student,535
+Mixed,50-54,Economically inactive:Looking after home or family,3625
+Mixed,50-54,Economically inactive:Long term sick or disabled,5650
+Mixed,50-54,Economically inactive:Retired,665
+Mixed,50-54,Economically inactive:Other,2990
+Mixed,55-59,Economically active:Employee,25705
+Mixed,55-59,Economically active:Self-Employed,6890
+Mixed,55-59,Economically active:Unemployed,2255
+Mixed,55-59,Economically inactive:Student,355
+Mixed,55-59,Economically inactive:Looking after home or family,2915
+Mixed,55-59,Economically inactive:Long term sick or disabled,5540
+Mixed,55-59,Economically inactive:Retired,2285
+Mixed,55-59,Economically inactive:Other,2785
+Mixed,60-64,Economically active:Employee,12875
+Mixed,60-64,Economically active:Self-Employed,3910
+Mixed,60-64,Economically active:Unemployed,1360
+Mixed,60-64,Economically inactive:Student,130
+Mixed,60-64,Economically inactive:Looking after home or family,1570
+Mixed,60-64,Economically inactive:Long term sick or disabled,3665
+Mixed,60-64,Economically inactive:Retired,4820
+Mixed,60-64,Economically inactive:Other,1610
+White,16-19,Economically active:Employee,537710
+White,16-19,Economically active:Self-Employed,27795
+White,16-19,Economically active:Unemployed,208435
+White,16-19,Economically inactive:Student,1154200
+White,16-19,Economically inactive:Looking after home or family,17180
+White,16-19,Economically inactive:Long term sick or disabled,14685
+White,16-19,Economically inactive:Retired,320
+White,16-19,Economically inactive:Other,60565
+White,20-24,Economically active:Employee,1652205
+White,20-24,Economically active:Self-Employed,152285
+White,20-24,Economically active:Unemployed,217600
+White,20-24,Economically inactive:Student,455055
+White,20-24,Economically inactive:Looking after home or family,85310
+White,20-24,Economically inactive:Long term sick or disabled,70770
+White,20-24,Economically inactive:Retired,940
+White,20-24,Economically inactive:Other,119530
+White,25-29,Economically active:Employee,2245380
+White,25-29,Economically active:Self-Employed,271540
+White,25-29,Economically active:Unemployed,131575
+White,25-29,Economically inactive:Student,74350
+White,25-29,Economically inactive:Looking after home or family,150600
+White,25-29,Economically inactive:Long term sick or disabled,95155
+White,25-29,Economically inactive:Retired,1175
+White,25-29,Economically inactive:Other,111590
+White,30-34,Economically active:Employee,2317980
+White,30-34,Economically active:Self-Employed,378910
+White,30-34,Economically active:Unemployed,106015
+White,30-34,Economically inactive:Student,36445
+White,30-34,Economically inactive:Looking after home or family,202555
+White,30-34,Economically inactive:Long term sick or disabled,107390
+White,30-34,Economically inactive:Retired,1330
+White,30-34,Economically inactive:Other,102810
+White,35-39,Economically active:Employee,2144420
+White,35-39,Economically active:Self-Employed,410235
+White,35-39,Economically active:Unemployed,87760
+White,35-39,Economically inactive:Student,23410
+White,35-39,Economically inactive:Looking after home or family,197265
+White,35-39,Economically inactive:Long term sick or disabled,117540
+White,35-39,Economically inactive:Retired,2045
+White,35-39,Economically inactive:Other,87590
+White,40-44,Economically active:Employee,2004580
+White,40-44,Economically active:Self-Employed,414115
+White,40-44,Economically active:Unemployed,77910
+White,40-44,Economically inactive:Student,16760
+White,40-44,Economically inactive:Looking after home or family,166695
+White,40-44,Economically inactive:Long term sick or disabled,132570
+White,40-44,Economically inactive:Retired,3870
+White,40-44,Economically inactive:Other,80295
+White,45-49,Economically active:Employee,2083620
+White,45-49,Economically active:Self-Employed,446135
+White,45-49,Economically active:Unemployed,81120
+White,45-49,Economically inactive:Student,12895
+White,45-49,Economically inactive:Looking after home or family,160315
+White,45-49,Economically inactive:Long term sick or disabled,179360
+White,45-49,Economically inactive:Retired,10545
+White,45-49,Economically inactive:Other,89945
+White,50-54,Economically active:Employee,2287525
+White,50-54,Economically active:Self-Employed,513215
+White,50-54,Economically active:Unemployed,92305
+White,50-54,Economically inactive:Student,10170
+White,50-54,Economically inactive:Looking after home or family,182080
+White,50-54,Economically inactive:Long term sick or disabled,244720
+White,50-54,Economically inactive:Retired,50250
+White,50-54,Economically inactive:Other,115825
+White,55-59,Economically active:Employee,2054370
+White,55-59,Economically active:Self-Employed,506765
+White,55-59,Economically active:Unemployed,96255
+White,55-59,Economically inactive:Student,7880
+White,55-59,Economically inactive:Looking after home or family,195735
+White,55-59,Economically inactive:Long term sick or disabled,286275
+White,55-59,Economically inactive:Retired,259695
+White,55-59,Economically inactive:Other,129505
+White,60-64,Economically active:Employee,1325270
+White,60-64,Economically active:Self-Employed,388750
+White,60-64,Economically active:Unemployed,77495
+White,60-64,Economically inactive:Student,4795
+White,60-64,Economically inactive:Looking after home or family,148620
+White,60-64,Economically inactive:Long term sick or disabled,277780
+White,60-64,Economically inactive:Retired,756765
+White,60-64,Economically inactive:Other,105690
+Other,16-19,Economically active:Employee,6965
+Other,16-19,Economically active:Self-Employed,665
+Other,16-19,Economically active:Unemployed,5390
+Other,16-19,Economically inactive:Student,54735
+Other,16-19,Economically inactive:Looking after home or family,705
+Other,16-19,Economically inactive:Long term sick or disabled,165
+Other,16-19,Economically inactive:Retired,20
+Other,16-19,Economically inactive:Other,2505
+Other,20-24,Economically active:Employee,33075
+Other,20-24,Economically active:Self-Employed,4220
+Other,20-24,Economically active:Unemployed,10400
+Other,20-24,Economically inactive:Student,29675
+Other,20-24,Economically inactive:Looking after home or family,4420
+Other,20-24,Economically inactive:Long term sick or disabled,985
+Other,20-24,Economically inactive:Retired,85
+Other,20-24,Economically inactive:Other,7055
+Other,25-29,Economically active:Employee,52445
+Other,25-29,Economically active:Self-Employed,9250
+Other,25-29,Economically active:Unemployed,8130
+Other,25-29,Economically inactive:Student,9375
+Other,25-29,Economically inactive:Looking after home or family,9835
+Other,25-29,Economically inactive:Long term sick or disabled,1600
+Other,25-29,Economically inactive:Retired,90
+Other,25-29,Economically inactive:Other,9370
+Other,30-34,Economically active:Employee,59630
+Other,30-34,Economically active:Self-Employed,13475
+Other,30-34,Economically active:Unemployed,7290
+Other,30-34,Economically inactive:Student,7065
+Other,30-34,Economically inactive:Looking after home or family,16370
+Other,30-34,Economically inactive:Long term sick or disabled,2200
+Other,30-34,Economically inactive:Retired,110
+Other,30-34,Economically inactive:Other,9775
+Other,35-39,Economically active:Employee,60075
+Other,35-39,Economically active:Self-Employed,16275
+Other,35-39,Economically active:Unemployed,6725
+Other,35-39,Economically inactive:Student,4700
+Other,35-39,Economically inactive:Looking after home or family,18450
+Other,35-39,Economically inactive:Long term sick or disabled,3115
+Other,35-39,Economically inactive:Retired,150
+Other,35-39,Economically inactive:Other,9425
+Other,40-44,Economically active:Employee,56525
+Other,40-44,Economically active:Self-Employed,17055
+Other,40-44,Economically active:Unemployed,6110
+Other,40-44,Economically inactive:Student,2980
+Other,40-44,Economically inactive:Looking after home or family,16155
+Other,40-44,Economically inactive:Long term sick or disabled,3910
+Other,40-44,Economically inactive:Retired,185
+Other,40-44,Economically inactive:Other,8075
+Other,45-49,Economically active:Employee,46305
+Other,45-49,Economically active:Self-Employed,15320
+Other,45-49,Economically active:Unemployed,4485
+Other,45-49,Economically inactive:Student,1770
+Other,45-49,Economically inactive:Looking after home or family,11715
+Other,45-49,Economically inactive:Long term sick or disabled,5195
+Other,45-49,Economically inactive:Retired,335
+Other,45-49,Economically inactive:Other,6615
+Other,50-54,Economically active:Employee,37295
+Other,50-54,Economically active:Self-Employed,12760
+Other,50-54,Economically active:Unemployed,3595
+Other,50-54,Economically inactive:Student,1040
+Other,50-54,Economically inactive:Looking after home or family,8975
+Other,50-54,Economically inactive:Long term sick or disabled,6110
+Other,50-54,Economically inactive:Retired,695
+Other,50-54,Economically inactive:Other,5695
+Other,55-59,Economically active:Employee,26610
+Other,55-59,Economically active:Self-Employed,9395
+Other,55-59,Economically active:Unemployed,2580
+Other,55-59,Economically inactive:Student,530
+Other,55-59,Economically inactive:Looking after home or family,6420
+Other,55-59,Economically inactive:Long term sick or disabled,6670
+Other,55-59,Economically inactive:Retired,1965
+Other,55-59,Economically inactive:Other,5115
+Other,60-64,Economically active:Employee,16615
+Other,60-64,Economically active:Self-Employed,6615
+Other,60-64,Economically active:Unemployed,1655
+Other,60-64,Economically inactive:Student,245
+Other,60-64,Economically inactive:Looking after home or family,4595
+Other,60-64,Economically inactive:Long term sick or disabled,6020
+Other,60-64,Economically inactive:Retired,6105
+Other,60-64,Economically inactive:Other,3915
 
 
 
