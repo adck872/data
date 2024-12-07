@@ -1,6 +1,6 @@
 Ethnic group,Age,Occupation type,Count
 
-Asian,16-19,Managers, Directors and Senior Officials,680
+Asian,16-19,Managers Directors and Senior Officials,680
 Asian,16-19,Professional Occupations,2570
 Asian,16-19,Associate Professional and Technical Occupations,3710
 Asian,16-19,Administrative and Secretarial Occupations,3585
@@ -9,7 +9,7 @@ Asian,16-19,Caring Leisure and Other Service Occupations,3765
 Asian,16-19,Sales and Customer Service Occupations,12385
 Asian,16-19,Process Plant and Machine Operatives,1215
 Asian,16-19,Elementary Occupations,8255
-Asian,20-24,Managers, Directors and Senior Officials,1820
+Asian,20-24,Managers Directors and Senior Officials,1820
 Asian,20-24,Professional Occupations,7990
 Asian,20-24,Associate Professional and Technical Occupations,6640
 Asian,20-24,Administrative and Secretarial Occupations,5890
@@ -18,7 +18,7 @@ Asian,20-24,Caring Leisure and Other Service Occupations,6670
 Asian,20-24,Sales and Customer Service Occupations,16655
 Asian,20-24,Process Plant and Machine Operatives,2225
 Asian,20-24,Elementary Occupations,11200
-Asian,25-29,Managers, Directors and Senior Officials,20230
+Asian,25-29,Managers Directors and Senior Officials,20230
 Asian,25-29,Professional Occupations,104180
 Asian,25-29,Associate Professional and Technical Occupations,42960
 Asian,25-29,Administrative and Secretarial Occupations,28600
@@ -27,7 +27,7 @@ Asian,25-29,Caring Leisure and Other Service Occupations,18815
 Asian,25-29,Sales and Customer Service Occupations,30370
 Asian,25-29,Process Plant and Machine Operatives,9965
 Asian,25-29,Elementary Occupations,23150
-Asian,30-34,Managers, Directors and Senior Officials,38730
+Asian,30-34,Managers Directors and Senior Officials,38730
 Asian,30-34,Professional Occupations,121905
 Asian,30-34,Associate Professional and Technical Occupations,42555
 Asian,30-34,Administrative and Secretarial Occupations,27950
@@ -36,7 +36,7 @@ Asian,30-34,Caring Leisure and Other Service Occupations,22035
 Asian,30-34,Sales and Customer Service Occupations,30120
 Asian,30-34,Process Plant and Machine Operatives,21645
 Asian,30-34,Elementary Occupations,27890
-Asian,35-39,Managers, Directors and Senior Officials,55115
+Asian,35-39,Managers Directors and Senior Officials,55115
 Asian,35-39,Professional Occupations,101865
 Asian,35-39,Associate Professional and Technical Occupations,40225
 Asian,35-39,Administrative and Secretarial Occupations,29175
@@ -45,7 +45,7 @@ Asian,35-39,Caring Leisure and Other Service Occupations,24360
 Asian,35-39,Sales and Customer Service Occupations,25550
 Asian,35-39,Process Plant and Machine Operatives,29635
 Asian,35-39,Elementary Occupations,30510
-Asian,40-44,Managers, Directors and Senior Officials,54010
+Asian,40-44,Managers Directors and Senior Officials,54010
 Asian,40-44,Professional Occupations,105850
 Asian,40-44,Associate Professional and Technical Occupations,32075
 Asian,40-44,Administrative and Secretarial Occupations,25515
@@ -54,7 +54,7 @@ Asian,40-44,Caring Leisure and Other Service Occupations,26575
 Asian,40-44,Sales and Customer Service Occupations,27690
 Asian,40-44,Process Plant and Machine Operatives,33660
 Asian,40-44,Elementary Occupations,33100
-Asian,45-49,Managers, Directors and Senior Officials,40365
+Asian,45-49,Managers Directors and Senior Officials,40365
 Asian,45-49,Professional Occupations,72515
 Asian,45-49,Associate Professional and Technical Occupations,24410
 Asian,45-49,Administrative and Secretarial Occupations,19625
@@ -63,7 +63,7 @@ Asian,45-49,Caring Leisure and Other Service Occupations,22440
 Asian,45-49,Sales and Customer Service Occupations,22635
 Asian,45-49,Process Plant and Machine Operatives,32775
 Asian,45-49,Elementary Occupations,33255
-Asian,50-54,Managers, Directors and Senior Officials,27245
+Asian,50-54,Managers Directors and Senior Officials,27245
 Asian,50-54,Professional Occupations,43740
 Asian,50-54,Associate Professional and Technical Occupations,14660
 Asian,50-54,Administrative and Secretarial Occupations,14665
@@ -72,7 +72,7 @@ Asian,50-54,Caring Leisure and Other Service Occupations,20395
 Asian,50-54,Sales and Customer Service Occupations,17835
 Asian,50-54,Process Plant and Machine Operatives,26635
 Asian,50-54,Elementary Occupations,26930
-Asian,55-59,Managers, Directors and Senior Officials,18845
+Asian,55-59,Managers Directors and Senior Officials,18845
 Asian,55-59,Professional Occupations,25655
 Asian,55-59,Associate Professional and Technical Occupations,9425
 Asian,55-59,Administrative and Secretarial Occupations,11805
@@ -81,7 +81,7 @@ Asian,55-59,Caring Leisure and Other Service Occupations,11775
 Asian,55-59,Sales and Customer Service Occupations,12105
 Asian,55-59,Process Plant and Machine Operatives,14875
 Asian,55-59,Elementary Occupations,19815
-Asian,60-64,Managers, Directors and Senior Officials,13610
+Asian,60-64,Managers Directors and Senior Officials,13610
 Asian,60-64,Professional Occupations,14620
 Asian,60-64,Associate Professional and Technical Occupations,5735
 Asian,60-64,Administrative and Secretarial Occupations,7335
@@ -90,7 +90,7 @@ Asian,60-64,Caring Leisure and Other Service Occupations,8170
 Asian,60-64,Sales and Customer Service Occupations,9910
 Asian,60-64,Process Plant and Machine Operatives,11945
 Asian,60-64,Elementary Occupations,14610
-Black,16-19,Managers, Directors and Senior Officials,235
+Black,16-19,Managers Directors and Senior Officials,235
 Black,16-19,Professional Occupations,925
 Black,16-19,Associate Professional and Technical Occupations,1455
 Black,16-19,Administrative and Secretarial Occupations,870
@@ -99,7 +99,7 @@ Black,16-19,Caring Leisure and Other Service Occupations,3740
 Black,16-19,Sales and Customer Service Occupations,5655
 Black,16-19,Process Plant and Machine Operatives,555
 Black,16-19,Elementary Occupations,5540
-Black,20-24,Managers, Directors and Senior Officials,2195
+Black,20-24,Managers Directors and Senior Officials,2195
 Black,20-24,Professional Occupations,12425
 Black,20-24,Associate Professional and Technical Occupations,11995
 Black,20-24,Administrative and Secretarial Occupations,7205
@@ -108,7 +108,7 @@ Black,20-24,Caring Leisure and Other Service Occupations,13400
 Black,20-24,Sales and Customer Service Occupations,16060
 Black,20-24,Process Plant and Machine Operatives,3170
 Black,20-24,Elementary Occupations,14885
-Black,25-29,Managers, Directors and Senior Officials,6175
+Black,25-29,Managers Directors and Senior Officials,6175
 Black,25-29,Professional Occupations,30590
 Black,25-29,Associate Professional and Technical Occupations,21170
 Black,25-29,Administrative and Secretarial Occupations,10885
@@ -117,7 +117,7 @@ Black,25-29,Caring Leisure and Other Service Occupations,15200
 Black,25-29,Sales and Customer Service Occupations,10710
 Black,25-29,Process Plant and Machine Operatives,4635
 Black,25-29,Elementary Occupations,12120
-Black,30-34,Managers, Directors and Senior Officials,9030
+Black,30-34,Managers Directors and Senior Officials,9030
 Black,30-34,Professional Occupations,32445
 Black,30-34,Associate Professional and Technical Occupations,17885
 Black,30-34,Administrative and Secretarial Occupations,9470
@@ -126,7 +126,7 @@ Black,30-34,Caring Leisure and Other Service Occupations,17925
 Black,30-34,Sales and Customer Service Occupations,7995
 Black,30-34,Process Plant and Machine Operatives,6200
 Black,30-34,Elementary Occupations,12960
-Black,35-39,Managers, Directors and Senior Officials,10520
+Black,35-39,Managers Directors and Senior Officials,10520
 Black,35-39,Professional Occupations,32345
 Black,35-39,Associate Professional and Technical Occupations,15420
 Black,35-39,Administrative and Secretarial Occupations,8680
@@ -135,7 +135,7 @@ Black,35-39,Caring Leisure and Other Service Occupations,21860
 Black,35-39,Sales and Customer Service Occupations,6960
 Black,35-39,Process Plant and Machine Operatives,8010
 Black,35-39,Elementary Occupations,14840
-Black,40-44,Managers, Directors and Senior Officials,11320
+Black,40-44,Managers Directors and Senior Officials,11320
 Black,40-44,Professional Occupations,33310
 Black,40-44,Associate Professional and Technical Occupations,13490
 Black,40-44,Administrative and Secretarial Occupations,8250
@@ -144,7 +144,7 @@ Black,40-44,Caring Leisure and Other Service Occupations,26055
 Black,40-44,Sales and Customer Service Occupations,6075
 Black,40-44,Process Plant and Machine Operatives,9560
 Black,40-44,Elementary Occupations,18225
-Black,45-49,Managers, Directors and Senior Officials,10230
+Black,45-49,Managers Directors and Senior Officials,10230
 Black,45-49,Professional Occupations,30510
 Black,45-49,Associate Professional and Technical Occupations,11400
 Black,45-49,Administrative and Secretarial Occupations,7525
@@ -153,7 +153,7 @@ Black,45-49,Caring Leisure and Other Service Occupations,25920
 Black,45-49,Sales and Customer Service Occupations,5510
 Black,45-49,Process Plant and Machine Operatives,10220
 Black,45-49,Elementary Occupations,19940
-Black,50-54,Managers, Directors and Senior Officials,10960
+Black,50-54,Managers Directors and Senior Officials,10960
 Black,50-54,Professional Occupations,30270
 Black,50-54,Associate Professional and Technical Occupations,13070
 Black,50-54,Administrative and Secretarial Occupations,10060
@@ -162,7 +162,7 @@ Black,50-54,Caring Leisure and Other Service Occupations,24650
 Black,50-54,Sales and Customer Service Occupations,5690
 Black,50-54,Process Plant and Machine Operatives,10995
 Black,50-54,Elementary Occupations,20395
-Black,55-59,Managers, Directors and Senior Officials,9095
+Black,55-59,Managers Directors and Senior Officials,9095
 Black,55-59,Professional Occupations,24310
 Black,55-59,Associate Professional and Technical Occupations,11575
 Black,55-59,Administrative and Secretarial Occupations,10580
@@ -171,7 +171,7 @@ Black,55-59,Caring Leisure and Other Service Occupations,19815
 Black,55-59,Sales and Customer Service Occupations,4980
 Black,55-59,Process Plant and Machine Operatives,10040
 Black,55-59,Elementary Occupations,16175
-Black,60-64,Managers, Directors and Senior Officials,4325
+Black,60-64,Managers Directors and Senior Officials,4325
 Black,60-64,Professional Occupations,12650
 Black,60-64,Associate Professional and Technical Occupations,5490
 Black,60-64,Administrative and Secretarial Occupations,5350
@@ -180,7 +180,7 @@ Black,60-64,Caring Leisure and Other Service Occupations,12360
 Black,60-64,Sales and Customer Service Occupations,3925
 Black,60-64,Process Plant and Machine Operatives,5955
 Black,60-64,Elementary Occupations,10120
-Mixed,16-19,Managers, Directors and Senior Officials,360
+Mixed,16-19,Managers Directors and Senior Officials,360
 Mixed,16-19,Professional Occupations,995
 Mixed,16-19,Associate Professional and Technical Occupations,2330
 Mixed,16-19,Administrative and Secretarial Occupations,1495
@@ -189,7 +189,7 @@ Mixed,16-19,Caring Leisure and Other Service Occupations,2935
 Mixed,16-19,Sales and Customer Service Occupations,6560
 Mixed,16-19,Process Plant and Machine Operatives,730
 Mixed,16-19,Elementary Occupations,7240
-Mixed,20-24,Managers, Directors and Senior Officials,3030
+Mixed,20-24,Managers Directors and Senior Officials,3030
 Mixed,20-24,Professional Occupations,11880
 Mixed,20-24,Associate Professional and Technical Occupations,14300
 Mixed,20-24,Administrative and Secretarial Occupations,7415
@@ -198,7 +198,7 @@ Mixed,20-24,Caring Leisure and Other Service Occupations,9135
 Mixed,20-24,Sales and Customer Service Occupations,13425
 Mixed,20-24,Process Plant and Machine Operatives,2920
 Mixed,20-24,Elementary Occupations,13105
-Mixed,25-29,Managers, Directors and Senior Officials,7445
+Mixed,25-29,Managers Directors and Senior Officials,7445
 Mixed,25-29,Professional Occupations,25655
 Mixed,25-29,Associate Professional and Technical Occupations,21540
 Mixed,25-29,Administrative and Secretarial Occupations,8940
@@ -207,7 +207,7 @@ Mixed,25-29,Caring Leisure and Other Service Occupations,8335
 Mixed,25-29,Sales and Customer Service Occupations,8455
 Mixed,25-29,Process Plant and Machine Operatives,3715
 Mixed,25-29,Elementary Occupations,9065
-Mixed,30-34,Managers, Directors and Senior Officials,11255
+Mixed,30-34,Managers Directors and Senior Officials,11255
 Mixed,30-34,Professional Occupations,25430
 Mixed,30-34,Associate Professional and Technical Occupations,18030
 Mixed,30-34,Administrative and Secretarial Occupations,7660
@@ -216,7 +216,7 @@ Mixed,30-34,Caring Leisure and Other Service Occupations,7465
 Mixed,30-34,Sales and Customer Service Occupations,5950
 Mixed,30-34,Process Plant and Machine Operatives,4140
 Mixed,30-34,Elementary Occupations,7385
-Mixed,35-39,Managers, Directors and Senior Officials,10930
+Mixed,35-39,Managers Directors and Senior Officials,10930
 Mixed,35-39,Professional Occupations,20120
 Mixed,35-39,Associate Professional and Technical Occupations,13165
 Mixed,35-39,Administrative and Secretarial Occupations,6045
@@ -225,7 +225,7 @@ Mixed,35-39,Caring Leisure and Other Service Occupations,6295
 Mixed,35-39,Sales and Customer Service Occupations,3940
 Mixed,35-39,Process Plant and Machine Operatives,3660
 Mixed,35-39,Elementary Occupations,6205
-Mixed,40-44,Managers, Directors and Senior Officials,9195
+Mixed,40-44,Managers Directors and Senior Officials,9195
 Mixed,40-44,Professional Occupations,15180
 Mixed,40-44,Associate Professional and Technical Occupations,9440
 Mixed,40-44,Administrative and Secretarial Occupations,4840
@@ -234,7 +234,7 @@ Mixed,40-44,Caring Leisure and Other Service Occupations,5090
 Mixed,40-44,Sales and Customer Service Occupations,2785
 Mixed,40-44,Process Plant and Machine Operatives,3000
 Mixed,40-44,Elementary Occupations,5345
-Mixed,45-49,Managers, Directors and Senior Officials,7205
+Mixed,45-49,Managers Directors and Senior Officials,7205
 Mixed,45-49,Professional Occupations,11265
 Mixed,45-49,Associate Professional and Technical Occupations,7110
 Mixed,45-49,Administrative and Secretarial Occupations,3745
@@ -243,7 +243,7 @@ Mixed,45-49,Caring Leisure and Other Service Occupations,4405
 Mixed,45-49,Sales and Customer Service Occupations,2190
 Mixed,45-49,Process Plant and Machine Operatives,2720
 Mixed,45-49,Elementary Occupations,4570
-Mixed,50-54,Managers, Directors and Senior Officials,6175
+Mixed,50-54,Managers Directors and Senior Officials,6175
 Mixed,50-54,Professional Occupations,9240
 Mixed,50-54,Associate Professional and Technical Occupations,5905
 Mixed,50-54,Administrative and Secretarial Occupations,3875
@@ -252,7 +252,7 @@ Mixed,50-54,Caring Leisure and Other Service Occupations,4600
 Mixed,50-54,Sales and Customer Service Occupations,2110
 Mixed,50-54,Process Plant and Machine Operatives,2860
 Mixed,50-54,Elementary Occupations,4470
-Mixed,55-59,Managers, Directors and Senior Officials,4315
+Mixed,55-59,Managers Directors and Senior Officials,4315
 Mixed,55-59,Professional Occupations,6795
 Mixed,55-59,Associate Professional and Technical Occupations,4225
 Mixed,55-59,Administrative and Secretarial Occupations,3270
@@ -261,7 +261,7 @@ Mixed,55-59,Caring Leisure and Other Service Occupations,3555
 Mixed,55-59,Sales and Customer Service Occupations,1760
 Mixed,55-59,Process Plant and Machine Operatives,2350
 Mixed,55-59,Elementary Occupations,3665
-Mixed,60-64,Managers, Directors and Senior Officials,2025
+Mixed,60-64,Managers Directors and Senior Officials,2025
 Mixed,60-64,Professional Occupations,3115
 Mixed,60-64,Associate Professional and Technical Occupations,2020
 Mixed,60-64,Administrative and Secretarial Occupations,1750
@@ -270,7 +270,7 @@ Mixed,60-64,Caring Leisure and Other Service Occupations,2075
 Mixed,60-64,Sales and Customer Service Occupations,995
 Mixed,60-64,Process Plant and Machine Operatives,1295
 Mixed,60-64,Elementary Occupations,2030
-White,16-19,Managers, Directors and Senior Officials,7485
+White,16-19,Managers Directors and Senior Officials,7485
 White,16-19,Professional Occupations,17810
 White,16-19,Associate Professional and Technical Occupations,43730
 White,16-19,Administrative and Secretarial Occupations,32030
@@ -279,7 +279,7 @@ White,16-19,Caring Leisure and Other Service Occupations,71755
 White,16-19,Sales and Customer Service Occupations,137485
 White,16-19,Process Plant and Machine Operatives,18815
 White,16-19,Elementary Occupations,171470
-White,20-24,Managers, Directors and Senior Officials,97505
+White,20-24,Managers Directors and Senior Officials,97505
 White,20-24,Professional Occupations,239175
 White,20-24,Associate Professional and Technical Occupations,258540
 White,20-24,Administrative and Secretarial Occupations,173000
@@ -288,7 +288,7 @@ White,20-24,Caring Leisure and Other Service Occupations,215480
 White,20-24,Sales and Customer Service Occupations,254105
 White,20-24,Process Plant and Machine Operatives,81235
 White,20-24,Elementary Occupations,290660
-White,25-29,Managers, Directors and Senior Officials,228960
+White,25-29,Managers Directors and Senior Officials,228960
 White,25-29,Professional Occupations,611680
 White,25-29,Associate Professional and Technical Occupations,460000
 White,25-29,Administrative and Secretarial Occupations,228460
@@ -297,7 +297,7 @@ White,25-29,Caring Leisure and Other Service Occupations,239320
 White,25-29,Sales and Customer Service Occupations,267090
 White,25-29,Process Plant and Machine Operatives,130170
 White,25-29,Elementary Occupations,118380
-White,30-34,Managers, Directors and Senior Officials,586770
+White,30-34,Managers Directors and Senior Officials,586770
 White,30-34,Professional Occupations,752495
 White,30-34,Associate Professional and Technical Occupations,925675
 White,30-34,Administrative and Secretarial Occupations,485095
@@ -306,7 +306,7 @@ White,30-34,Caring Leisure and Other Service Occupations,475810
 White,30-34,Sales and Customer Service Occupations,389035
 White,30-34,Process Plant and Machine Operatives,163660
 White,30-34,Elementary Occupations,270895
-White,35-39,Managers, Directors and Senior Officials,419370
+White,35-39,Managers Directors and Senior Officials,419370
 White,35-39,Professional Occupations,650475
 White,35-39,Associate Professional and Technical Occupations,849160
 White,35-39,Administrative and Secretarial Occupations,512365
@@ -315,7 +315,7 @@ White,35-39,Caring Leisure and Other Service Occupations,476000
 White,35-39,Sales and Customer Service Occupations,327525
 White,35-39,Process Plant and Machine Operatives,169235
 White,35-39,Elementary Occupations,147045
-White,40-44,Managers, Directors and Senior Officials,447225
+White,40-44,Managers Directors and Senior Officials,447225
 White,40-44,Professional Occupations,585570
 White,40-44,Associate Professional and Technical Occupations,785105
 White,40-44,Administrative and Secretarial Occupations,419450
@@ -324,7 +324,7 @@ White,40-44,Caring Leisure and Other Service Occupations,551425
 White,40-44,Sales and Customer Service Occupations,257205
 White,40-44,Process Plant and Machine Operatives,152695
 White,40-44,Elementary Occupations,202025
-White,45-49,Managers, Directors and Senior Officials,440195
+White,45-49,Managers Directors and Senior Officials,440195
 White,45-49,Professional Occupations,594000
 White,45-49,Associate Professional and Technical Occupations,593265
 White,45-49,Administrative and Secretarial Occupations,483445
@@ -333,7 +333,7 @@ White,45-49,Caring Leisure and Other Service Occupations,414390
 White,45-49,Sales and Customer Service Occupations,231085
 White,45-49,Process Plant and Machine Operatives,198090
 White,45-49,Elementary Occupations,221710
-White,50-54,Managers, Directors and Senior Officials,497480
+White,50-54,Managers Directors and Senior Officials,497480
 White,50-54,Professional Occupations,577160
 White,50-54,Associate Professional and Technical Occupations,498000
 White,50-54,Administrative and Secretarial Occupations,349465
@@ -342,7 +342,7 @@ White,50-54,Caring Leisure and Other Service Occupations,415640
 White,50-54,Sales and Customer Service Occupations,259180
 White,50-54,Process Plant and Machine Operatives,230590
 White,50-54,Elementary Occupations,272210
-White,55-59,Managers, Directors and Senior Officials,494785
+White,55-59,Managers Directors and Senior Officials,494785
 White,55-59,Professional Occupations,520725
 White,55-59,Associate Professional and Technical Occupations,381025
 White,55-59,Administrative and Secretarial Occupations,297565
@@ -351,7 +351,7 @@ White,55-59,Caring Leisure and Other Service Occupations,305060
 White,55-59,Sales and Customer Service Occupations,174755
 White,55-59,Process Plant and Machine Operatives,233250
 White,55-59,Elementary Occupations,249525
-White,60-64,Managers, Directors and Senior Officials,241630
+White,60-64,Managers Directors and Senior Officials,241630
 White,60-64,Professional Occupations,254340
 White,60-64,Associate Professional and Technical Occupations,171050
 White,60-64,Administrative and Secretarial Occupations,196285
@@ -360,7 +360,7 @@ White,60-64,Caring Leisure and Other Service Occupations,169305
 White,60-64,Sales and Customer Service Occupations,128880
 White,60-64,Process Plant and Machine Operatives,170825
 White,60-64,Elementary Occupations,184345
-Other,16-19,Managers, Directors and Senior Officials,155
+Other,16-19,Managers Directors and Senior Officials,155
 Other,16-19,Professional Occupations,440
 Other,16-19,Associate Professional and Technical Occupations,535
 Other,16-19,Administrative and Secretarial Occupations,515
@@ -369,7 +369,7 @@ Other,16-19,Caring Leisure and Other Service Occupations,780
 Other,16-19,Sales and Customer Service Occupations,2030
 Other,16-19,Process Plant and Machine Operatives,405
 Other,16-19,Elementary Occupations,2310
-Other,20-24,Managers, Directors and Senior Officials,1630
+Other,20-24,Managers Directors and Senior Officials,1630
 Other,20-24,Professional Occupations,5865
 Other,20-24,Associate Professional and Technical Occupations,4675
 Other,20-24,Administrative and Secretarial Occupations,3130
@@ -378,7 +378,7 @@ Other,20-24,Caring Leisure and Other Service Occupations,3710
 Other,20-24,Sales and Customer Service Occupations,6255
 Other,20-24,Process Plant and Machine Operatives,2120
 Other,20-24,Elementary Occupations,7510
-Other,25-29,Managers, Directors and Senior Officials,4575
+Other,25-29,Managers Directors and Senior Officials,4575
 Other,25-29,Professional Occupations,17320
 Other,25-29,Associate Professional and Technical Occupations,8770
 Other,25-29,Administrative and Secretarial Occupations,4710
@@ -387,7 +387,7 @@ Other,25-29,Caring Leisure and Other Service Occupations,4715
 Other,25-29,Sales and Customer Service Occupations,5285
 Other,25-29,Process Plant and Machine Operatives,3490
 Other,25-29,Elementary Occupations,8635
-Other,30-34,Managers, Directors and Senior Officials,8070
+Other,30-34,Managers Directors and Senior Officials,8070
 Other,30-34,Professional Occupations,19805
 Other,30-34,Associate Professional and Technical Occupations,9300
 Other,30-34,Administrative and Secretarial Occupations,4665
@@ -396,7 +396,7 @@ Other,30-34,Caring Leisure and Other Service Occupations,5615
 Other,30-34,Sales and Customer Service Occupations,5120
 Other,30-34,Process Plant and Machine Operatives,5245
 Other,30-34,Elementary Occupations,9685
-Other,35-39,Managers, Directors and Senior Officials,10145
+Other,35-39,Managers Directors and Senior Officials,10145
 Other,35-39,Professional Occupations,18330
 Other,35-39,Associate Professional and Technical Occupations,8365
 Other,35-39,Administrative and Secretarial Occupations,4840
@@ -405,7 +405,7 @@ Other,35-39,Caring Leisure and Other Service Occupations,6175
 Other,35-39,Sales and Customer Service Occupations,5240
 Other,35-39,Process Plant and Machine Operatives,6330
 Other,35-39,Elementary Occupations,10070
-Other,40-44,Managers, Directors and Senior Officials,10045
+Other,40-44,Managers Directors and Senior Officials,10045
 Other,40-44,Professional Occupations,15225
 Other,40-44,Associate Professional and Technical Occupations,7285
 Other,40-44,Administrative and Secretarial Occupations,4525
@@ -414,7 +414,7 @@ Other,40-44,Caring Leisure and Other Service Occupations,6555
 Other,40-44,Sales and Customer Service Occupations,5065
 Other,40-44,Process Plant and Machine Operatives,6870
 Other,40-44,Elementary Occupations,10920
-Other,45-49,Managers, Directors and Senior Officials,8090
+Other,45-49,Managers Directors and Senior Officials,8090
 Other,45-49,Professional Occupations,12225
 Other,45-49,Associate Professional and Technical Occupations,5345
 Other,45-49,Administrative and Secretarial Occupations,3480
@@ -423,7 +423,7 @@ Other,45-49,Caring Leisure and Other Service Occupations,6035
 Other,45-49,Sales and Customer Service Occupations,4160
 Other,45-49,Process Plant and Machine Operatives,6535
 Other,45-49,Elementary Occupations,9830
-Other,50-54,Managers, Directors and Senior Officials,6530
+Other,50-54,Managers Directors and Senior Officials,6530
 Other,50-54,Professional Occupations,9295
 Other,50-54,Associate Professional and Technical Occupations,4265
 Other,50-54,Administrative and Secretarial Occupations,2965
@@ -432,7 +432,7 @@ Other,50-54,Caring Leisure and Other Service Occupations,5100
 Other,50-54,Sales and Customer Service Occupations,3235
 Other,50-54,Process Plant and Machine Operatives,5375
 Other,50-54,Elementary Occupations,8545
-Other,55-59,Managers, Directors and Senior Officials,4935
+Other,55-59,Managers Directors and Senior Officials,4935
 Other,55-59,Professional Occupations,6735
 Other,55-59,Associate Professional and Technical Occupations,2975
 Other,55-59,Administrative and Secretarial Occupations,2380
@@ -441,7 +441,7 @@ Other,55-59,Caring Leisure and Other Service Occupations,3615
 Other,55-59,Sales and Customer Service Occupations,2290
 Other,55-59,Process Plant and Machine Operatives,3825
 Other,55-59,Elementary Occupations,6100
-Other,60-64,Managers, Directors and Senior Officials,3490
+Other,60-64,Managers Directors and Senior Officials,3490
 Other,60-64,Professional Occupations,4365
 Other,60-64,Associate Professional and Technical Occupations,1835
 Other,60-64,Administrative and Secretarial Occupations,1685
