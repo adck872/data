@@ -1,211 +1,455 @@
+Ethnic group,Age,Occupation type,Count
 
-Ethnic group,age band,"1. Managers, directors and senior officials",2. Professional occupations,3. Associate professional and technical occupations,4. Administrative and secretarial occupations,5. Skilled trades occupations,"6. Caring, leisure and other service occupations",7. Sales and customer service occupations,"8. Process, plant and machine operatives",9. Elementary occupations,,
-"Asian, Asian British or Asian Welsh: Bangladeshi",16 to 19, 80 , 390 , 350 , 465 , 155 , 510 ," 2,545 ", 170 ," 1,405 ",,
-"Asian, Asian British or Asian Welsh: Bangladeshi",20 to 24, 890 ," 4,555 "," 3,235 "," 3,370 ", 720 ," 2,495 "," 8,155 "," 1,045 "," 3,230 ",,
-"Asian, Asian British or Asian Welsh: Bangladeshi",25 to 29," 1,970 "," 8,425 "," 5,055 "," 4,405 "," 1,050 "," 2,275 "," 4,550 "," 1,515 "," 2,795 ",,
-"Asian, Asian British or Asian Welsh: Bangladeshi",30 to 34," 3,170 "," 7,305 "," 4,215 "," 3,670 "," 1,550 "," 2,315 "," 4,180 "," 2,490 "," 3,360 ",,
-"Asian, Asian British or Asian Welsh: Bangladeshi",35 to 39," 3,555 "," 5,845 "," 3,505 "," 3,080 "," 2,280 "," 2,485 "," 3,685 "," 3,710 "," 3,820 ",,
-"Asian, Asian British or Asian Welsh: Bangladeshi",40 to 44," 3,315 "," 4,705 "," 2,800 "," 2,285 "," 3,730 "," 2,930 "," 3,230 "," 5,310 "," 4,730 ",,
-"Asian, Asian British or Asian Welsh: Bangladeshi",45 to 49," 2,780 "," 2,875 "," 1,645 "," 1,345 "," 4,175 "," 2,410 "," 2,130 "," 5,395 "," 4,120 ",,
-"Asian, Asian British or Asian Welsh: Bangladeshi",50 to 54," 1,750 "," 1,390 ", 780 , 610 ," 3,375 "," 1,300 "," 1,100 "," 3,780 "," 2,695 ",,
-"Asian, Asian British or Asian Welsh: Bangladeshi",55 to 59, 940 , 635 , 320 , 240 ," 1,710 ", 530 , 520 ," 1,780 "," 1,275 ",,
-"Asian, Asian British or Asian Welsh: Bangladeshi",60 to 64, 580 , 325 , 195 , 130 , 905 , 230 , 300 , 895 , 760 ,,
-"Asian, Asian British or Asian Welsh: Chinese",16 to 19, 20 , 180 , 110 , 115 , 70 , 100 , 525 , 20 , 495 ,,
-"Asian, Asian British or Asian Welsh: Chinese",20 to 24, 470 ," 4,590 "," 1,995 "," 1,050 ", 475 , 525 ," 1,420 ", 135 ," 1,195 ",,
-"Asian, Asian British or Asian Welsh: Chinese",25 to 29," 2,025 "," 12,795 "," 4,845 "," 1,925 ", 835 , 730 ," 1,480 ", 270 ," 1,075 ",,
-"Asian, Asian British or Asian Welsh: Chinese",30 to 34," 4,435 "," 13,335 "," 4,840 "," 2,015 "," 1,390 ", 820 ," 1,740 ", 305 ," 1,240 ",,
-"Asian, Asian British or Asian Welsh: Chinese",35 to 39," 6,025 "," 11,145 "," 4,140 "," 2,195 "," 3,005 ", 925 ," 1,890 ", 410 ," 1,675 ",,
-"Asian, Asian British or Asian Welsh: Chinese",40 to 44," 5,515 "," 8,585 "," 3,180 "," 2,030 "," 3,975 ", 865 ," 1,630 ", 525 ," 1,680 ",,
-"Asian, Asian British or Asian Welsh: Chinese",45 to 49," 4,190 "," 6,150 "," 2,265 "," 1,620 "," 4,245 ", 915 ," 1,485 ", 515 ," 1,935 ",,
-"Asian, Asian British or Asian Welsh: Chinese",50 to 54," 3,085 "," 4,090 "," 1,470 "," 1,355 "," 3,635 ", 950 ," 1,340 ", 495 ," 1,840 ",,
-"Asian, Asian British or Asian Welsh: Chinese",55 to 59," 2,185 "," 3,205 "," 1,030 ", 930 ," 3,035 ", 700 ," 1,110 ", 410 ," 1,620 ",,
-"Asian, Asian British or Asian Welsh: Chinese",60 to 64," 1,345 "," 1,720 ", 590 , 650 ," 1,985 ", 425 , 650 , 335 ," 1,150 ",,
-"Asian, Asian British or Asian Welsh: Indian",16 to 19, 235 , 910 , 755 ," 1,240 ", 390 , 985 ," 3,360 ", 395 ," 2,470 ",,
-"Asian, Asian British or Asian Welsh: Indian",20 to 24," 2,335 "," 14,350 "," 8,135 "," 6,435 "," 2,000 "," 4,120 "," 10,795 "," 2,595 "," 8,165 ",,
-"Asian, Asian British or Asian Welsh: Indian",25 to 29," 7,545 "," 42,525 "," 15,235 "," 8,770 "," 3,035 "," 4,665 "," 8,580 "," 3,905 "," 7,435 ",,
-"Asian, Asian British or Asian Welsh: Indian",30 to 34," 16,575 "," 58,650 "," 17,780 "," 10,455 "," 4,655 "," 6,140 "," 9,185 "," 5,825 "," 8,665 ",,
-"Asian, Asian British or Asian Welsh: Indian",35 to 39," 25,240 "," 61,210 "," 19,280 "," 12,170 "," 5,590 "," 7,650 "," 10,185 "," 7,475 "," 9,970 ",,
-"Asian, Asian British or Asian Welsh: Indian",40 to 44," 24,465 "," 53,235 "," 15,825 "," 11,365 "," 5,745 "," 7,945 "," 9,055 "," 8,245 "," 10,555 ",,
-"Asian, Asian British or Asian Welsh: Indian",45 to 49," 17,895 "," 35,470 "," 11,125 "," 9,280 "," 5,115 "," 6,920 "," 7,585 "," 8,100 "," 10,590 ",,
-"Asian, Asian British or Asian Welsh: Indian",50 to 54," 13,690 "," 22,750 "," 8,410 "," 8,850 "," 4,140 "," 6,000 "," 6,905 "," 7,285 "," 9,550 ",,
-"Asian, Asian British or Asian Welsh: Indian",55 to 59," 9,530 "," 13,595 "," 5,265 "," 7,300 "," 3,615 "," 4,680 "," 6,185 "," 6,315 "," 7,920 ",,
-"Asian, Asian British or Asian Welsh: Indian",60 to 64," 6,475 "," 7,850 "," 3,195 "," 5,330 "," 3,200 "," 3,280 "," 5,710 "," 5,585 "," 6,860 ",,
-"Asian, Asian British or Asian Welsh: Pakistani",16 to 19, 250 , 740 , 845 ," 1,340 ", 565 ," 1,560 "," 5,065 ", 455 ," 3,215 ",,
-"Asian, Asian British or Asian Welsh: Pakistani",20 to 24," 2,125 "," 9,370 "," 6,295 "," 6,195 "," 2,000 "," 6,580 "," 15,270 "," 2,695 "," 7,975 ",,
-"Asian, Asian British or Asian Welsh: Pakistani",25 to 29," 5,085 "," 21,805 "," 10,015 "," 8,515 "," 2,935 "," 6,090 "," 10,395 "," 5,175 "," 7,140 ",,
-"Asian, Asian British or Asian Welsh: Pakistani",30 to 34," 8,555 "," 20,230 "," 8,850 "," 7,920 "," 3,860 "," 5,785 "," 9,540 "," 9,920 "," 8,610 ",,
-"Asian, Asian British or Asian Welsh: Pakistani",35 to 39," 10,545 "," 18,430 "," 8,430 "," 7,405 "," 4,295 "," 6,300 "," 8,660 "," 13,085 "," 8,690 ",,
-"Asian, Asian British or Asian Welsh: Pakistani",40 to 44," 9,965 "," 16,125 "," 7,175 "," 6,085 "," 4,545 "," 6,395 "," 6,990 "," 14,575 "," 8,585 ",,
-"Asian, Asian British or Asian Welsh: Pakistani",45 to 49," 7,330 "," 10,425 "," 4,705 "," 4,030 "," 4,150 "," 5,120 "," 5,050 "," 13,160 "," 6,825 ",,
-"Asian, Asian British or Asian Welsh: Pakistani",50 to 54," 5,875 "," 6,935 "," 3,370 "," 2,930 "," 3,330 "," 3,810 "," 3,840 "," 10,580 "," 5,185 ",,
-"Asian, Asian British or Asian Welsh: Pakistani",55 to 59," 3,040 "," 3,515 "," 1,450 "," 1,410 "," 1,830 "," 1,800 "," 2,075 "," 5,885 "," 2,880 ",,
-"Asian, Asian British or Asian Welsh: Pakistani",60 to 64," 2,235 "," 2,180 ", 770 , 880 ," 1,355 "," 1,155 "," 1,440 "," 4,530 "," 1,980 ",,
-"Asian, Asian British or Asian Welsh: Other Asian",16 to 19, 95 , 350 , 550 , 425 , 275 , 610 ," 1,890 ", 175 ," 1,670 ",,
-"Asian, Asian British or Asian Welsh: Other Asian",20 to 24," 1,235 "," 5,770 "," 4,580 "," 2,730 "," 1,585 "," 3,515 "," 6,160 "," 1,185 "," 4,615 ",,
-"Asian, Asian British or Asian Welsh: Other Asian",25 to 29," 3,605 "," 18,630 "," 7,410 "," 3,985 "," 2,500 "," 5,055 "," 5,165 "," 2,100 "," 4,705 ",,
-"Asian, Asian British or Asian Welsh: Other Asian",30 to 34," 6,095 "," 21,885 "," 6,670 "," 3,890 "," 3,035 "," 6,675 "," 5,475 "," 3,105 "," 5,615 ",,
-"Asian, Asian British or Asian Welsh: Other Asian",35 to 39," 7,550 "," 15,235 "," 5,870 "," 4,025 "," 3,740 "," 7,000 "," 6,030 "," 4,155 "," 6,355 ",,
-"Asian, Asian British or Asian Welsh: Other Asian",40 to 44," 8,350 "," 14,200 "," 5,695 "," 3,850 "," 4,425 "," 8,440 "," 6,785 "," 5,405 "," 7,550 ",,
-"Asian, Asian British or Asian Welsh: Other Asian",45 to 49," 7,370 "," 16,895 "," 4,470 "," 3,350 "," 4,535 "," 9,385 "," 6,385 "," 6,405 "," 8,085 ",,
-"Asian, Asian British or Asian Welsh: Other Asian",50 to 54," 5,045 "," 10,075 "," 3,130 "," 2,720 "," 3,440 "," 8,035 "," 4,650 "," 4,495 "," 7,660 ",,
-"Asian, Asian British or Asian Welsh: Other Asian",55 to 59," 3,150 "," 4,605 "," 1,860 "," 2,025 "," 2,315 "," 5,065 "," 3,175 "," 2,985 "," 6,120 ",,
-"Asian, Asian British or Asian Welsh: Other Asian",60 to 64," 1,975 "," 3,345 ", 985 ," 1,345 "," 1,265 "," 3,080 "," 1,810 "," 1,600 "," 3,560 ",,
-"Black, Black British, Black Welsh, Caribbean or African: African",16 to 19, 145 , 630 , 800 , 465 , 290 ," 1,825 "," 2,965 ", 325 ," 3,605 ",,
-"Black, Black British, Black Welsh, Caribbean or African: African",20 to 24," 1,345 "," 8,975 "," 7,030 "," 4,165 "," 1,485 "," 9,515 "," 9,905 "," 1,935 "," 10,265 ",,
-"Black, Black British, Black Welsh, Caribbean or African: African",25 to 29," 3,830 "," 22,075 "," 12,630 "," 6,450 "," 1,960 "," 10,730 "," 6,430 "," 2,730 "," 8,305 ",,
-"Black, Black British, Black Welsh, Caribbean or African: African",30 to 34," 5,545 "," 22,815 "," 10,275 "," 5,220 "," 2,250 "," 13,290 "," 4,815 "," 4,040 "," 9,375 ",,
-"Black, Black British, Black Welsh, Caribbean or African: African",35 to 39," 6,645 "," 23,595 "," 8,775 "," 4,760 "," 2,655 "," 16,895 "," 4,240 "," 5,580 "," 11,310 ",,
-"Black, Black British, Black Welsh, Caribbean or African: African",40 to 44," 7,475 "," 24,890 "," 7,855 "," 4,740 "," 2,975 "," 20,940 "," 3,945 "," 6,965 "," 14,475 ",,
-"Black, Black British, Black Welsh, Caribbean or African: African",45 to 49," 6,575 "," 22,210 "," 6,160 "," 3,865 "," 3,140 "," 20,295 "," 3,390 "," 7,465 "," 15,540 ",,
-"Black, Black British, Black Welsh, Caribbean or African: African",50 to 54," 5,815 "," 19,560 "," 5,570 "," 3,615 "," 2,810 "," 17,070 "," 2,835 "," 6,950 "," 14,585 ",,
-"Black, Black British, Black Welsh, Caribbean or African: African",55 to 59," 3,920 "," 13,560 "," 3,740 "," 2,740 "," 1,955 "," 11,210 "," 1,905 "," 4,895 "," 9,375 ",,
-"Black, Black British, Black Welsh, Caribbean or African: African",60 to 64," 1,895 "," 7,295 "," 1,860 "," 1,385 ", 990 ," 6,455 "," 1,120 "," 2,760 "," 5,765 ",,
-"Black, Black British, Black Welsh, Caribbean or African: Caribbean",16 to 19, 60 , 195 , 440 , 265 , 200 , 615 ," 1,420 ", 155 ," 1,255 ",,
-"Black, Black British, Black Welsh, Caribbean or African: Caribbean",20 to 24, 580 ," 2,300 "," 3,560 "," 2,210 "," 1,115 "," 2,785 "," 4,380 ", 905 ," 3,275 ",,
-"Black, Black British, Black Welsh, Caribbean or African: Caribbean",25 to 29," 1,720 "," 6,255 "," 6,300 "," 3,290 "," 1,630 "," 3,295 "," 3,200 "," 1,415 "," 2,805 ",,
-"Black, Black British, Black Welsh, Caribbean or African: Caribbean",30 to 34," 2,665 "," 7,345 "," 5,825 "," 3,340 "," 1,735 "," 3,350 "," 2,445 "," 1,635 "," 2,655 ",,
-"Black, Black British, Black Welsh, Caribbean or African: Caribbean",35 to 39," 2,955 "," 6,640 "," 5,115 "," 3,050 "," 1,965 "," 3,725 "," 2,045 "," 1,825 "," 2,580 ",,
-"Black, Black British, Black Welsh, Caribbean or African: Caribbean",40 to 44," 2,920 "," 6,250 "," 4,275 "," 2,720 "," 2,045 "," 3,950 "," 1,575 "," 1,925 "," 2,755 ",,
-"Black, Black British, Black Welsh, Caribbean or African: Caribbean",45 to 49," 2,860 "," 6,375 "," 4,110 "," 2,875 "," 2,315 "," 4,310 "," 1,670 "," 2,100 "," 3,235 ",,
-"Black, Black British, Black Welsh, Caribbean or African: Caribbean",50 to 54," 4,125 "," 8,395 "," 6,010 "," 5,130 "," 3,440 "," 5,790 "," 2,235 "," 3,080 "," 4,220 ",,
-"Black, Black British, Black Welsh, Caribbean or African: Caribbean",55 to 59," 4,210 "," 8,490 "," 6,320 "," 6,280 "," 4,190 "," 6,675 "," 2,335 "," 3,975 "," 5,110 ",,
-"Black, Black British, Black Welsh, Caribbean or African: Caribbean",60 to 64," 2,045 "," 4,360 "," 3,055 "," 3,385 "," 3,175 "," 4,870 "," 1,490 "," 2,620 "," 3,515 ",,
-"Black, Black British, Black Welsh, Caribbean or African: Other Black",16 to 19, 30 , 100 , 215 , 140 , 85 , 300 , 770 , 75 , 680 ,,
-"Black, Black British, Black Welsh, Caribbean or African: Other Black",20 to 24, 270 ," 1,150 "," 1,405 ", 830 , 435 ," 1,100 "," 1,775 ", 330 ," 1,445 ",,
-"Black, Black British, Black Welsh, Caribbean or African: Other Black",25 to 29, 625 ," 2,420 "," 2,240 "," 1,145 ", 525 ," 1,175 "," 1,080 ", 490 ," 1,010 ",,
-"Black, Black British, Black Welsh, Caribbean or African: Other Black",30 to 34, 820 ," 2,285 "," 1,685 ", 910 , 460 ," 1,085 ", 735 , 525 , 930 ,,
-"Black, Black British, Black Welsh, Caribbean or African: Other Black",35 to 39, 920 ," 2,110 "," 1,530 ", 870 , 515 ," 1,240 ", 675 , 605 , 950 ,,
-"Black, Black British, Black Welsh, Caribbean or African: Other Black",40 to 44, 925 ," 2,130 "," 1,360 ", 790 , 505 ," 1,225 ", 555 , 670 , 995 ,,
-"Black, Black British, Black Welsh, Caribbean or African: Other Black",45 to 49, 795 ," 2,025 "," 1,130 ", 785 , 515 ," 1,315 ", 450 , 655 ," 1,065 ",,
-"Black, Black British, Black Welsh, Caribbean or African: Other Black",50 to 54," 1,020 "," 2,315 "," 1,490 "," 1,315 ", 860 ," 1,790 ", 620 , 965 ," 1,490 ",,
-"Black, Black British, Black Welsh, Caribbean or African: Other Black",55 to 59, 965 ," 2,160 "," 1,515 "," 1,560 "," 1,080 "," 1,930 ", 740 ," 1,170 "," 1,690 ",,
-"Black, Black British, Black Welsh, Caribbean or African: Other Black",60 to 64, 385 , 995 , 575 , 580 , 520 ," 1,035 ", 315 , 575 , 840 ,,
-Mixed or Multiple ethnic groups: White and Asian,16 to 19, 130 , 375 , 595 , 460 , 460 , 720 ," 1,830 ", 195 ," 2,115 ",,
-Mixed or Multiple ethnic groups: White and Asian,20 to 24, 935 ," 4,575 "," 4,120 "," 2,185 "," 1,260 "," 1,995 "," 3,320 ", 620 ," 2,785 ",,
-Mixed or Multiple ethnic groups: White and Asian,25 to 29," 2,295 "," 9,450 "," 6,260 "," 2,375 "," 1,350 "," 1,715 "," 2,050 ", 670 ," 1,570 ",,
-Mixed or Multiple ethnic groups: White and Asian,30 to 34," 3,475 "," 8,175 "," 4,925 "," 1,915 "," 1,370 "," 1,380 "," 1,325 ", 750 ," 1,250 ",,
-Mixed or Multiple ethnic groups: White and Asian,35 to 39," 3,280 "," 6,090 "," 3,565 "," 1,510 "," 1,045 "," 1,095 ", 895 , 650 , 920 ,,
-Mixed or Multiple ethnic groups: White and Asian,40 to 44," 2,855 "," 4,655 "," 2,460 "," 1,175 ", 800 , 885 , 655 , 515 , 785 ,,
-Mixed or Multiple ethnic groups: White and Asian,45 to 49," 2,265 "," 3,530 "," 1,970 ", 980 , 665 , 785 , 525 , 485 , 585 ,,
-Mixed or Multiple ethnic groups: White and Asian,50 to 54," 2,180 "," 3,165 "," 1,755 "," 1,120 ", 705 , 910 , 520 , 605 , 630 ,,
-Mixed or Multiple ethnic groups: White and Asian,55 to 59," 1,495 "," 2,295 "," 1,300 ", 965 , 620 , 710 , 480 , 485 , 575 ,,
-Mixed or Multiple ethnic groups: White and Asian,60 to 64, 690 , 995 , 605 , 510 , 310 , 425 , 260 , 260 , 325 ,,
-Mixed or Multiple ethnic groups: White and Black African,16 to 19, 35 , 105 , 325 , 180 , 225 , 400 , 915 , 110 ," 1,000 ",,
-Mixed or Multiple ethnic groups: White and Black African,20 to 24, 385 ," 1,365 "," 1,865 ", 915 , 650 ," 1,220 "," 1,885 ", 420 ," 1,950 ",,
-Mixed or Multiple ethnic groups: White and Black African,25 to 29, 770 ," 2,555 "," 2,480 ", 980 , 625 , 980 ," 1,045 ", 480 ," 1,290 ",,
-Mixed or Multiple ethnic groups: White and Black African,30 to 34," 1,140 "," 2,570 "," 1,915 ", 800 , 720 , 870 , 645 , 570 ," 1,050 ",,
-Mixed or Multiple ethnic groups: White and Black African,35 to 39," 1,170 "," 2,300 "," 1,485 ", 730 , 605 , 975 , 540 , 605 ," 1,145 ",,
-Mixed or Multiple ethnic groups: White and Black African,40 to 44," 1,140 "," 1,895 "," 1,115 ", 725 , 650 , 865 , 415 , 605 ," 1,200 ",,
-Mixed or Multiple ethnic groups: White and Black African,45 to 49, 880 ," 1,455 ", 860 , 485 , 515 , 820 , 320 , 525 ," 1,020 ",,
-Mixed or Multiple ethnic groups: White and Black African,50 to 54, 670 ," 1,090 ", 695 , 415 , 440 , 785 , 270 , 500 , 870 ,,
-Mixed or Multiple ethnic groups: White and Black African,55 to 59, 505 , 845 , 530 , 355 , 360 , 610 , 200 , 365 , 705 ,,
-Mixed or Multiple ethnic groups: White and Black African,60 to 64, 250 , 425 , 275 , 250 , 230 , 360 , 135 , 215 , 415 ,,
-Mixed or Multiple ethnic groups: White and Black Caribbean,16 to 19, 100 , 275 , 895 , 525 , 770 ," 1,210 "," 2,435 ", 245 ," 2,575 ",,
-Mixed or Multiple ethnic groups: White and Black Caribbean,20 to 24, 965 ," 2,985 "," 4,900 "," 2,685 "," 2,560 "," 3,870 "," 5,120 "," 1,215 "," 5,085 ",,
-Mixed or Multiple ethnic groups: White and Black Caribbean,25 to 29," 2,320 "," 6,230 "," 7,000 "," 3,195 "," 2,795 "," 3,585 "," 3,310 "," 1,600 "," 3,795 ",,
-Mixed or Multiple ethnic groups: White and Black Caribbean,30 to 34," 2,965 "," 5,845 "," 5,545 "," 2,775 "," 2,625 "," 3,240 "," 2,275 "," 1,655 "," 2,970 ",,
-Mixed or Multiple ethnic groups: White and Black Caribbean,35 to 39," 2,525 "," 4,035 "," 3,390 "," 1,750 "," 1,920 "," 2,340 "," 1,305 "," 1,290 "," 2,190 ",,
-Mixed or Multiple ethnic groups: White and Black Caribbean,40 to 44," 1,875 "," 2,700 "," 2,165 "," 1,245 "," 1,310 "," 1,625 ", 820 , 930 ," 1,690 ",,
-Mixed or Multiple ethnic groups: White and Black Caribbean,45 to 49," 1,480 "," 2,060 "," 1,830 "," 1,040 "," 1,080 "," 1,320 ", 675 , 890 ," 1,375 ",,
-Mixed or Multiple ethnic groups: White and Black Caribbean,50 to 54," 1,390 "," 1,765 "," 1,555 "," 1,075 "," 1,180 "," 1,525 ", 665 ," 1,020 "," 1,525 ",,
-Mixed or Multiple ethnic groups: White and Black Caribbean,55 to 59, 970 ," 1,445 "," 1,070 ", 960 , 950 ," 1,180 ", 585 , 940 ," 1,330 ",,
-Mixed or Multiple ethnic groups: White and Black Caribbean,60 to 64, 415 , 630 , 470 , 460 , 510 , 665 , 295 , 450 , 640 ,,
-Mixed or Multiple ethnic groups: Other Mixed or Multiple ethnic groups,16 to 19, 95 , 240 , 515 , 330 , 365 , 605 ," 1,380 ", 180 ," 1,550 ",,
-Mixed or Multiple ethnic groups: Other Mixed or Multiple ethnic groups,20 to 24, 745 ," 2,955 "," 3,415 "," 1,630 "," 1,245 "," 2,050 "," 3,100 ", 665 ," 3,285 ",,
-Mixed or Multiple ethnic groups: Other Mixed or Multiple ethnic groups,25 to 29," 2,060 "," 7,420 "," 5,800 "," 2,395 "," 1,495 "," 2,055 "," 2,050 ", 965 ," 2,415 ",,
-Mixed or Multiple ethnic groups: Other Mixed or Multiple ethnic groups,30 to 34," 3,675 "," 8,840 "," 5,645 "," 2,170 "," 1,625 "," 1,975 "," 1,705 "," 1,165 "," 2,115 ",,
-Mixed or Multiple ethnic groups: Other Mixed or Multiple ethnic groups,35 to 39," 3,955 "," 7,695 "," 4,725 "," 2,055 "," 1,565 "," 1,885 "," 1,200 "," 1,115 "," 1,950 ",,
-Mixed or Multiple ethnic groups: Other Mixed or Multiple ethnic groups,40 to 44," 3,325 "," 5,930 "," 3,700 "," 1,695 "," 1,290 "," 1,715 ", 895 , 950 ," 1,670 ",,
-Mixed or Multiple ethnic groups: Other Mixed or Multiple ethnic groups,45 to 49," 2,580 "," 4,220 "," 2,450 "," 1,240 "," 1,055 "," 1,480 ", 670 , 820 ," 1,590 ",,
-Mixed or Multiple ethnic groups: Other Mixed or Multiple ethnic groups,50 to 54," 1,935 "," 3,220 "," 1,900 "," 1,265 ", 865 ," 1,380 ", 655 , 735 ," 1,445 ",,
-Mixed or Multiple ethnic groups: Other Mixed or Multiple ethnic groups,55 to 59," 1,345 "," 2,210 "," 1,325 ", 990 , 730 ," 1,055 ", 495 , 560 ," 1,055 ",,
-Mixed or Multiple ethnic groups: Other Mixed or Multiple ethnic groups,60 to 64, 670 ," 1,065 ", 670 , 530 , 415 , 625 , 305 , 370 , 650 ,,
-"White: English, Welsh, Scottish, Northern Irish or British",16 to 19," 6,980 "," 16,640 "," 40,950 "," 30,550 "," 68,745 "," 66,240 "," 131,485 "," 16,955 "," 159,840 ",,
-"White: English, Welsh, Scottish, Northern Irish or British",20 to 24," 63,255 "," 214,555 "," 254,645 "," 153,080 "," 195,200 "," 204,285 "," 241,325 "," 71,045 "," 239,340 ",,
-"White: English, Welsh, Scottish, Northern Irish or British",25 to 29," 173,015 "," 493,875 "," 396,555 "," 194,945 "," 228,155 "," 214,595 "," 183,075 "," 101,195 "," 182,670 ",,
-"White: English, Welsh, Scottish, Northern Irish or British",30 to 34," 273,470 "," 523,495 "," 365,630 "," 190,815 "," 251,275 "," 206,125 "," 149,470 "," 114,600 "," 168,555 ",,
-"White: English, Welsh, Scottish, Northern Irish or British",35 to 39," 313,855 "," 491,830 "," 328,885 "," 185,745 "," 226,835 "," 177,365 "," 116,010 "," 109,080 "," 149,365 ",,
-"White: English, Welsh, Scottish, Northern Irish or British",40 to 44," 345,250 "," 471,595 "," 304,850 "," 186,185 "," 202,245 "," 165,305 "," 101,335 "," 111,650 "," 139,120 ",,
-"White: English, Welsh, Scottish, Northern Irish or British",45 to 49," 384,920 "," 472,435 "," 308,245 "," 225,190 "," 229,155 "," 194,480 "," 118,870 "," 143,970 "," 164,270 ",,
-"White: English, Welsh, Scottish, Northern Irish or British",50 to 54," 426,565 "," 467,415 "," 313,990 "," 286,190 "," 281,205 "," 238,775 "," 151,575 "," 202,115 "," 215,620 ",,
-"White: English, Welsh, Scottish, Northern Irish or British",55 to 59," 367,895 "," 396,285 "," 262,680 "," 277,875 "," 277,875 "," 228,755 "," 159,135 "," 211,855 "," 226,560 ",,
-"White: English, Welsh, Scottish, Northern Irish or British",60 to 64," 222,720 "," 231,045 "," 161,190 "," 191,220 "," 203,460 "," 159,395 "," 119,935 "," 156,855 "," 175,265 ",,
-White: Gypsy or Irish Traveller,16 to 19, 25 , 15 , 50 , 45 , 140 , 95 , 130 , 50 , 280 ,,
-White: Gypsy or Irish Traveller,20 to 24, 90 , 85 , 160 , 125 , 330 , 235 , 190 , 220 , 625 ,,
-White: Gypsy or Irish Traveller,25 to 29, 160 , 130 , 185 , 95 , 380 , 195 , 155 , 250 , 525 ,,
-White: Gypsy or Irish Traveller,30 to 34, 210 , 150 , 225 , 95 , 455 , 235 , 130 , 260 , 590 ,,
-White: Gypsy or Irish Traveller,35 to 39, 235 , 150 , 185 , 85 , 435 , 195 , 120 , 235 , 475 ,,
-White: Gypsy or Irish Traveller,40 to 44, 285 , 125 , 200 , 90 , 440 , 165 , 115 , 230 , 480 ,,
-White: Gypsy or Irish Traveller,45 to 49, 255 , 130 , 165 , 75 , 340 , 140 , 95 , 255 , 450 ,,
-White: Gypsy or Irish Traveller,50 to 54, 230 , 100 , 145 , 80 , 310 , 160 , 95 , 205 , 310 ,,
-White: Gypsy or Irish Traveller,55 to 59, 185 , 85 , 100 , 65 , 210 , 130 , 80 , 140 , 265 ,,
-White: Gypsy or Irish Traveller,60 to 64, 105 , 35 , 85 , 30 , 130 , 75 , 55 , 95 , 150 ,,
-White: Irish,16 to 19, 30 , 100 , 200 , 145 , 180 , 235 , 465 , 50 , 550 ,,
-White: Irish,20 to 24, 400 ," 2,950 "," 2,090 ", 960 , 740 ," 1,005 "," 1,290 ", 255 ," 1,430 ",,
-White: Irish,25 to 29," 1,880 "," 10,130 "," 4,785 "," 1,635 "," 1,125 "," 1,185 "," 1,070 ", 505 ," 1,090 ",,
-White: Irish,30 to 34," 3,990 "," 11,715 "," 5,135 "," 1,640 "," 1,595 "," 1,065 ", 785 , 625 , 905 ,,
-White: Irish,35 to 39," 5,085 "," 10,365 "," 4,375 "," 1,715 "," 1,720 ", 990 , 725 , 720 , 860 ,,
-White: Irish,40 to 44," 5,685 "," 9,365 "," 4,175 "," 1,920 "," 1,685 "," 1,210 ", 665 , 790 , 955 ,,
-White: Irish,45 to 49," 6,500 "," 9,000 "," 4,210 "," 2,370 "," 1,925 "," 1,650 ", 855 ," 1,180 "," 1,245 ",,
-White: Irish,50 to 54," 7,420 "," 9,830 "," 4,785 "," 3,685 "," 2,700 "," 2,385 "," 1,215 "," 1,825 "," 1,785 ",,
-White: Irish,55 to 59," 6,725 "," 9,205 "," 4,300 "," 3,640 "," 3,035 "," 2,585 "," 1,285 "," 1,880 "," 2,015 ",,
-White: Irish,60 to 64," 3,725 "," 5,490 "," 2,625 "," 2,605 "," 2,290 "," 2,080 "," 1,015 "," 1,565 "," 1,880 ",,
-White: Roma,16 to 19, 15 , 30 , 30 , 25 , 55 , 45 , 75 , 95 , 385 ,,
-White: Roma,20 to 24, 235 , 330 , 350 , 230 , 935 , 455 , 445 , 610 ," 2,475 ",,
-White: Roma,25 to 29, 805 ," 1,200 ", 985 , 535 ," 1,875 ", 815 , 720 ," 1,150 "," 3,325 ",,
-White: Roma,30 to 34," 1,100 "," 1,595 "," 1,035 ", 575 ," 1,970 ", 840 , 660 ," 1,515 "," 3,020 ",,
-White: Roma,35 to 39, 910 ," 1,110 ", 780 , 395 ," 1,525 ", 600 , 415 ," 1,195 "," 2,115 ",,
-White: Roma,40 to 44, 660 , 680 , 480 , 255 ," 1,120 ", 465 , 270 ," 1,035 "," 1,770 ",,
-White: Roma,45 to 49, 540 , 520 , 290 , 220 , 830 , 345 , 175 , 775 ," 1,415 ",,
-White: Roma,50 to 54, 325 , 245 , 205 , 100 , 565 , 310 , 120 , 480 , 980 ,,
-White: Roma,55 to 59, 190 , 150 , 105 , 70 , 325 , 160 , 60 , 210 , 570 ,,
-White: Roma,60 to 64, 85 , 65 , 50 , 35 , 170 , 90 , 25 , 120 , 280 ,,
-White: Other White,16 to 19, 435 ," 1,025 "," 1,495 "," 1,285 "," 1,805 "," 2,140 "," 4,330 "," 1,660 "," 9,415 ",,
-White: Other White,20 to 24," 5,515 "," 18,255 "," 16,300 "," 9,605 "," 13,105 "," 12,500 "," 15,855 "," 13,600 "," 43,790 ",,
-White: Other White,25 to 29," 22,100 "," 67,445 "," 42,475 "," 21,260 "," 28,300 "," 20,730 "," 19,590 "," 30,270 "," 59,770 ",,
-White: Other White,30 to 34," 44,000 "," 89,540 "," 50,660 "," 27,570 "," 40,285 "," 26,040 "," 20,690 "," 44,675 "," 66,865 ",,
-White: Other White,35 to 39," 53,385 "," 84,040 "," 47,315 "," 29,525 "," 44,920 "," 28,875 "," 18,875 "," 47,800 "," 63,230 ",,
-White: Other White,40 to 44," 48,545 "," 72,005 "," 37,600 "," 22,990 "," 41,405 "," 26,270 "," 13,825 "," 39,795 "," 53,405 ",,
-White: Other White,45 to 49," 35,480 "," 51,935 "," 25,345 "," 14,610 "," 29,155 "," 19,810 "," 8,910 "," 26,710 "," 40,330 ",,
-White: Other White,50 to 54," 23,940 "," 35,570 "," 16,875 "," 10,285 "," 18,985 "," 15,310 "," 6,285 "," 18,945 "," 30,490 ",,
-White: Other White,55 to 59," 14,980 "," 23,050 "," 10,940 "," 6,995 "," 11,320 "," 10,520 "," 4,255 "," 11,205 "," 21,185 ",,
-White: Other White,60 to 64," 8,100 "," 12,705 "," 6,050 "," 4,435 "," 6,830 "," 6,660 "," 2,775 "," 6,690 "," 13,720 ",,
-Other ethnic group: Arab,16 to 19, 25 , 110 , 115 , 135 , 60 , 185 , 450 , 90 , 400 ,,
-Other ethnic group: Arab,20 to 24, 350 ," 1,775 "," 1,055 ", 645 , 350 , 775 ," 1,530 ", 375 ," 1,045 ",,
-Other ethnic group: Arab,25 to 29, 990 ," 5,325 "," 2,050 ", 840 , 560 , 770 ," 1,135 ", 565 ," 1,060 ",,
-Other ethnic group: Arab,30 to 34," 1,735 "," 5,950 "," 2,060 ", 875 , 860 , 885 , 985 , 785 ," 1,190 ",,
-Other ethnic group: Arab,35 to 39," 2,015 "," 5,220 "," 1,660 ", 870 ," 1,085 ", 985 , 885 ," 1,050 "," 1,420 ",,
-Other ethnic group: Arab,40 to 44," 1,975 "," 3,850 "," 1,350 ", 830 ," 1,190 "," 1,035 ", 855 ," 1,205 "," 1,595 ",,
-Other ethnic group: Arab,45 to 49," 1,525 "," 2,785 ", 990 , 575 ," 1,025 ", 915 , 670 ," 1,335 "," 1,440 ",,
-Other ethnic group: Arab,50 to 54," 1,315 "," 2,145 ", 755 , 435 , 930 , 760 , 565 ," 1,255 "," 1,215 ",,
-Other ethnic group: Arab,55 to 59," 1,005 "," 1,575 ", 555 , 335 , 625 , 505 , 395 , 925 , 780 ,,
-Other ethnic group: Arab,60 to 64, 720 ," 1,005 ", 330 , 225 , 310 , 265 , 235 , 450 , 395 ,,
-Other ethnic group: Any other ethnic group,16 to 19, 130 , 330 , 420 , 380 , 390 , 595 ," 1,580 ", 315 ," 1,910 ",,
-Other ethnic group: Any other ethnic group,20 to 24," 1,280 "," 4,090 "," 3,620 "," 2,485 "," 2,045 "," 2,935 "," 4,725 "," 1,745 "," 6,465 ",,
-Other ethnic group: Any other ethnic group,25 to 29," 3,585 "," 11,995 "," 6,720 "," 3,870 "," 3,640 "," 3,945 "," 4,150 "," 2,925 "," 7,575 ",,
-Other ethnic group: Any other ethnic group,30 to 34," 6,335 "," 13,855 "," 7,240 "," 3,790 "," 4,735 "," 4,730 "," 4,135 "," 4,460 "," 8,495 ",,
-Other ethnic group: Any other ethnic group,35 to 39," 8,130 "," 13,110 "," 6,705 "," 3,970 "," 5,765 "," 5,190 "," 4,355 "," 5,280 "," 8,650 ",,
-Other ethnic group: Any other ethnic group,40 to 44," 8,070 "," 11,375 "," 5,935 "," 3,695 "," 5,905 "," 5,520 "," 4,210 "," 5,665 "," 9,325 ",,
-Other ethnic group: Any other ethnic group,45 to 49," 6,565 "," 9,440 "," 4,355 "," 2,905 "," 4,895 "," 5,120 "," 3,490 "," 5,200 "," 8,390 ",,
-Other ethnic group: Any other ethnic group,50 to 54," 5,215 "," 7,150 "," 3,510 "," 2,530 "," 3,820 "," 4,340 "," 2,670 "," 4,120 "," 7,330 ",,
-Other ethnic group: Any other ethnic group,55 to 59," 3,930 "," 5,160 "," 2,420 "," 2,045 "," 2,515 "," 3,110 "," 1,895 "," 2,900 "," 5,320 ",,
-Other ethnic group: Any other ethnic group,60 to 64," 2,770 "," 3,360 "," 1,505 "," 1,460 "," 1,635 "," 2,005 "," 1,400 "," 1,950 "," 3,215 ",,
-England and Wales overall,16 to 19," 8,925 "," 22,740 "," 49,655 "," 38,515 "," 75,235 "," 78,980 "," 163,620 "," 21,715 "," 194,815 ",,
-England and Wales overall,20 to 24," 83,400 "," 304,980 "," 328,750 "," 201,540 "," 228,235 "," 261,965 "," 336,645 "," 101,590 "," 348,445 ",,
-England and Wales overall,25 to 29," 236,385 "," 750,695 "," 539,015 "," 270,605 "," 284,760 "," 284,595 "," 259,230 "," 158,170 "," 300,355 ",,
-England and Wales overall,30 to 34," 389,950 "," 825,585 "," 510,155 "," 270,445 "," 326,450 "," 286,850 "," 220,925 "," 198,910 "," 297,455 ",,
-England and Wales overall,35 to 39," 457,985 "," 770,155 "," 459,730 "," 265,900 "," 311,465 "," 266,715 "," 182,735 "," 205,865 "," 277,670 ",,
-England and Wales overall,40 to 44," 482,595 "," 714,295 "," 412,190 "," 254,675 "," 285,990 "," 257,750 "," 157,820 "," 206,995 "," 263,320 ",,
-England and Wales overall,45 to 49," 492,785 "," 659,935 "," 386,325 "," 276,830 "," 298,840 "," 277,530 "," 163,395 "," 225,935 "," 273,490 ",,
-England and Wales overall,50 to 54," 511,590 "," 607,205 "," 376,410 "," 333,700 "," 336,750 "," 311,385 "," 188,170 "," 269,440 "," 309,420 ",,
-England and Wales overall,55 to 59," 427,165 "," 492,080 "," 306,820 "," 316,780 "," 318,295 "," 281,905 "," 186,915 "," 258,885 "," 296,345 ",,
-England and Wales overall,60 to 64," 257,190 "," 284,890 "," 185,075 "," 215,435 "," 229,685 "," 193,180 "," 139,270 "," 187,930 "," 221,360 ",,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
+Asian,16-19,Managers, Directors and Senior Officials,680
+Asian,16-19,Professional Occupations,2570
+Asian,16-19,Associate Professional and Technical Occupations,3710
+Asian,16-19,Administrative and Secretarial Occupations,3585
+Asian,16-19,Skilled Trades Occupations,1455
+Asian,16-19,Caring Leisure and Other Service Occupations,3765
+Asian,16-19,Sales and Customer Service Occupations,12385
+Asian,16-19,Process Plant and Machine Operatives,1215
+Asian,16-19,Elementary Occupations,8255
+Asian,20-24,Managers, Directors and Senior Officials,1820
+Asian,20-24,Professional Occupations,7990
+Asian,20-24,Associate Professional and Technical Occupations,6640
+Asian,20-24,Administrative and Secretarial Occupations,5890
+Asian,20-24,Skilled Trades Occupations,2765
+Asian,20-24,Caring Leisure and Other Service Occupations,6670
+Asian,20-24,Sales and Customer Service Occupations,16655
+Asian,20-24,Process Plant and Machine Operatives,2225
+Asian,20-24,Elementary Occupations,11200
+Asian,25-29,Managers, Directors and Senior Officials,20230
+Asian,25-29,Professional Occupations,104180
+Asian,25-29,Associate Professional and Technical Occupations,42960
+Asian,25-29,Administrative and Secretarial Occupations,28600
+Asian,25-29,Skilled Trades Occupations,9445
+Asian,25-29,Caring Leisure and Other Service Occupations,18815
+Asian,25-29,Sales and Customer Service Occupations,30370
+Asian,25-29,Process Plant and Machine Operatives,9965
+Asian,25-29,Elementary Occupations,23150
+Asian,30-34,Managers, Directors and Senior Officials,38730
+Asian,30-34,Professional Occupations,121905
+Asian,30-34,Associate Professional and Technical Occupations,42555
+Asian,30-34,Administrative and Secretarial Occupations,27950
+Asian,30-34,Skilled Trades Occupations,13490
+Asian,30-34,Caring Leisure and Other Service Occupations,22035
+Asian,30-34,Sales and Customer Service Occupations,30120
+Asian,30-34,Process Plant and Machine Operatives,21645
+Asian,30-34,Elementary Occupations,27890
+Asian,35-39,Managers, Directors and Senior Officials,55115
+Asian,35-39,Professional Occupations,101865
+Asian,35-39,Associate Professional and Technical Occupations,40225
+Asian,35-39,Administrative and Secretarial Occupations,29175
+Asian,35-39,Skilled Trades Occupations,18910
+Asian,35-39,Caring Leisure and Other Service Occupations,24360
+Asian,35-39,Sales and Customer Service Occupations,25550
+Asian,35-39,Process Plant and Machine Operatives,29635
+Asian,35-39,Elementary Occupations,30510
+Asian,40-44,Managers, Directors and Senior Officials,54010
+Asian,40-44,Professional Occupations,105850
+Asian,40-44,Associate Professional and Technical Occupations,32075
+Asian,40-44,Administrative and Secretarial Occupations,25515
+Asian,40-44,Skilled Trades Occupations,22420
+Asian,40-44,Caring Leisure and Other Service Occupations,26575
+Asian,40-44,Sales and Customer Service Occupations,27690
+Asian,40-44,Process Plant and Machine Operatives,33660
+Asian,40-44,Elementary Occupations,33100
+Asian,45-49,Managers, Directors and Senior Officials,40365
+Asian,45-49,Professional Occupations,72515
+Asian,45-49,Associate Professional and Technical Occupations,24410
+Asian,45-49,Administrative and Secretarial Occupations,19625
+Asian,45-49,Skilled Trades Occupations,22220
+Asian,45-49,Caring Leisure and Other Service Occupations,22440
+Asian,45-49,Sales and Customer Service Occupations,22635
+Asian,45-49,Process Plant and Machine Operatives,32775
+Asian,45-49,Elementary Occupations,33255
+Asian,50-54,Managers, Directors and Senior Officials,27245
+Asian,50-54,Professional Occupations,43740
+Asian,50-54,Associate Professional and Technical Occupations,14660
+Asian,50-54,Administrative and Secretarial Occupations,14665
+Asian,50-54,Skilled Trades Occupations,17920
+Asian,50-54,Caring Leisure and Other Service Occupations,20395
+Asian,50-54,Sales and Customer Service Occupations,17835
+Asian,50-54,Process Plant and Machine Operatives,26635
+Asian,50-54,Elementary Occupations,26930
+Asian,55-59,Managers, Directors and Senior Officials,18845
+Asian,55-59,Professional Occupations,25655
+Asian,55-59,Associate Professional and Technical Occupations,9425
+Asian,55-59,Administrative and Secretarial Occupations,11805
+Asian,55-59,Skilled Trades Occupations,11405
+Asian,55-59,Caring Leisure and Other Service Occupations,11775
+Asian,55-59,Sales and Customer Service Occupations,12105
+Asian,55-59,Process Plant and Machine Operatives,14875
+Asian,55-59,Elementary Occupations,19815
+Asian,60-64,Managers, Directors and Senior Officials,13610
+Asian,60-64,Professional Occupations,14620
+Asian,60-64,Associate Professional and Technical Occupations,5735
+Asian,60-64,Administrative and Secretarial Occupations,7335
+Asian,60-64,Skilled Trades Occupations,9710
+Asian,60-64,Caring Leisure and Other Service Occupations,8170
+Asian,60-64,Sales and Customer Service Occupations,9910
+Asian,60-64,Process Plant and Machine Operatives,11945
+Asian,60-64,Elementary Occupations,14610
+Black,16-19,Managers, Directors and Senior Officials,235
+Black,16-19,Professional Occupations,925
+Black,16-19,Associate Professional and Technical Occupations,1455
+Black,16-19,Administrative and Secretarial Occupations,870
+Black,16-19,Skilled Trades Occupations,575
+Black,16-19,Caring Leisure and Other Service Occupations,3740
+Black,16-19,Sales and Customer Service Occupations,5655
+Black,16-19,Process Plant and Machine Operatives,555
+Black,16-19,Elementary Occupations,5540
+Black,20-24,Managers, Directors and Senior Officials,2195
+Black,20-24,Professional Occupations,12425
+Black,20-24,Associate Professional and Technical Occupations,11995
+Black,20-24,Administrative and Secretarial Occupations,7205
+Black,20-24,Skilled Trades Occupations,3035
+Black,20-24,Caring Leisure and Other Service Occupations,13400
+Black,20-24,Sales and Customer Service Occupations,16060
+Black,20-24,Process Plant and Machine Operatives,3170
+Black,20-24,Elementary Occupations,14885
+Black,25-29,Managers, Directors and Senior Officials,6175
+Black,25-29,Professional Occupations,30590
+Black,25-29,Associate Professional and Technical Occupations,21170
+Black,25-29,Administrative and Secretarial Occupations,10885
+Black,25-29,Skilled Trades Occupations,4115
+Black,25-29,Caring Leisure and Other Service Occupations,15200
+Black,25-29,Sales and Customer Service Occupations,10710
+Black,25-29,Process Plant and Machine Operatives,4635
+Black,25-29,Elementary Occupations,12120
+Black,30-34,Managers, Directors and Senior Officials,9030
+Black,30-34,Professional Occupations,32445
+Black,30-34,Associate Professional and Technical Occupations,17885
+Black,30-34,Administrative and Secretarial Occupations,9470
+Black,30-34,Skilled Trades Occupations,4445
+Black,30-34,Caring Leisure and Other Service Occupations,17925
+Black,30-34,Sales and Customer Service Occupations,7995
+Black,30-34,Process Plant and Machine Operatives,6200
+Black,30-34,Elementary Occupations,12960
+Black,35-39,Managers, Directors and Senior Officials,10520
+Black,35-39,Professional Occupations,32345
+Black,35-39,Associate Professional and Technical Occupations,15420
+Black,35-39,Administrative and Secretarial Occupations,8680
+Black,35-39,Skilled Trades Occupations,5135
+Black,35-39,Caring Leisure and Other Service Occupations,21860
+Black,35-39,Sales and Customer Service Occupations,6960
+Black,35-39,Process Plant and Machine Operatives,8010
+Black,35-39,Elementary Occupations,14840
+Black,40-44,Managers, Directors and Senior Officials,11320
+Black,40-44,Professional Occupations,33310
+Black,40-44,Associate Professional and Technical Occupations,13490
+Black,40-44,Administrative and Secretarial Occupations,8250
+Black,40-44,Skilled Trades Occupations,5525
+Black,40-44,Caring Leisure and Other Service Occupations,26055
+Black,40-44,Sales and Customer Service Occupations,6075
+Black,40-44,Process Plant and Machine Operatives,9560
+Black,40-44,Elementary Occupations,18225
+Black,45-49,Managers, Directors and Senior Officials,10230
+Black,45-49,Professional Occupations,30510
+Black,45-49,Associate Professional and Technical Occupations,11400
+Black,45-49,Administrative and Secretarial Occupations,7525
+Black,45-49,Skilled Trades Occupations,5970
+Black,45-49,Caring Leisure and Other Service Occupations,25920
+Black,45-49,Sales and Customer Service Occupations,5510
+Black,45-49,Process Plant and Machine Operatives,10220
+Black,45-49,Elementary Occupations,19940
+Black,50-54,Managers, Directors and Senior Officials,10960
+Black,50-54,Professional Occupations,30270
+Black,50-54,Associate Professional and Technical Occupations,13070
+Black,50-54,Administrative and Secretarial Occupations,10060
+Black,50-54,Skilled Trades Occupations,7110
+Black,50-54,Caring Leisure and Other Service Occupations,24650
+Black,50-54,Sales and Customer Service Occupations,5690
+Black,50-54,Process Plant and Machine Operatives,10995
+Black,50-54,Elementary Occupations,20395
+Black,55-59,Managers, Directors and Senior Officials,9095
+Black,55-59,Professional Occupations,24310
+Black,55-59,Associate Professional and Technical Occupations,11575
+Black,55-59,Administrative and Secretarial Occupations,10580
+Black,55-59,Skilled Trades Occupations,7225
+Black,55-59,Caring Leisure and Other Service Occupations,19815
+Black,55-59,Sales and Customer Service Occupations,4980
+Black,55-59,Process Plant and Machine Operatives,10040
+Black,55-59,Elementary Occupations,16175
+Black,60-64,Managers, Directors and Senior Officials,4325
+Black,60-64,Professional Occupations,12650
+Black,60-64,Associate Professional and Technical Occupations,5490
+Black,60-64,Administrative and Secretarial Occupations,5350
+Black,60-64,Skilled Trades Occupations,4685
+Black,60-64,Caring Leisure and Other Service Occupations,12360
+Black,60-64,Sales and Customer Service Occupations,3925
+Black,60-64,Process Plant and Machine Operatives,5955
+Black,60-64,Elementary Occupations,10120
+Mixed,16-19,Managers, Directors and Senior Officials,360
+Mixed,16-19,Professional Occupations,995
+Mixed,16-19,Associate Professional and Technical Occupations,2330
+Mixed,16-19,Administrative and Secretarial Occupations,1495
+Mixed,16-19,Skilled Trades Occupations,1820
+Mixed,16-19,Caring Leisure and Other Service Occupations,2935
+Mixed,16-19,Sales and Customer Service Occupations,6560
+Mixed,16-19,Process Plant and Machine Operatives,730
+Mixed,16-19,Elementary Occupations,7240
+Mixed,20-24,Managers, Directors and Senior Officials,3030
+Mixed,20-24,Professional Occupations,11880
+Mixed,20-24,Associate Professional and Technical Occupations,14300
+Mixed,20-24,Administrative and Secretarial Occupations,7415
+Mixed,20-24,Skilled Trades Occupations,5715
+Mixed,20-24,Caring Leisure and Other Service Occupations,9135
+Mixed,20-24,Sales and Customer Service Occupations,13425
+Mixed,20-24,Process Plant and Machine Operatives,2920
+Mixed,20-24,Elementary Occupations,13105
+Mixed,25-29,Managers, Directors and Senior Officials,7445
+Mixed,25-29,Professional Occupations,25655
+Mixed,25-29,Associate Professional and Technical Occupations,21540
+Mixed,25-29,Administrative and Secretarial Occupations,8940
+Mixed,25-29,Skilled Trades Occupations,6265
+Mixed,25-29,Caring Leisure and Other Service Occupations,8335
+Mixed,25-29,Sales and Customer Service Occupations,8455
+Mixed,25-29,Process Plant and Machine Operatives,3715
+Mixed,25-29,Elementary Occupations,9065
+Mixed,30-34,Managers, Directors and Senior Officials,11255
+Mixed,30-34,Professional Occupations,25430
+Mixed,30-34,Associate Professional and Technical Occupations,18030
+Mixed,30-34,Administrative and Secretarial Occupations,7660
+Mixed,30-34,Skilled Trades Occupations,6340
+Mixed,30-34,Caring Leisure and Other Service Occupations,7465
+Mixed,30-34,Sales and Customer Service Occupations,5950
+Mixed,30-34,Process Plant and Machine Operatives,4140
+Mixed,30-34,Elementary Occupations,7385
+Mixed,35-39,Managers, Directors and Senior Officials,10930
+Mixed,35-39,Professional Occupations,20120
+Mixed,35-39,Associate Professional and Technical Occupations,13165
+Mixed,35-39,Administrative and Secretarial Occupations,6045
+Mixed,35-39,Skilled Trades Occupations,5135
+Mixed,35-39,Caring Leisure and Other Service Occupations,6295
+Mixed,35-39,Sales and Customer Service Occupations,3940
+Mixed,35-39,Process Plant and Machine Operatives,3660
+Mixed,35-39,Elementary Occupations,6205
+Mixed,40-44,Managers, Directors and Senior Officials,9195
+Mixed,40-44,Professional Occupations,15180
+Mixed,40-44,Associate Professional and Technical Occupations,9440
+Mixed,40-44,Administrative and Secretarial Occupations,4840
+Mixed,40-44,Skilled Trades Occupations,4050
+Mixed,40-44,Caring Leisure and Other Service Occupations,5090
+Mixed,40-44,Sales and Customer Service Occupations,2785
+Mixed,40-44,Process Plant and Machine Operatives,3000
+Mixed,40-44,Elementary Occupations,5345
+Mixed,45-49,Managers, Directors and Senior Officials,7205
+Mixed,45-49,Professional Occupations,11265
+Mixed,45-49,Associate Professional and Technical Occupations,7110
+Mixed,45-49,Administrative and Secretarial Occupations,3745
+Mixed,45-49,Skilled Trades Occupations,3315
+Mixed,45-49,Caring Leisure and Other Service Occupations,4405
+Mixed,45-49,Sales and Customer Service Occupations,2190
+Mixed,45-49,Process Plant and Machine Operatives,2720
+Mixed,45-49,Elementary Occupations,4570
+Mixed,50-54,Managers, Directors and Senior Officials,6175
+Mixed,50-54,Professional Occupations,9240
+Mixed,50-54,Associate Professional and Technical Occupations,5905
+Mixed,50-54,Administrative and Secretarial Occupations,3875
+Mixed,50-54,Skilled Trades Occupations,3190
+Mixed,50-54,Caring Leisure and Other Service Occupations,4600
+Mixed,50-54,Sales and Customer Service Occupations,2110
+Mixed,50-54,Process Plant and Machine Operatives,2860
+Mixed,50-54,Elementary Occupations,4470
+Mixed,55-59,Managers, Directors and Senior Officials,4315
+Mixed,55-59,Professional Occupations,6795
+Mixed,55-59,Associate Professional and Technical Occupations,4225
+Mixed,55-59,Administrative and Secretarial Occupations,3270
+Mixed,55-59,Skilled Trades Occupations,2660
+Mixed,55-59,Caring Leisure and Other Service Occupations,3555
+Mixed,55-59,Sales and Customer Service Occupations,1760
+Mixed,55-59,Process Plant and Machine Operatives,2350
+Mixed,55-59,Elementary Occupations,3665
+Mixed,60-64,Managers, Directors and Senior Officials,2025
+Mixed,60-64,Professional Occupations,3115
+Mixed,60-64,Associate Professional and Technical Occupations,2020
+Mixed,60-64,Administrative and Secretarial Occupations,1750
+Mixed,60-64,Skilled Trades Occupations,1465
+Mixed,60-64,Caring Leisure and Other Service Occupations,2075
+Mixed,60-64,Sales and Customer Service Occupations,995
+Mixed,60-64,Process Plant and Machine Operatives,1295
+Mixed,60-64,Elementary Occupations,2030
+White,16-19,Managers, Directors and Senior Officials,7485
+White,16-19,Professional Occupations,17810
+White,16-19,Associate Professional and Technical Occupations,43730
+White,16-19,Administrative and Secretarial Occupations,32030
+White,16-19,Skilled Trades Occupations,71930
+White,16-19,Caring Leisure and Other Service Occupations,71755
+White,16-19,Sales and Customer Service Occupations,137485
+White,16-19,Process Plant and Machine Operatives,18815
+White,16-19,Elementary Occupations,171470
+White,20-24,Managers, Directors and Senior Officials,97505
+White,20-24,Professional Occupations,239175
+White,20-24,Associate Professional and Technical Occupations,258540
+White,20-24,Administrative and Secretarial Occupations,173000
+White,20-24,Skilled Trades Occupations,204310
+White,20-24,Caring Leisure and Other Service Occupations,215480
+White,20-24,Sales and Customer Service Occupations,254105
+White,20-24,Process Plant and Machine Operatives,81235
+White,20-24,Elementary Occupations,290660
+White,25-29,Managers, Directors and Senior Officials,228960
+White,25-29,Professional Occupations,611680
+White,25-29,Associate Professional and Technical Occupations,460000
+White,25-29,Administrative and Secretarial Occupations,228460
+White,25-29,Skilled Trades Occupations,310835
+White,25-29,Caring Leisure and Other Service Occupations,239320
+White,25-29,Sales and Customer Service Occupations,267090
+White,25-29,Process Plant and Machine Operatives,130170
+White,25-29,Elementary Occupations,118380
+White,30-34,Managers, Directors and Senior Officials,586770
+White,30-34,Professional Occupations,752495
+White,30-34,Associate Professional and Technical Occupations,925675
+White,30-34,Administrative and Secretarial Occupations,485095
+White,30-34,Skilled Trades Occupations,657580
+White,30-34,Caring Leisure and Other Service Occupations,475810
+White,30-34,Sales and Customer Service Occupations,389035
+White,30-34,Process Plant and Machine Operatives,163660
+White,30-34,Elementary Occupations,270895
+White,35-39,Managers, Directors and Senior Officials,419370
+White,35-39,Professional Occupations,650475
+White,35-39,Associate Professional and Technical Occupations,849160
+White,35-39,Administrative and Secretarial Occupations,512365
+White,35-39,Skilled Trades Occupations,695435
+White,35-39,Caring Leisure and Other Service Occupations,476000
+White,35-39,Sales and Customer Service Occupations,327525
+White,35-39,Process Plant and Machine Operatives,169235
+White,35-39,Elementary Occupations,147045
+White,40-44,Managers, Directors and Senior Officials,447225
+White,40-44,Professional Occupations,585570
+White,40-44,Associate Professional and Technical Occupations,785105
+White,40-44,Administrative and Secretarial Occupations,419450
+White,40-44,Skilled Trades Occupations,624995
+White,40-44,Caring Leisure and Other Service Occupations,551425
+White,40-44,Sales and Customer Service Occupations,257205
+White,40-44,Process Plant and Machine Operatives,152695
+White,40-44,Elementary Occupations,202025
+White,45-49,Managers, Directors and Senior Officials,440195
+White,45-49,Professional Occupations,594000
+White,45-49,Associate Professional and Technical Occupations,593265
+White,45-49,Administrative and Secretarial Occupations,483445
+White,45-49,Skilled Trades Occupations,530505
+White,45-49,Caring Leisure and Other Service Occupations,414390
+White,45-49,Sales and Customer Service Occupations,231085
+White,45-49,Process Plant and Machine Operatives,198090
+White,45-49,Elementary Occupations,221710
+White,50-54,Managers, Directors and Senior Officials,497480
+White,50-54,Professional Occupations,577160
+White,50-54,Associate Professional and Technical Occupations,498000
+White,50-54,Administrative and Secretarial Occupations,349465
+White,50-54,Skilled Trades Occupations,546765
+White,50-54,Caring Leisure and Other Service Occupations,415640
+White,50-54,Sales and Customer Service Occupations,259180
+White,50-54,Process Plant and Machine Operatives,230590
+White,50-54,Elementary Occupations,272210
+White,55-59,Managers, Directors and Senior Officials,494785
+White,55-59,Professional Occupations,520725
+White,55-59,Associate Professional and Technical Occupations,381025
+White,55-59,Administrative and Secretarial Occupations,297565
+White,55-59,Skilled Trades Occupations,314765
+White,55-59,Caring Leisure and Other Service Occupations,305060
+White,55-59,Sales and Customer Service Occupations,174755
+White,55-59,Process Plant and Machine Operatives,233250
+White,55-59,Elementary Occupations,249525
+White,60-64,Managers, Directors and Senior Officials,241630
+White,60-64,Professional Occupations,254340
+White,60-64,Associate Professional and Technical Occupations,171050
+White,60-64,Administrative and Secretarial Occupations,196285
+White,60-64,Skilled Trades Occupations,215880
+White,60-64,Caring Leisure and Other Service Occupations,169305
+White,60-64,Sales and Customer Service Occupations,128880
+White,60-64,Process Plant and Machine Operatives,170825
+White,60-64,Elementary Occupations,184345
+Other,16-19,Managers, Directors and Senior Officials,155
+Other,16-19,Professional Occupations,440
+Other,16-19,Associate Professional and Technical Occupations,535
+Other,16-19,Administrative and Secretarial Occupations,515
+Other,16-19,Skilled Trades Occupations,450
+Other,16-19,Caring Leisure and Other Service Occupations,780
+Other,16-19,Sales and Customer Service Occupations,2030
+Other,16-19,Process Plant and Machine Operatives,405
+Other,16-19,Elementary Occupations,2310
+Other,20-24,Managers, Directors and Senior Officials,1630
+Other,20-24,Professional Occupations,5865
+Other,20-24,Associate Professional and Technical Occupations,4675
+Other,20-24,Administrative and Secretarial Occupations,3130
+Other,20-24,Skilled Trades Occupations,2395
+Other,20-24,Caring Leisure and Other Service Occupations,3710
+Other,20-24,Sales and Customer Service Occupations,6255
+Other,20-24,Process Plant and Machine Operatives,2120
+Other,20-24,Elementary Occupations,7510
+Other,25-29,Managers, Directors and Senior Officials,4575
+Other,25-29,Professional Occupations,17320
+Other,25-29,Associate Professional and Technical Occupations,8770
+Other,25-29,Administrative and Secretarial Occupations,4710
+Other,25-29,Skilled Trades Occupations,4200
+Other,25-29,Caring Leisure and Other Service Occupations,4715
+Other,25-29,Sales and Customer Service Occupations,5285
+Other,25-29,Process Plant and Machine Operatives,3490
+Other,25-29,Elementary Occupations,8635
+Other,30-34,Managers, Directors and Senior Officials,8070
+Other,30-34,Professional Occupations,19805
+Other,30-34,Associate Professional and Technical Occupations,9300
+Other,30-34,Administrative and Secretarial Occupations,4665
+Other,30-34,Skilled Trades Occupations,5595
+Other,30-34,Caring Leisure and Other Service Occupations,5615
+Other,30-34,Sales and Customer Service Occupations,5120
+Other,30-34,Process Plant and Machine Operatives,5245
+Other,30-34,Elementary Occupations,9685
+Other,35-39,Managers, Directors and Senior Officials,10145
+Other,35-39,Professional Occupations,18330
+Other,35-39,Associate Professional and Technical Occupations,8365
+Other,35-39,Administrative and Secretarial Occupations,4840
+Other,35-39,Skilled Trades Occupations,6850
+Other,35-39,Caring Leisure and Other Service Occupations,6175
+Other,35-39,Sales and Customer Service Occupations,5240
+Other,35-39,Process Plant and Machine Operatives,6330
+Other,35-39,Elementary Occupations,10070
+Other,40-44,Managers, Directors and Senior Officials,10045
+Other,40-44,Professional Occupations,15225
+Other,40-44,Associate Professional and Technical Occupations,7285
+Other,40-44,Administrative and Secretarial Occupations,4525
+Other,40-44,Skilled Trades Occupations,7095
+Other,40-44,Caring Leisure and Other Service Occupations,6555
+Other,40-44,Sales and Customer Service Occupations,5065
+Other,40-44,Process Plant and Machine Operatives,6870
+Other,40-44,Elementary Occupations,10920
+Other,45-49,Managers, Directors and Senior Officials,8090
+Other,45-49,Professional Occupations,12225
+Other,45-49,Associate Professional and Technical Occupations,5345
+Other,45-49,Administrative and Secretarial Occupations,3480
+Other,45-49,Skilled Trades Occupations,5920
+Other,45-49,Caring Leisure and Other Service Occupations,6035
+Other,45-49,Sales and Customer Service Occupations,4160
+Other,45-49,Process Plant and Machine Operatives,6535
+Other,45-49,Elementary Occupations,9830
+Other,50-54,Managers, Directors and Senior Officials,6530
+Other,50-54,Professional Occupations,9295
+Other,50-54,Associate Professional and Technical Occupations,4265
+Other,50-54,Administrative and Secretarial Occupations,2965
+Other,50-54,Skilled Trades Occupations,4750
+Other,50-54,Caring Leisure and Other Service Occupations,5100
+Other,50-54,Sales and Customer Service Occupations,3235
+Other,50-54,Process Plant and Machine Operatives,5375
+Other,50-54,Elementary Occupations,8545
+Other,55-59,Managers, Directors and Senior Officials,4935
+Other,55-59,Professional Occupations,6735
+Other,55-59,Associate Professional and Technical Occupations,2975
+Other,55-59,Administrative and Secretarial Occupations,2380
+Other,55-59,Skilled Trades Occupations,3140
+Other,55-59,Caring Leisure and Other Service Occupations,3615
+Other,55-59,Sales and Customer Service Occupations,2290
+Other,55-59,Process Plant and Machine Operatives,3825
+Other,55-59,Elementary Occupations,6100
+Other,60-64,Managers, Directors and Senior Officials,3490
+Other,60-64,Professional Occupations,4365
+Other,60-64,Associate Professional and Technical Occupations,1835
+Other,60-64,Administrative and Secretarial Occupations,1685
+Other,60-64,Skilled Trades Occupations,1945
+Other,60-64,Caring Leisure and Other Service Occupations,2270
+Other,60-64,Sales and Customer Service Occupations,1635
+Other,60-64,Process Plant and Machine Operatives,2400
+Other,60-64,Elementary Occupations,3610
+
+
+
