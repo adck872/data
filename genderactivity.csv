@@ -4,7 +4,7 @@ Asian,Female,Economically active: Self-Employed,106650
 Asian,Female,Economically active: Unemployed,92250
 Asian,Female,Economically inactive: Student,236580
 Asian,Female,Economically inactive: Looking after home or family,591000
-Asian,Female,Economically inactive: Long-term sick or disabled,55130
+Asian,Female,Economically inactive: Long term sick or disabled,55130
 Asian,Female,Economically inactive: Retired,29110
 Asian,Female,Economically inactive: Other,92235
 Asian,male,Economically active: Employee,997465
@@ -12,7 +12,7 @@ Asian,male,Economically active: Self-Employed,287545
 Asian,male,Economically active: Unemployed,107690
 Asian,male,Economically inactive: Student,230875
 Asian,male,Economically inactive: Looking after home or family,54045
-Asian,male,Economically inactive: Long-term sick or disabled,49770
+Asian,male,Economically inactive: Long term sick or disabled,49770
 Asian,male,Economically inactive: Retired,19775
 Asian,male,Economically inactive: Other,99840
 Black,Female,Economically active: Employee,490070
@@ -20,7 +20,7 @@ Black,Female,Economically active: Self-Employed,48865
 Black,Female,Economically active: Unemployed,68305
 Black,Female,Economically inactive: Student,111285
 Black,Female,Economically inactive: Looking after home or family,75620
-Black,Female,Economically inactive: Long-term sick or disabled,33420
+Black,Female,Economically inactive: Long term sick or disabled,33420
 Black,Female,Economically inactive: Retired,10025
 Black,Female,Economically inactive: Other,43675
 Black,male,Economically active: Employee,395490
@@ -28,7 +28,7 @@ Black,male,Economically active: Self-Employed,95405
 Black,male,Economically active: Unemployed,75475
 Black,male,Economically inactive: Student,100680
 Black,male,Economically inactive: Looking after home or family,17035
-Black,male,Economically inactive: Long-term sick or disabled,29685
+Black,male,Economically inactive: Long term sick or disabled,29685
 Black,male,Economically inactive: Retired,6140
 Black,male,Economically inactive: Other,56075
 Mixed,Female,Economically active: Employee,190340
@@ -36,7 +36,7 @@ Mixed,Female,Economically active: Self-Employed,35405
 Mixed,Female,Economically active: Unemployed,31845
 Mixed,Female,Economically inactive: Student,71815
 Mixed,Female,Economically inactive: Looking after home or family,38460
-Mixed,Female,Economically inactive: Long-term sick or disabled,21445
+Mixed,Female,Economically inactive: Long term sick or disabled,21445
 Mixed,Female,Economically inactive: Retired,4725
 Mixed,Female,Economically inactive: Other,18370
 Mixed,male,Economically active: Employee,223325
@@ -44,7 +44,7 @@ Mixed,male,Economically active: Self-Employed,36505
 Mixed,male,Economically active: Unemployed,75475
 Mixed,male,Economically inactive: Student,68210
 Mixed,male,Economically inactive: Looking after home or family,8405
-Mixed,male,Economically inactive: Long-term sick or disabled,20140
+Mixed,male,Economically inactive: Long term sick or disabled,20140
 Mixed,male,Economically inactive: Retired,3610
 Mixed,male,Economically inactive: Other,25645
 White,Female,Economically active: Employee,9561375
@@ -52,7 +52,7 @@ White,Female,Economically active: Self-Employed,1174245
 White,Female,Economically active: Unemployed,525830
 White,Female,Economically inactive: Student,914045
 White,Female,Economically inactive: Looking after home or family,1259580
-White,Female,Economically inactive: Long-term sick or disabled,794060
+White,Female,Economically inactive: Long term sick or disabled,794060
 White,Female,Economically inactive: Retired,598420
 White,Female,Economically inactive: Other,461885
 White,male,Economically active: Employee,9073695
@@ -60,7 +60,7 @@ White,male,Economically active: Self-Employed,2335495
 White,male,Economically active: Unemployed,651650
 White,male,Economically inactive: Student,881920
 White,male,Economically inactive: Looking after home or family,246770
-White,male,Economically inactive: Long-term sick or disabled,732185
+White,male,Economically inactive: Long term sick or disabled,732185
 White,male,Economically inactive: Retired,488525
 White,male,Economically inactive: Other,541445
 Other,Female,Economically active: Employee,4186010
@@ -68,7 +68,7 @@ Other,Female,Economically active: Self-Employed,30285
 Other,Female,Economically active: Unemployed,24970
 Other,Female,Economically inactive: Student,56535
 Other,Female,Economically inactive: Looking after home or family,81915
-Other,Female,Economically inactive: Long-term sick or disabled,17925
+Other,Female,Economically inactive: Long term sick or disabled,17925
 Other,Female,Economically inactive: Retired,5395
 Other,Female,Economically inactive: Other,29530
 Other,male,Economically active: Employee,209530
@@ -76,6 +76,6 @@ Other,male,Economically active: Self-Employed,74750
 Other,male,Economically active: Unemployed,31385
 Other,male,Economically inactive: Student,55580
 Other,male,Economically inactive: Looking after home or family,15710
-Other,male,Economically inactive: Long-term sick or disabled,18035
+Other,male,Economically inactive: Long term sick or disabled,18035
 Other,male,Economically inactive: Retired,4355
 Other,male,Economically inactive: Other,38005
