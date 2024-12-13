@@ -1,0 +1,332 @@
+Lower tier local authorities Code,Lower tier local authorities,Economic activity status (20 categories),Observation
+E06000001,Hartlepool,Economically inactive,33934
+E06000002,Middlesbrough,Economically inactive,51691
+E06000003,Redcar and Cleveland,Economically inactive,52716
+E06000004,Stockton-on-Tees,Economically inactive,65666
+E06000005,Darlington,Economically inactive,35774
+E06000006,Halton,Economically inactive,41901
+E06000007,Warrington,Economically inactive,64747
+E06000008,Blackburn with Darwen,Economically inactive,51398
+E06000009,Blackpool,Economically inactive,51987
+E06000010,Kingston upon Hull,Economically inactive,85720
+E06000011,East Riding of Yorkshire,Economically inactive,125344
+E06000012,North East Lincolnshire,Economically inactive,54480
+E06000013,North Lincolnshire,Economically inactive,59019
+E06000014,York,Economically inactive,70850
+E06000015,Derby,Economically inactive,84846
+E06000016,Leicester,Economically inactive,121440
+E06000017,Rutland,Economically inactive,14872
+E06000018,Nottingham,Economically inactive,121386
+E06000019,Herefordshire,Economically inactive,64969
+E06000020,Telford and Wrekin,Economically inactive,58290
+E06000021,Stoke-on-Trent,Economically inactive,85927
+E06000022,Bath and North East Somerset,Economically inactive,67164
+E06000023,Bristol,Economically inactive,137056
+E06000024,North Somerset,Economically inactive,71928
+E06000025,South Gloucestershire,Economically inactive,83900
+E06000026,Plymouth,Economically inactive,90480
+E06000027,Torbay,Economically inactive,54651
+E06000030,Swindon,Economically inactive,63249
+E06000031,Peterborough,Economically inactive,60472
+E06000032,Luton,Economically inactive,64849
+E06000033,Southend-on-Sea,Economically inactive,57774
+E06000034,Thurrock,Economically inactive,45251
+E06000035,Medway,Economically inactive,82184
+E06000036,Bracknell Forest,Economically inactive,30534
+E06000037,West Berkshire,Economically inactive,45227
+E06000038,Reading,Economically inactive,46664
+E06000039,Slough,Economically inactive,39214
+E06000040,Windsor and Maidenhead,Economically inactive,43580
+E06000041,Wokingham,Economically inactive,47578
+E06000042,Milton Keynes,Economically inactive,73151
+E06000043,Brighton and Hove,Economically inactive,85240
+E06000044,Portsmouth,Economically inactive,65442
+E06000045,Southampton,Economically inactive,77785
+E06000046,Isle of Wight,Economically inactive,58185
+E06000047,County Durham,Economically inactive,198474
+E06000049,Cheshire East,Economically inactive,129185
+E06000050,Cheshire West and Chester,Economically inactive,118130
+E06000051,Shropshire,Economically inactive,113335
+E06000052,Cornwall,Economically inactive,210803
+E06000053,Isles of Scilly,Economically inactive,601
+E06000054,Wiltshire,Economically inactive,157039
+E06000055,Bedford,Economically inactive,52307
+E06000056,Central Bedfordshire,Economically inactive,79468
+E06000057,Northumberland,Economically inactive,120248
+E06000058,"Bournemouth, Christchurch and Poole",Economically inactive,137693
+E06000059,Dorset,Economically inactive,147219
+E06000060,Buckinghamshire,Economically inactive,157907
+E06000061,North Northamptonshire,Economically inactive,102526
+E06000062,West Northamptonshire,Economically inactive,117122
+E07000008,Cambridge,Economically inactive,50552
+E07000009,East Cambridgeshire,Economically inactive,25214
+E07000010,Fenland,Economically inactive,35443
+E07000011,Huntingdonshire,Economically inactive,53411
+E07000012,South Cambridgeshire,Economically inactive,45312
+E07000026,Allerdale,Economically inactive,34495
+E07000027,Barrow-in-Furness,Economically inactive,23142
+E07000028,Carlisle,Economically inactive,36071
+E07000029,Copeland,Economically inactive,24063
+E07000030,Eden,Economically inactive,18452
+E07000031,South Lakeland,Economically inactive,38067
+E07000032,Amber Valley,Economically inactive,42441
+E07000033,Bolsover,Economically inactive,26625
+E07000034,Chesterfield,Economically inactive,36121
+E07000035,Derbyshire Dales,Economically inactive,26688
+E07000036,Erewash,Economically inactive,36048
+E07000037,High Peak,Economically inactive,29181
+E07000038,North East Derbyshire,Economically inactive,36804
+E07000039,South Derbyshire,Economically inactive,31049
+E07000040,East Devon,Economically inactive,58199
+E07000041,Exeter,Economically inactive,48075
+E07000042,Mid Devon,Economically inactive,26549
+E07000043,North Devon,Economically inactive,35056
+E07000044,South Hams,Economically inactive,32955
+E07000045,Teignbridge,Economically inactive,48925
+E07000046,Torridge,Economically inactive,26142
+E07000047,West Devon,Economically inactive,22045
+E07000061,Eastbourne,Economically inactive,37816
+E07000062,Hastings,Economically inactive,30930
+E07000063,Lewes,Economically inactive,36421
+E07000064,Rother,Economically inactive,39575
+E07000065,Wealden,Economically inactive,56144
+E07000066,Basildon,Economically inactive,54691
+E07000067,Braintree,Economically inactive,46733
+E07000068,Brentwood,Economically inactive,23360
+E07000069,Castle Point,Economically inactive,31501
+E07000070,Chelmsford,Economically inactive,53893
+E07000071,Colchester,Economically inactive,58847
+E07000072,Epping Forest,Economically inactive,40702
+E07000073,Harlow,Economically inactive,24276
+E07000074,Maldon,Economically inactive,22845
+E07000075,Rochford,Economically inactive,28228
+E07000076,Tendring,Economically inactive,62758
+E07000077,Uttlesford,Economically inactive,26049
+E07000078,Cheltenham,Economically inactive,36563
+E07000079,Cotswold,Economically inactive,30663
+E07000080,Forest of Dean,Economically inactive,31269
+E07000081,Gloucester,Economically inactive,37983
+E07000082,Stroud,Economically inactive,38159
+E07000083,Tewkesbury,Economically inactive,29127
+E07000084,Basingstoke and Deane,Economically inactive,48699
+E07000085,East Hampshire,Economically inactive,39714
+E07000086,Eastleigh,Economically inactive,38118
+E07000087,Fareham,Economically inactive,37943
+E07000088,Gosport,Economically inactive,26645
+E07000089,Hart,Economically inactive,27915
+E07000090,Havant,Economically inactive,43516
+E07000091,New Forest,Economically inactive,66965
+E07000092,Rushmoor,Economically inactive,25324
+E07000093,Test Valley,Economically inactive,38582
+E07000094,Winchester,Economically inactive,41461
+E07000095,Broxbourne,Economically inactive,28468
+E07000096,Dacorum,Economically inactive,42992
+E07000098,Hertsmere,Economically inactive,30667
+E07000099,North Hertfordshire,Economically inactive,37732
+E07000102,Three Rivers,Economically inactive,25909
+E07000103,Watford,Economically inactive,25022
+E07000105,Ashford,Economically inactive,40090
+E07000106,Canterbury,Economically inactive,61374
+E07000107,Dartford,Economically inactive,28871
+E07000108,Dover,Economically inactive,42153
+E07000109,Gravesham,Economically inactive,31544
+E07000110,Maidstone,Economically inactive,51873
+E07000111,Sevenoaks,Economically inactive,37875
+E07000112,Folkestone and Hythe,Economically inactive,40790
+E07000113,Swale,Economically inactive,48881
+E07000114,Thanet,Economically inactive,52076
+E07000115,Tonbridge and Malling,Economically inactive,38535
+E07000116,Tunbridge Wells,Economically inactive,34118
+E07000117,Burnley,Economically inactive,32465
+E07000118,Chorley,Economically inactive,36860
+E07000119,Fylde,Economically inactive,31912
+E07000120,Hyndburn,Economically inactive,27788
+E07000121,Lancaster,Economically inactive,53858
+E07000122,Pendle,Economically inactive,33212
+E07000123,Preston,Economically inactive,47479
+E07000124,Ribble Valley,Economically inactive,20214
+E07000125,Rossendale,Economically inactive,22621
+E07000126,South Ribble,Economically inactive,34744
+E07000127,West Lancashire,Economically inactive,41811
+E07000128,Wyre,Economically inactive,44045
+E07000129,Blaby,Economically inactive,30155
+E07000130,Charnwood,Economically inactive,63931
+E07000131,Harborough,Economically inactive,30112
+E07000132,Hinckley and Bosworth,Economically inactive,35972
+E07000133,Melton,Economically inactive,16579
+E07000134,North West Leicestershire,Economically inactive,32164
+E07000135,Oadby and Wigston,Economically inactive,19769
+E07000136,Boston,Economically inactive,22324
+E07000137,East Lindsey,Economically inactive,62332
+E07000138,Lincoln,Economically inactive,36474
+E07000139,North Kesteven,Economically inactive,39039
+E07000140,South Holland,Economically inactive,31789
+E07000141,South Kesteven,Economically inactive,46826
+E07000142,West Lindsey,Economically inactive,34961
+E07000143,Breckland,Economically inactive,49415
+E07000144,Broadland,Economically inactive,45678
+E07000145,Great Yarmouth,Economically inactive,38244
+E07000146,King's Lynn and West Norfolk,Economically inactive,56489
+E07000147,North Norfolk,Economically inactive,45527
+E07000148,Norwich,Economically inactive,49708
+E07000149,South Norfolk,Economically inactive,47129
+E07000163,Craven,Economically inactive,20340
+E07000164,Hambleton,Economically inactive,32248
+E07000165,Harrogate,Economically inactive,53020
+E07000166,Richmondshire,Economically inactive,16210
+E07000167,Ryedale,Economically inactive,19553
+E07000168,Scarborough,Economically inactive,43135
+E07000169,Selby,Economically inactive,27598
+E07000170,Ashfield,Economically inactive,41312
+E07000171,Bassetlaw,Economically inactive,40088
+E07000172,Broxtowe,Economically inactive,38123
+E07000173,Gedling,Economically inactive,37773
+E07000174,Mansfield,Economically inactive,36288
+E07000175,Newark and Sherwood,Economically inactive,42406
+E07000176,Rushcliffe,Economically inactive,38608
+E07000177,Cherwell,Economically inactive,42389
+E07000178,Oxford,Economically inactive,59049
+E07000179,South Oxfordshire,Economically inactive,42355
+E07000180,Vale of White Horse,Economically inactive,39145
+E07000181,West Oxfordshire,Economically inactive,33001
+E07000187,Mendip,Economically inactive,38192
+E07000188,Sedgemoor,Economically inactive,42103
+E07000189,South Somerset,Economically inactive,59745
+E07000192,Cannock Chase,Economically inactive,31100
+E07000193,East Staffordshire,Economically inactive,38334
+E07000194,Lichfield,Economically inactive,35958
+E07000195,Newcastle-under-Lyme,Economically inactive,43541
+E07000196,South Staffordshire,Economically inactive,40406
+E07000197,Stafford,Economically inactive,45229
+E07000198,Staffordshire Moorlands,Economically inactive,34206
+E07000199,Tamworth,Economically inactive,23564
+E07000200,Babergh,Economically inactive,32554
+E07000202,Ipswich,Economically inactive,40716
+E07000203,Mid Suffolk,Economically inactive,34546
+E07000207,Elmbridge,Economically inactive,38774
+E07000208,Epsom and Ewell,Economically inactive,22890
+E07000209,Guildford,Economically inactive,45927
+E07000210,Mole Valley,Economically inactive,28311
+E07000211,Reigate and Banstead,Economically inactive,41656
+E07000212,Runnymede,Economically inactive,27616
+E07000213,Spelthorne,Economically inactive,28808
+E07000214,Surrey Heath,Economically inactive,26338
+E07000215,Tandridge,Economically inactive,26375
+E07000216,Waverley,Economically inactive,40518
+E07000217,Woking,Economically inactive,27746
+E07000218,North Warwickshire,Economically inactive,20688
+E07000219,Nuneaton and Bedworth,Economically inactive,42000
+E07000220,Rugby,Economically inactive,31801
+E07000221,Stratford-on-Avon,Economically inactive,44127
+E07000222,Warwick,Economically inactive,47055
+E07000223,Adur,Economically inactive,21683
+E07000224,Arun,Economically inactive,62721
+E07000225,Chichester,Economically inactive,45628
+E07000226,Crawley,Economically inactive,30019
+E07000227,Horsham,Economically inactive,45586
+E07000228,Mid Sussex,Economically inactive,43807
+E07000229,Worthing,Economically inactive,36053
+E07000234,Bromsgrove,Economically inactive,31824
+E07000235,Malvern Hills,Economically inactive,29768
+E07000236,Redditch,Economically inactive,25401
+E07000237,Worcester,Economically inactive,31004
+E07000238,Wychavon,Economically inactive,44654
+E07000239,Wyre Forest,Economically inactive,36328
+E07000240,St Albans,Economically inactive,40236
+E07000241,Welwyn Hatfield,Economically inactive,35534
+E07000242,East Hertfordshire,Economically inactive,41556
+E07000243,Stevenage,Economically inactive,23422
+E07000244,East Suffolk,Economically inactive,94914
+E07000245,West Suffolk,Economically inactive,54927
+E07000246,Somerset West and Taunton,Economically inactive,55081
+E08000001,Bolton,Economically inactive,97751
+E08000002,Bury,Economically inactive,61410
+E08000003,Manchester,Economically inactive,178670
+E08000004,Oldham,Economically inactive,81069
+E08000005,Rochdale,Economically inactive,73878
+E08000006,Salford,Economically inactive,79141
+E08000007,Stockport,Economically inactive,92383
+E08000008,Tameside,Economically inactive,73057
+E08000009,Trafford,Economically inactive,69033
+E08000010,Wigan,Economically inactive,105798
+E08000011,Knowsley,Economically inactive,50416
+E08000012,Liverpool,Economically inactive,178072
+E08000013,St. Helens,Economically inactive,63242
+E08000014,Sefton,Economically inactive,100731
+E08000015,Wirral,Economically inactive,115088
+E08000016,Barnsley,Economically inactive,82272
+E08000017,Doncaster,Economically inactive,104662
+E08000018,Rotherham,Economically inactive,90917
+E08000019,Sheffield,Economically inactive,196190
+E08000021,Newcastle upon Tyne,Economically inactive,111555
+E08000022,North Tyneside,Economically inactive,68645
+E08000023,South Tyneside,Economically inactive,53497
+E08000024,Sunderland,Economically inactive,100126
+E08000025,Birmingham,Economically inactive,394898
+E08000026,Coventry,Economically inactive,113185
+E08000027,Dudley,Economically inactive,107986
+E08000028,Sandwell,Economically inactive,110832
+E08000029,Solihull,Economically inactive,71041
+E08000030,Walsall,Economically inactive,94605
+E08000031,Wolverhampton,Economically inactive,85454
+E08000032,Bradford,Economically inactive,182295
+E08000033,Calderdale,Economically inactive,67879
+E08000034,Kirklees,Economically inactive,144081
+E08000035,Leeds,Economically inactive,257351
+E08000036,Wakefield,Economically inactive,114386
+E08000037,Gateshead,Economically inactive,68234
+E09000001,City of London,Economically inactive,2326
+E09000002,Barking and Dagenham,Economically inactive,58079
+E09000003,Barnet,Economically inactive,109594
+E09000004,Bexley,Economically inactive,70481
+E09000005,Brent,Economically inactive,99160
+E09000006,Bromley,Economically inactive,93998
+E09000007,Camden,Economically inactive,66384
+E09000008,Croydon,Economically inactive,106260
+E09000009,Ealing,Economically inactive,105080
+E09000010,Enfield,Economically inactive,101167
+E09000011,Greenwich,Economically inactive,74547
+E09000012,Hackney,Economically inactive,63699
+E09000013,Hammersmith and Fulham,Economically inactive,48860
+E09000014,Haringey,Economically inactive,69672
+E09000015,Harrow,Economically inactive,76081
+E09000016,Havering,Economically inactive,77298
+E09000017,Hillingdon,Economically inactive,87441
+E09000018,Hounslow,Economically inactive,78071
+E09000019,Islington,Economically inactive,58713
+E09000020,Kensington and Chelsea,Economically inactive,48017
+E09000021,Kingston upon Thames,Economically inactive,46082
+E09000022,Lambeth,Economically inactive,71801
+E09000023,Lewisham,Economically inactive,72838
+E09000024,Merton,Economically inactive,53872
+E09000025,Newham,Economically inactive,95434
+E09000026,Redbridge,Economically inactive,89554
+E09000027,Richmond upon Thames,Economically inactive,53014
+E09000028,Southwark,Economically inactive,74921
+E09000029,Sutton,Economically inactive,55849
+E09000030,Tower Hamlets,Economically inactive,82343
+E09000031,Waltham Forest,Economically inactive,70349
+E09000032,Wandsworth,Economically inactive,72131
+E09000033,Westminster,Economically inactive,67182
+W06000001,Isle of Anglesey,Economically inactive,26283
+W06000002,Gwynedd,Economically inactive,42995
+W06000003,Conwy,Economically inactive,44773
+W06000004,Denbighshire,Economically inactive,35872
+W06000005,Flintshire,Economically inactive,50225
+W06000006,Wrexham,Economically inactive,45225
+W06000008,Ceredigion,Economically inactive,29428
+W06000009,Pembrokeshire,Economically inactive,47017
+W06000010,Carmarthenshire,Economically inactive,69613
+W06000011,Swansea,Economically inactive,90482
+W06000012,Neath Port Talbot,Economically inactive,54741
+W06000013,Bridgend,Economically inactive,52003
+W06000014,Vale of Glamorgan,Economically inactive,44498
+W06000015,Cardiff,Economically inactive,123580
+W06000016,Rhondda Cynon Taf,Economically inactive,84237
+W06000018,Caerphilly,Economically inactive,61655
+W06000019,Blaenau Gwent,Economically inactive,24490
+W06000020,Torfaen,Economically inactive,32171
+W06000021,Monmouthshire,Economically inactive,33680
+W06000022,Newport,Economically inactive,50123
+W06000023,Powys,Economically inactive,48484
+W06000024,Merthyr Tydfil,Economically inactive,20493
